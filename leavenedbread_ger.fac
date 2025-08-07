@@ -2,9 +2,9 @@ Module LeavenedBread_ger;
 
 translate LeavenedBread to german masculine
 {
-swa "Test der Gesäuerten Brote";
-  sn "Test der Gesäuerten Brote"; sg "Test der Gesäuerten Brote"; sd "Test der Gesäuerten Brote"; sa "Test der Gesäuerten Brote";
-  pn "Test der Gesäuerten Brote"; pg "Test der Gesäuerten Brote"; pd "Test der Gesäuerten Brote"; pa "Test der Gesäuerten Brote";
+swa "Test der Gesï¿½uerten Brote";
+  sn "Test der Gesï¿½uerten Brote"; sg "Test der Gesï¿½uerten Brote"; sd "Test der Gesï¿½uerten Brote"; sa "Test der Gesï¿½uerten Brote";
+  pn "Test der Gesï¿½uerten Brote"; pg "Test der Gesï¿½uerten Brote"; pd "Test der Gesï¿½uerten Brote"; pa "Test der Gesï¿½uerten Brote";
 }
 translate HolyBread to german neuter
 {
@@ -14,22 +14,22 @@ swa "Heiliges Brot";
 }
 translate CommonBread to german neuter
 {
-swa "Ordinäres Brot";
-  sn "Ordinäre Brot"; sg "Ordinären Brotes"; sd "Ordinären Brot"; sa "Ordinäre Brot";
-  pn "Ordinären Brote"; pg "Ordinären Brote"; pd "Ordinären Broten"; pa "Ordinären Brote";
+swa "Ordinï¿½res Brot";
+  sn "Ordinï¿½re Brot"; sg "Ordinï¿½ren Brotes"; sd "Ordinï¿½ren Brot"; sa "Ordinï¿½re Brot";
+  pn "Ordinï¿½ren Brote"; pg "Ordinï¿½ren Brote"; pd "Ordinï¿½ren Broten"; pa "Ordinï¿½ren Brote";
 }
 
 translate EmirMortar to german masculinecollective
 {
- swa "Emir Mörser (voll)";
-  sn "Emir Mörser (voll)"; sg "Emir Mörsers (voll)"; sd "Emir Mörser (voll)"; sa "Emir Mörser (voll)";
-  pn "Emir Mörser (voll)"; pg "Emir Mörser (voll)"; pd "Emir Mörsern (voll)"; pa "Emir Mörser (voll)";
+ swa "Emir Mï¿½rser (voll)";
+  sn "Emir Mï¿½rser (voll)"; sg "Emir Mï¿½rsers (voll)"; sd "Emir Mï¿½rser (voll)"; sa "Emir Mï¿½rser (voll)";
+  pn "Emir Mï¿½rser (voll)"; pg "Emir Mï¿½rser (voll)"; pd "Emir Mï¿½rsern (voll)"; pa "Emir Mï¿½rser (voll)";
 }
 translate EmptyEmirMortar to german masculinecollective
 {
- swa "Emir Mörser (leer)";
-  sn "Emir Mörser (leer)"; sg "Emir Mörsers (leer)"; sd "Emir Mörser (leer)"; sa "Emir Mörser (leer)";
-  pn "Emir Mörser (leer)"; pg "Emir Mörser (leer)"; pd "Emir Mörsern (leer)"; pa "Emir Mörser (leer)";
+ swa "Emir Mï¿½rser (leer)";
+  sn "Emir Mï¿½rser (leer)"; sg "Emir Mï¿½rsers (leer)"; sd "Emir Mï¿½rser (leer)"; sa "Emir Mï¿½rser (leer)";
+  pn "Emir Mï¿½rser (leer)"; pg "Emir Mï¿½rser (leer)"; pd "Emir Mï¿½rsern (leer)"; pa "Emir Mï¿½rser (leer)";
 }
 
 translate "Begin the Ritual"
@@ -37,48 +37,48 @@ to german "Beginne das Ritual";
 translate "Drink Beer"
 to german "Trinke Bier";
 translate "Perform the Emotional Devotion"
-to german "Führe die Andacht durch";
+to german "Fï¿½hre die Andacht durch";
 translate "Bless the chosen God"
-to german "Huldige dem gewählten Gott";
+to german "Huldige dem gewï¿½hlten Gott";
 translate "Bake the Holy Bread"
 to german "Backe das Heilige Brot";
 translate "Sacrifice some of the Bread"
 to german "Segne einen Teil des Brotes";
 translate "Holy Bread consumed by a proper Benefactor"
-to german "Ein angemessener Gönner hat das heilige Brot genossen.";
+to german "Ein angemessener Gï¿½nner hat das heilige Brot genossen.";
 
 translate "You begin the Test of Leavened Bread. Developers should complete this section."
-to german "Du beginnst den Test der Gesäuerten Brote. Die Entwickler müssen diesen Bereich erst vervollständigen.";
+to german "Du beginnst den Test der Gesï¿½uerten Brote. Die Entwickler mï¿½ssen diesen Bereich erst vervollstï¿½ndigen.";
 
 translate "Principles of Leavened Bread required you to complete the Ritual of Leavened Bread, and share holy bread with just three others. The Test of Leavened Bread is competitive, based on how many you share bread with."
-to german "Die Prinzipien befähigen dich, das Ritual der Gesäuerten Brote vollziehen zu können und viele heilige Brote mit drei anderen Spielern zu teilen. Der Test der Gesäuerten Brote basiert auf einen Wettbewerb. Teile so mit so vielen Spielern wie möglich die Brote.";
+to german "Die Prinzipien befï¿½higen dich, das Ritual der Gesï¿½uerten Brote vollziehen zu kï¿½nnen und viele heilige Brote mit drei anderen Spielern zu teilen. Der Test der Gesï¿½uerten Brote basiert auf einen Wettbewerb. Teile so mit so vielen Spielern wie mï¿½glich die Brote.";
 
 translate "Begin the Ritual of Leavened Bread"
-to german "Beginne das Ritual der Gesäuerten Brote";
+to german "Beginne das Ritual der Gesï¿½uerten Brote";
 
 translate "You must stand in a group of five to begin the ritual."
-to german "Du musst in einer Fünfergruppe stehen, um das Ritual beginnen zu können.";
+to german "Du musst in einer Fï¿½nfergruppe stehen, um das Ritual beginnen zu kï¿½nnen.";
 
 translate "U1 has not started the Test of Leavened Bread."
-to german "U1(name) hat den Test der Gesäuerten Brote nicht gestartet.";
+to german "U1(name) hat den Test der Gesï¿½uerten Brote nicht gestartet.";
 
 translate "U1 is already performing a Ritual."
 to german "U1(name) vollzieht bereits ein Ritual.";
 
 translate "U1 begins the Ritual of Leavened Bread."
-to german "U1(name) beginnt das Ritual der Gesäuerten Brote.";
+to german "U1(name) beginnt das Ritual der Gesï¿½uerten Brote.";
 
 translate "Disolve the Ritual"
 to german "Breche das Ritual ab";
 
 translate "Really disolve the Ritual of Leavened Bread"
-to german "Wirklich das Ritual der Gesäuerten Brote abbrechen?";
+to german "Wirklich das Ritual der Gesï¿½uerten Brote abbrechen?";
 
 translate "U1 disolves the Ritual of Leavened Bread."
-to german "U1(name) bricht das Ritual der Gesäuerten Brote ab.";
+to german "U1(name) bricht das Ritual der Gesï¿½uerten Brote ab.";
 
 translate "You have a bad feeling - perhaps a god is unhappy?"
-to german "Du hast ein ungutes Gefühl - ist vielleicht ein Gott unglücklich?";
+to german "Du hast ein ungutes Gefï¿½hl - ist vielleicht ein Gott unglï¿½cklich?";
 
 translate "*Bless us oh god as we humbly seek your wisdom*"
 to german "*Bless us oh god as we humbly seek your wisdom*";
@@ -153,28 +153,28 @@ to german "Grabe mit Anderen nach Steinen";
 translate "Cooking a Meal"
 to german "Koche ein Essen";
 translate "Filling Jugs with Water"
-to german "Fülle Krüge mit Wasser";
+to german "Fï¿½lle Krï¿½ge mit Wasser";
 translate "Feeding Sheep"
-to german "Füttere Schafe";
+to german "Fï¿½ttere Schafe";
 translate "Gathering Slate"
 to german "Sammle Schiefer";
 translate "Feeding Rabbits"
-to german "Füttere Hasen";
+to german "Fï¿½ttere Hasen";
 
 translate "New (paid) Citizen"
-to german "Neue Bürger (paid)";
+to german "Neue Bï¿½rger (paid)";
 translate "Newlywed (First Marriage)"
-to german "Frisch vermählt (Erste Ehe)";
+to german "Frisch vermï¿½hlt (Erste Ehe)";
 translate "Recent Initiates of Architecture"
 to german "Neu Eingeweihte der Architektur";
 translate "Recent Initiates of Art and Music"
 to german "Neu Eingeweihte der Kunst und Musik";
 translate "Recent Initiates of The Human Body"
-to german "Neu Eingeweihte in den Menschlichen Körper";
+to german "Neu Eingeweihte in den Menschlichen Kï¿½rper";
 translate "Recent Initiates of Thought"
 to german "Neu Eingeweihte in die Gedanken";
 translate "Recent Initiates of Leadership"
-to german "Neu Eingeweihte in die Führerschaft";
+to german "Neu Eingeweihte in die Fï¿½hrerschaft";
 translate "Recent Initiates of Worship"
 to german "Neu Eingweihte in die Verehrung";
 translate "Recent Initiates of Harmony"
@@ -184,7 +184,7 @@ translate "Special Instructions:"
 to german "Anleitung:";
   
 translate "During the ritual, you must conduct prayers to K1."
-to german "Während des Rituals musst du deine Gebete an K1 richten.";
+to german "Wï¿½hrend des Rituals musst du deine Gebete an K1 richten.";
 
 translate "The bread should be enriched with O1."
 to german "Das Brot muss mit O1(sn) angereichert werden.";
@@ -195,40 +195,40 @@ translate "The O1 flour should be moistened with O2, and O3 Beer."
 to german "Das O1(sn) Mehl muss mit O1(sn) und O3(sn) Bier benetzt werden.";
 
 translate "After the baking, ritualize diligence by K1 and K2, then perform the emotional devotions: K3."
-to german "Nach dem Backen ritualisiere sorgfältig K1 und K2 und vollziehe dann die Anbetungen K3.";
+to german "Nach dem Backen ritualisiere sorgfï¿½ltig K1 und K2 und vollziehe dann die Anbetungen K3.";
 
 translate "Bread should be shared (using the Tests menu) with K1."
-to german "Das Brot muss mit K1 geteilt werden (nutze das Testmenü).";
+to german "Das Brot muss mit K1 geteilt werden (nutze das Testmenï¿½).";
 
 translate "Remove Bread and Clean out the Mortar"
-to german "Entferne das Brot und putze den Mörser aus";
+to german "Entferne das Brot und putze den Mï¿½rser aus";
 
 translate "Make an Emir Mortar"
-to german "Baue einen Emir Mörser";
+to german "Baue einen Emir Mï¿½rser";
 
 translate "It takes 7 deben of Clay to make an Emir Mortar"
-to german "Du brauchst 7 Deben Ton, um einen Emir Mörser zu bauen";
+to german "Du brauchst 7 Deben Ton, um einen Emir Mï¿½rser zu bauen";
 
 translate "Fill the Mortar with Wheat"
-to german "Fülle den Mörser mit Weizen";
+to german "Fï¿½lle den Mï¿½rser mit Weizen";
 
 translate "How many loaves of Emir? (200 Wheat per Loaf)"
 to german "Wieviel Laibe? (200 Weizen pro Laib)";
 
 translate "To bake N1 loaves of Emir requires N2 grains of Wheat."
-to german "Um N1 Laibe zu backen benötigst du N2 Weizenkörner.";
+to german "Um N1 Laibe zu backen benï¿½tigst du N2 Weizenkï¿½rner.";
 
 translate "Add Base Liquid"
-to german "Füge flüssige Lauge zu";
+to german "Fï¿½ge flï¿½ssige Lauge zu";
 
 translate "You need N1 O1."
-to german "Du brauchst N1 O1(pn).";
+to german "Du brauchst N1 O1(N1?pn:sn).";
 
 translate "Add Yeast (Beer)"
-to german "Füge Hefe hinzu (Bier)";
+to german "Fï¿½ge Hefe hinzu (Bier)";
 
 translate "The Bread is ruined (Mostly Raw)"
-to german "Das Brot ist ruiniert (größtenteils roh)";
+to german "Das Brot ist ruiniert (grï¿½ï¿½tenteils roh)";
 translate "The bread is ruined (Underdone)"
 to german "Das Brot ist ruiniert (halb roh)";
 translate "The bread is ruined (Burned)"
@@ -242,10 +242,10 @@ translate "burned"
 to german "verbrannt";
 
 translate "Move to the nearest Bonfire"
-to german "Neben das nächstgelegene Freudenfeuer legen";
+to german "Neben das nï¿½chstgelegene Freudenfeuer legen";
 
 translate "Common Bread"
-to german "Ordinäres Brot";
+to german "Ordinï¿½res Brot";
 
 translate "Savouring the bread..."
 to german "Probiere das Brot...";
@@ -254,29 +254,29 @@ translate "You eat a bit more bread, anticipating a delicious meal."
 to german "Du isst ein wenig mehr Brot und erwartest ein delikates Mahl.";
 
 translate "You eat some bread, which makes a nice start to a meal."
-to german "Du isst etwas Brot und es scheint, es wäre ein guter Beginn für ein Essen.";
+to german "Du isst etwas Brot und es scheint, es wï¿½re ein guter Beginn fï¿½r ein Essen.";
 
 
 translate "Ok, we have this size XXXXXXXXXXL t-shirt at the eGenesis office. Be the first to mention this message and it's yours. Really."
-to german "Ok, es liegt ein XXXXXXXXXXL T-Shirt im eGenesisi Büro. Sei der Erste, der diese Nachricht erhält und es gehört dir. Wirklich.";
+to german "Ok, es liegt ein XXXXXXXXXXL T-Shirt im eGenesisi Bï¿½ro. Sei der Erste, der diese Nachricht erhï¿½lt und es gehï¿½rt dir. Wirklich.";
 translate "You obliterate yet another loaf of bread. You feal a diabetic coma coming on, but you shake it off."
-to german "Du wirfst schon wieder einen Brotlaib weg. Du fühlst ein Diabetikerkoma aufkommen, aber du schüttelst es ab.";
+to german "Du wirfst schon wieder einen Brotlaib weg. Du fï¿½hlst ein Diabetikerkoma aufkommen, aber du schï¿½ttelst es ab.";
 translate "A great thought occurs - maybe if you dunk the bread in water you'd be able to eat it faster, like those atheletes you heard about."
-to german "Dir kommt ein großartiger Gedanke - vielleicht kannst du das Brot essen, wenn du es in Wasser tunkst, so wie manche Athleten, von denen du gehört hast.";
+to german "Dir kommt ein groï¿½artiger Gedanke - vielleicht kannst du das Brot essen, wenn du es in Wasser tunkst, so wie manche Athleten, von denen du gehï¿½rt hast.";
 translate "You stuff yet another hunk of bread into your mouth, chewing furiously. Where the hell is the waiter?"
-to german "Du stopfst dir doch einen weiteren Brotbrocken in den Mund und kaust wütend. Wo zur Hölle ist der Kellner?";
+to german "Du stopfst dir doch einen weiteren Brotbrocken in den Mund und kaust wï¿½tend. Wo zur Hï¿½lle ist der Kellner?";
 translate "You snack on another piece of bread. Perhaps some wine and cheese would be a nice accompaniment? Oh, but there's a meal coming!"
-to german "Du knabberst an einem anderen Brotstück. Vielleicht wären etwas Wein und Käse eine nette Beigabe? Oh... da kommt ja schon das Essen!";
+to german "Du knabberst an einem anderen Brotstï¿½ck. Vielleicht wï¿½ren etwas Wein und Kï¿½se eine nette Beigabe? Oh... da kommt ja schon das Essen!";
 translate "You enjoy a bit more bread. There's a good meal coming - be sure not to fill up on bread!"
-to german "Du genießt ein wenig mehr Brot. Es wird ein gutes Essen folgen -  stopfe dich nicht so mit Brot voll!";
+to german "Du genieï¿½t ein wenig mehr Brot. Es wird ein gutes Essen folgen -  stopfe dich nicht so mit Brot voll!";
 translate "You break off another bit of bread, and chew slowly, savoring it's healthy effects. You can't wait for the main dish."
-to german "Du brist ein weitere Brotstück ab und kaust langsam und kostest seine heilenden Effekte. Du kannst nicht bis zum Hauptgericht warten.";
+to german "Du brist ein weitere Brotstï¿½ck ab und kaust langsam und kostest seine heilenden Effekte. Du kannst nicht bis zum Hauptgericht warten.";
 
 translate "You are not yet prepared to experience another taste of Holy Bread. Wait until the effects of the last serving wear off."
-to german "Du bist noch nicht darauf vorbereitet, ein weiteres Heiliges Brot zu probieren. Warte, bis die Effekte des letzten Probierens vorüber sind.";
+to german "Du bist noch nicht darauf vorbereitet, ein weiteres Heiliges Brot zu probieren. Warte, bis die Effekte des letzten Probierens vorï¿½ber sind.";
 
 translate "Although the bread was once Holy, the preparing priests' attention is no longer focused."
-to german "Obwohl das Brot einmal heilig war, ist die Aufmerksamkeit des vorbereitenden Priesters nicht mehr länger darauf gerichtet.";
+to german "Obwohl das Brot einmal heilig war, ist die Aufmerksamkeit des vorbereitenden Priesters nicht mehr lï¿½nger darauf gerichtet.";
 
 translate "The bread is stale, and Holy Bread must be eaten fresh."
 to german "Das Brot ist schal und heiliges Brot muss frisch gegessen werden.";
@@ -285,7 +285,7 @@ translate "Although the bread was properly prepared, the priests failed to sacri
 to german "Obwohl das Brot richtig zubereitet wurde, haben die Priester es nicht geschafft, den Gott zufriedenzustellen.";
 
 translate "Althought the bread was holy, it was not destined for you."
-to german "Obwohl das Brot heilig war, war es nicht für dich bestimmt.";
+to german "Obwohl das Brot heilig war, war es nicht fï¿½r dich bestimmt.";
 
 translate "Sacrifice"
 to german "Opfern";
@@ -294,7 +294,7 @@ translate "Holy Bread: O1"
 to german "Heiliges Brot: O1(sn)";
 
 translate "Checking Current Ritual..."
-to german "Prüfe das laufende Ritual...";
+to german "Prï¿½fe das laufende Ritual...";
 
 translate "You are currently in a ritual that has had K1 eat your bread."
 to german "Im laufenden Ritual haben K1 dein Brot gegessen.";
@@ -303,10 +303,7 @@ translate "You are not currently part of a Ritual."
 to german "Im Moment bist du kein Teil eines Rituals.";
 
 translate "Clean out the Mortar"
-to german "Putze den Mörser aus";
-
-translate "You need N1 O1."
-to german "Du benötigst N1 O1(N1?pn:sn).";
+to german "Putze den Mï¿½rser aus";
 
 translate "Add Enrichment"
 to german "Verzieren";

@@ -28,7 +28,7 @@ translate RSCommand to german feminine
 translate RSHeket to german neuter
 {
   swa "Hekets Sprung"; 
-  sn "Hekets Sprung"; pn "Hekets Sprünge";
+  sn "Hekets Sprung"; pn "Hekets Sprï¿½nge";
 }
 
 translate RSSeven to german feminine
@@ -85,7 +85,7 @@ translate "People Defeated:"
 to german "Gegner besiegt:";
 
 translate "Current Matches:"
-to german "Aktuelle Spiele:";
+to german "Laufende Spiele:";
 
 translate "None Yet."
 to german "Niemanden zur Zeit.";
@@ -109,13 +109,13 @@ translate "You can only restart every N1, you must wait N2."
 to german "Du kannst nur alle N1 neustarten, du musst N2 warten.";
 
 translate "Are you sure you want to restart the O1 tournament?"
-to german "Sicher, dass du das O1(sn) Tunier neu starten möchtest?";
+to german "Sicher, dass du das O1(sn) Tunier neu starten mï¿½chtest?";
 
 translate "This person has been eliminated from the tournament because they have lost too many matches."
 to german "Diese Person wurde vom Tunier ausgeschlossen, da sie zu oft verloren hat.";
 
 translate "You have been eliminated from the tournament because you lost too many matches. Your options are to spend one of your wins to cancel one of your losses, or to restart the tournament entirely.  You can only restart every K1."
-to german "Du wurdest vom Tunier ausgeschlossen, da du zu oft verloren hast. Es besteht die Möglichkeit einen deiner Siege zu verwerfen und damit eine Niederlage zu entfernen oder das Tunier neu zu starten. Du kannst nur alle K1 neu starten.";
+to german "Du wurdest vom Tunier ausgeschlossen, da du zu oft verloren hast. Es besteht die Mï¿½glichkeit einen deiner Siege zu verwerfen und damit eine Niederlage zu entfernen oder das Tunier neu zu starten. Du kannst nur alle K1 neu starten.";
 
 translate "Spend a Win"
 to german "Opfere einen Sieg";
@@ -129,9 +129,6 @@ to german "Freiwilliger Neustart";
 translate "People Defeated:\n\nNone Yet."
 to german "Abgelehnte Spieler:\n\nKeiner bislang.";
 
-translate "Current Matches:"
-to german "Laufende Spiele:";
-
 translate "Current Matches:\n\nNone."
 to german "Laufende Spiele:\n\nKeine.";
 
@@ -142,25 +139,25 @@ translate "Reset all RankSys Data"
 to german "Resette alle RankSys Daten";
 
 translate "Since you're different ranks, this game will be practice only."
-to german "Da du einen anderen Rang hast, wird dieses Spiel nur als Übung gewertet.";
+to german "Da du einen anderen Rang hast, wird dieses Spiel nur als ï¿½bung gewertet.";
 
 translate "Since one of you has already defeated the other, this game will be practice only."
-to german "Da einer von euch schon den Anderen besiegt hat, wird dieses Spiel nur als Übung gewertet.";
+to german "Da einer von euch schon den Anderen besiegt hat, wird dieses Spiel nur als ï¿½bung gewertet.";
 
 translate "You already have too many matches in progress. You cannot start a new one. This game will be practice only."
-to german "Du hast zuviele Spiele laufen. Du kannst kein Neues starten. Dieses Spiel wird als Übung gewertet.";
+to german "Du hast zuviele Spiele laufen. Du kannst kein Neues starten. Dieses Spiel wird als ï¿½bung gewertet.";
 
 translate "Your opponent has too many matches in progress. He cannot start a new one. This game will be practice only."
-to german "Dein Gegner hat zuviele Spiele laufen. Er kann kein Neues starten. Dieses Spiel wird als Übung gewertet.";
+to german "Dein Gegner hat zuviele Spiele laufen. Er kann kein Neues starten. Dieses Spiel wird als ï¿½bung gewertet.";
 
 translate "Since you're different ranks, that game was practice only."
-to german "Da ihr verschiedenen Ränge habt, war dies ein Übungsspiel";
+to german "Da ihr verschiedenen Rï¿½nge habt, war dies ein ï¿½bungsspiel";
 
 translate "One of you has already lost too many matches, so this game will be practice only."
-to german "Einer von euch hat bereits zu viele Spiele verloren, darum wird dieses Spiel nur als Übung gewertet.";
+to german "Einer von euch hat bereits zu viele Spiele verloren, darum wird dieses Spiel nur als ï¿½bung gewertet.";
 
 translate "Since one of you has already defeated the other, that game was practice only."
-to german "Da Einer von euch schon den Anderen besiegt hat, war dies nur ein Übungsspiel.";
+to german "Da Einer von euch schon den Anderen besiegt hat, war dies nur ein ï¿½bungsspiel.";
 
 translate "You already have too many matches in progress. You cannot start a new one."
 to german "Du hast zuviele offene Spiele. Du kannst kein Neues starten.";
@@ -169,16 +166,16 @@ translate "Your opponent has too many matches in progress. He cannot start a new
 to german "Dein Gegner hat zuviele offene Spiele. Er kann kein Neues starten.";
 
 translate "Your victory was added to your match advantage."
-to german "Dein Sieg wurde zu deinem Spielfortschritt hinzugezählt.";
+to german "Dein Sieg wurde zu deinem Spielfortschritt hinzugezï¿½hlt.";
 
 translate "Your loss was subtracted from your match advantage."
 to german "Deine Niederlage wurde von deiner Spielfortschritt abgezogen.";
 
 translate "You won the match, you are closer to the next rank!"
-to german "Du hast das Spiel gewonnen, du bist dem Rangaufstieg näher gekommen!";
+to german "Du hast das Spiel gewonnen, du bist dem Rangaufstieg nï¿½her gekommen!";
 
 translate "You lost the match. Your opponent is closer to his next rank."
-to german "Du hast das Spiel verloren. Dein Gegner ist dem Rangaufstieg näher gekommen.";
+to german "Du hast das Spiel verloren. Dein Gegner ist dem Rangaufstieg nï¿½her gekommen.";
 
 translate "You won the match. You advanced in rank!"
 to german "Du hast das Spiel gewonnen. Du steigst einen Rang auf!";
@@ -208,10 +205,10 @@ translate "Distribute Victories"
 to german "Verteile Siege";
 
 translate "Are you sure you want to distribute Victories in O1 now?"
-to german "Bist du sicher, dass du jetzt Siege in O1(sn) vergeben möchtest?";
+to german "Bist du sicher, dass du jetzt Siege in O1(sn) vergeben mï¿½chtest?";
 
 translate "Final Report on O1"
-to german "Endbericht für O1(sn)";
+to german "Endbericht fï¿½r O1(sn)";
 
 translate "Conflict Discipline Status Report"
 to german "Statusreport der Konfliktdiszipinen";

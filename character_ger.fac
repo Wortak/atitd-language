@@ -16,7 +16,7 @@ translate Worship to german feminine
 { swa "Verehrung"; sn "Verehrung"; pn "Verehrung"; }
 
 translate TheHumanBody to german feminine
-{ swa "Menschlicher Körper"; sn "Menschlicher Körper"; pn "Menschlichen Körper"; }
+{ swa "Menschlicher Kï¿½rper"; sn "Menschlicher Kï¿½rper"; pn "Menschlichen Kï¿½rper"; }
 
 translate Architecture to german feminine
 { swa "Architektur"; sn "Architektur"; pn "Architekturen"; }
@@ -34,7 +34,7 @@ translate "Worship"
 to german "Verehrung";
 
 translate "The Human Body"
-to german "Menschlicher Körper";
+to german "Menschlicher Kï¿½rper";
 
 translate "Architecture"
 to german "Architektur";
@@ -52,7 +52,7 @@ swa "Einwanderer"; sn "Einwanderer"; pn "Einwanderer";
 
 translate RankStudent to german masculine
 {
-swa "Schüler"; sn "Schüler"; pn "Schüler";
+swa "Schï¿½ler"; sn "Schï¿½ler"; pn "Schï¿½ler";
 }
 
 translate RankPrentice to german masculine
@@ -92,14 +92,14 @@ swa "Monumenterschaffer"; sn "Monumenterschaffer"; pn "Monumenterschaffer";
 
 translate RankInitiate to german masculine
 {
-swa "Anfänger"; sn "Anfänger"; pn "Anfänger";
+swa "Anfï¿½nger"; sn "Anfï¿½nger"; pn "Anfï¿½nger";
 }
 
 translate "Peasant"
 	to german "Einwanderer";
 
 translate "Student"
-	to german "Schüler";
+	to german "Schï¿½ler";
 
 translate "Prentice"
 	to german "Lehrling";
@@ -122,8 +122,8 @@ translate "Pharaoh's Oracle"
 translate "Monument Builder"
 	to german "Monumenterschaffer";
 
-translate "Initiate"
-	to german "Anfänger";
+translate "Initiate" 
+	to german "Eingeweihter";
 
 translate NumZero to german feminine
 {
@@ -151,7 +151,7 @@ swa "Vier"; sn "Vier"; pn "Vier";
 
 translate NumFive to german feminine
 {
-swa "Fünf"; sn "Fünf"; pn "Fünf";}
+swa "Fï¿½nf"; sn "Fï¿½nf"; pn "Fï¿½nf";}
 
 translate NumSix to german feminine
 {
@@ -185,7 +185,7 @@ swa "Elf"; sn "Elf"; pn "Elf";
 
 translate NumTwelve to german feminine
 {
-swa "Zwölf"; sn "Zwölf"; pn "Zwölf";
+swa "Zwï¿½lf"; sn "Zwï¿½lf"; pn "Zwï¿½lf";
 }
 
 translate NumThirteen to german feminine
@@ -214,7 +214,7 @@ translate "Four"
 	to german "Vier";
 
 translate "Five"
-	to german "Fünf";
+	to german "Fï¿½nf";
 
 translate "Six"
 	to german "Sechs";
@@ -235,7 +235,7 @@ translate "Eleven"
 	to german "Elf";
 
 translate "Twelve"
-	to german "Zwölf";
+	to german "Zwï¿½lf";
 
 translate "Thirteen"
 	to german "Dreizehn";
@@ -263,7 +263,7 @@ swa "Vierte"; sn "Vierte"; pn "Vierte";
 }
 translate OrdFive to german feminine
 {
-swa "Fünfte"; sn "Fünfte"; pn"Fünfte";
+swa "Fï¿½nfte"; sn "Fï¿½nfte"; pn"Fï¿½nfte";
 }
 translate OrdSix to german feminine
 {
@@ -302,7 +302,7 @@ translate "Fourth"
 	to german "Vierte";
 
 translate "Fifth"
-	to german "Fünfte";
+	to german "Fï¿½nfte";
 
 translate "Sixth"
 	to german "Sechste";
@@ -397,7 +397,7 @@ translate "10th"
 	to german "10te";
 
 translate "strength"
-  to german "Stärke";
+  to german "Stï¿½rke";
 
 translate "dexterity"
   to german "Gewandtheit";
@@ -436,19 +436,22 @@ translate "Stand up"
 	to german "Aufstehen";
 
 translate "Utility"
-	to german "Nützliches";
+	to german "Nï¿½tzliches";
 
 translate "Information"
 	to german "Information";
 
+// don't know what this is... - same order in file how before.
 translate "Legal System Information"
 	to german "Gesetzestexte";
+translate "Legal System Information"
+	to german "Rechtssystem";
 
 translate "Nuke my inventory"
-	to german "Lösche mein Inventar";
+	to german "Lï¿½sche mein Inventar";
 
 translate "Citizen U1"
-	to german "Bürger U1(name)";
+	to german "Bï¿½rger U1(name)";
 
 translate "Peasant U1"
 	to german "Einwanderer U1(name)";
@@ -463,31 +466,28 @@ translate "Your wife has passed the Test of O1 within the discipline of O2. Her 
 	to german "Deine Ehefrau hat die Aufgabe 'O1(sn)' in der Disziplin 'O2(sn)' gemeistert. Ihr Titel ist nun K1";
 
 translate "You feel the power of the gods flow through you, but your metals don't seem to fuse. Pay for the account and try again."
-	to german "Du fühlst die Macht der Götter durch dich hindurch fließen, aber deine Metalle scheinen nicht zu schmelzen. Bezahle deinen Account und versuche es erneut.";
+	to german "Du fï¿½hlst die Macht der Gï¿½tter durch dich hindurch flieï¿½en, aber deine Metalle scheinen nicht zu schmelzen. Bezahle deinen Account und versuche es erneut.";
 
 translate "Well done! Your title is now K1."
 	to german "Gut gemacht! Dein Titel ist nun K1.";
 
 translate "You have successfully been initiated into the discipline of O1! Many new goals have opened to you."
-	to german "Du bist erfolgreich in die Disziplin O1(sn) eingeführt worden! Viele neue Ziele haben sich dir eröffnet.";
+	to german "Du bist erfolgreich in die Disziplin O1(sn) eingefï¿½hrt worden! Viele neue Ziele haben sich dir erï¿½ffnet.";
 
 translate "You feel dizzy. Something is wrong."
-to german "Du fühlst dich benommen. Irgendwas ist falsch.";
+to german "Du fï¿½hlst dich benommen. Irgendwas ist falsch.";
 
 translate "You jostled the explosives too much, and they exploded! You're disoriented for a few moments."
-	to german "Du hast den Sprengstoff zu sehr weggeschubst und er ist explodiert! Du bist für einige Momente orientierungslos.";
-
-translate "Legal System Information"
-	to german "Rechtssystem";
+	to german "Du hast den Sprengstoff zu sehr weggeschubst und er ist explodiert! Du bist fï¿½r einige Momente orientierungslos.";
 
 translate "Bounty Bug on O1!"
-	to german "Prämienbug in O1(sn)!";
+	to german "Prï¿½mienbug in O1(sn)!";
 
 translate "Now you've got to reproduce it. If you can get this consistantly, report to eGenesis for a fun prize."
-	to german "Du hast es geschafft, etwas zu reproduzieren. Schaffst du das dauerhaft, dann berichte eGenesis davon, damit du einen tollen Preis erhältst.";
+	to german "Du hast es geschafft, etwas zu reproduzieren. Schaffst du das dauerhaft, dann berichte eGenesis davon, damit du einen tollen Preis erhï¿½ltst.";
 
 translate "You are carrying more than you can manage. You need to drop some goods."
-	to german "Du trägst mehr, als du bewältigen kannst. Du musst ein paar Güter fallenlassen.";
+	to german "Du trï¿½gst mehr, als du bewï¿½ltigen kannst. Du musst ein paar Gï¿½ter fallenlassen.";
 
 translate "Computed weight was N1 and recorded weight was N2."
 	to german "Errechnetes Gewicht war N1 und aufgezeichnetes Gewicht N2.";
@@ -499,7 +499,7 @@ translate "Consume error."
 	to german "Verbrauchsfehler.";
 
 translate "Beginner"
-	to german "Anfänger";
+	to german "Anfï¿½nger";
 
 translate "Enthusiast"
 	to german "Liebhaber";
@@ -517,7 +517,7 @@ translate "Fumeology: K1 U1"
 	to german "Rauchkunde: K1 U1(name)";
 
 translate "Emote"
-	to german "Gefühlsausdruck";
+	to german "Gefï¿½hlsausdruck";
 
 translate "Gesture"
 	to german "Gestikulieren";
@@ -526,7 +526,7 @@ translate "Laugh"
 	to german "Lachen";
 
 translate "Shake Head"
-	to german "Kopfschütteln";
+	to german "Kopfschï¿½tteln";
 
 translate "Bow"
 	to german "Verbeugen";
@@ -535,7 +535,7 @@ translate "Bless"
 	to german "Segnen";
 
 translate "Backflip"
-	to german "Rückwärtssalto";
+	to german "Rï¿½ckwï¿½rtssalto";
 
 translate "Hambone"
 	to german "Tanzen";
@@ -559,7 +559,7 @@ translate "Gait: Swimming"
 	to german "Bewegung: Schwimmen";
 
 translate "Edit my Info Text"
-	to german "Ändere meinen Infotext";
+	to german "ï¿½ndere meinen Infotext";
 
 translate "Text to be displayed on the /info screen:"
 	to german "Text, der bei /info angezeigt werden soll:";

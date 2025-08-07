@@ -17,7 +17,7 @@ sn "Kanivan Tisch"; pn "Kanivan Tische";
 translate KanivanTak to german masculine
 {
 swa "Kanivan Rang";
-sn "Kanivan Rang"; pn "Kanivan Ränge";
+sn "Kanivan Rang"; pn "Kanivan Rï¿½nge";
 }
 
 translate "Stalemate!"
@@ -30,7 +30,7 @@ translate "Switch to Tournament Mode"
 to german "Wechsel zum Turniermodus";
 
 translate "Switch to Practice Mode"
-to german "Wechsel zum Übungsmodus";
+to german "Wechsel zum ï¿½bungsmodus";
 
 translate "Match between U1 and U2"
 to german "Partie zwischen U1(name) und U2(name)";
@@ -43,15 +43,15 @@ to german "U1(name) wartet auf einen Gegenspieler.";
 ///"Play Kanivan Tak against ",Place.PlayerName[-1],Place.Practice ? " (Practice Game)" : "")
 
 translate "You must first sign up for the Test of Kanivan Tak at any Great University of Conflict."
-to german "Du mußt dich zuerst für den Test des Kanivan Tak an der großen Universität des Konfliktes einschreiben.";
+to german "Du muï¿½t dich zuerst fï¿½r den Test des Kanivan Tak an der groï¿½en Universitï¿½t des Konfliktes einschreiben.";
 
 translate "You must first sign up at any Great University of Conflict."
-to german "Du mußt dich zuerst an der großen Universität des Konfliktes einschreiben.";
+to german "Du muï¿½t dich zuerst an der groï¿½en Universitï¿½t des Konfliktes einschreiben.";
 
 ///"This is a ",Place.Practice ? "Practice" : "Tournament"," game."
 
 translate "Reset Board"
-to german "Brett zurücksetzen";
+to german "Brett zurï¿½cksetzen";
 
 translate "Jump"
 to german "Sprung";
@@ -60,10 +60,10 @@ translate "Move"
 to german "Bewege";
 
 translate "King"
-to german "König";
+to german "Kï¿½nig";
 
 translate "Done Jump"
-to german "Getätigter Sprung";
+to german "Getï¿½tigter Sprung";
 
 translate "Attack by Jumping"
 to german "Angriff durch Springen";
@@ -75,13 +75,13 @@ translate "You must move no more than N1 degrees away from straight."
 to german "Du darfst nie mehr als N1 Grad abweichen.";
 
 translate "That jump would put your Tak out of bounds."
-to german "Dieser Sprung würde dein Tak ins Aus befördern.";
+to german "Dieser Sprung wï¿½rde dein Tak ins Aus befï¿½rdern.";
 
 translate "You can't make it over that Tak."
-to german "Du kannst dies nicht über diesen Tak tun.";
+to german "Du kannst dies nicht ï¿½ber diesen Tak tun.";
 
 translate "The attacking Tak would land on another Tak."
-to german "Der angreifende Tak würde auf einem anderen Tak landen.";
+to german "Der angreifende Tak wï¿½rde auf einem anderen Tak landen.";
 
 translate "LLeft"
 to german "Links*2";
@@ -101,10 +101,10 @@ translate "Start the Test of Kanivan Tak"
 to german "Beginne den Test des Kanivan Tak";
 
 translate "You are registered for the Test of Kanivan Tak. Your Taks always move 23 feet, and at any angle up to N1 degrees. Getting near the far end of the board allows you to change your Taks into kings, which can move backwards. Jumps are not mandatory. The game ends when a player loses their last Tak, or no progress (movement by a non-king, or any capture) is made for five consecutive moves."
-to german "Du hast dich für den Test des Kanivan Tak eingeschrieben. Deine Taks laufen immer 23 Fuß und in jedem Winkel bis hin zu N1 Grad. Sobald man an das andere Ende des Brettes ankommt, darf man seine Taks zu Könige verwandeln, welche auch rückwärts gehen können. Sprünge sind nicht vorgeschrieben. Das Spiel endet, sobald ein Spieler seinen letzten Tak verloren hat oder kein Weiterkommen (Bewegung mit einem Nicht-König oder einer Eroberung) in 5 aufeinanderfolgenden Zügen mehr möglich ist.";
+to german "Du hast dich fï¿½r den Test des Kanivan Tak eingeschrieben. Deine Taks laufen immer 23 Fuï¿½ und in jedem Winkel bis hin zu N1 Grad. Sobald man an das andere Ende des Brettes ankommt, darf man seine Taks zu Kï¿½nige verwandeln, welche auch rï¿½ckwï¿½rts gehen kï¿½nnen. Sprï¿½nge sind nicht vorgeschrieben. Das Spiel endet, sobald ein Spieler seinen letzten Tak verloren hat oder kein Weiterkommen (Bewegung mit einem Nicht-Kï¿½nig oder einer Eroberung) in 5 aufeinanderfolgenden Zï¿½gen mehr mï¿½glich ist.";
 
 translate "Sanity Check"
-to german "Gesundheitsprüfung";
+to german "Gesundheitsprï¿½fung";
 
 translate "Insanity: "
 to german "Krankheit: ";
@@ -118,20 +118,11 @@ to german "Gegner ist am Zug.";
 translate "Opponent's Tak.\n"
 to german "Gegners Tak.";
 
-translate "Opponent is Moving."
-to german "Gegner ist am Zug.";
-
-translate "Done Jump"
-to german "Getätigter Sprung";
-
 translate "Complete your Jump"
 to german "Beende Deinen Sprung";
 
 translate "Extra-Attack!"
 to german "Extra-Angriff!";
-
-translate "Attack by Jumping"
-to german "Angriff durch Sprung";
 
 translate "Click Opponent's\n"
 to german "Klicke gegnerischen";
@@ -196,4 +187,4 @@ translate "Waiting for Opponent"
 to german "Warten auf einen Gegner";
 
 translate "In Progress"
-to german "Beschäftigt";
+to german "Beschï¿½ftigt";

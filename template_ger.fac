@@ -20,12 +20,6 @@ translate Instruction to german femininecollective
   sn "Anleitung"; sg "Anleitung"; sd "Anleitung"; sa "Anleitung";
   pn "Anleitungen"; pg "Anleitungen"; pd "Anleitungen"; pa "Anleitungen";
 }
-translate Instruction to german femininecollective
-{
- swa "Anleitung";
-  sn "Anleitung"; sg "Anleitung"; sd "Anleitung"; sa "Anleitung";
-  pn "Anleitungen"; pg "Anleitungen"; pd "Anleitungen"; pa "Anleitungen";
-}
 translate DeadInst to german neuter
 {
  swa "Verschmiertes Papier";
@@ -118,39 +112,39 @@ translate ThothsMetalSheeting to german neuter
 }
 translate Hopper to german masculine
 {
- swa "Rundbehälter";
-  sn "Rundbehälter"; sg "Rundbehälters"; sd "Rundbehälter"; sa "Rundbehälter";
-  pn "Rundbehälter"; pg "Rundbehälter"; pd "Rundbehältern"; pa "Rundbehälter";
+ swa "Rundbehï¿½lter";
+  sn "Rundbehï¿½lter"; sg "Rundbehï¿½lters"; sd "Rundbehï¿½lter"; sa "Rundbehï¿½lter";
+  pn "Rundbehï¿½lter"; pg "Rundbehï¿½lter"; pd "Rundbehï¿½ltern"; pa "Rundbehï¿½lter";
 }
 translate SecretDig to german masculine
 {
- swa "Merkwürdiger Schlammhaufen";
-  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
-  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+ swa "Merkwï¿½rdiger Schlammhaufen";
+  sn "Merkwï¿½rdige Schlammhaufen"; sg "Merkwï¿½rdigen Schlammhaufens"; sd "Merkwï¿½rdige Schlammhaufen"; sa "Merkwï¿½rdige Schlammhaufen";
+  pn "Merkwï¿½rdigen Schlammhaufen"; pg "Merkwï¿½rdigen Schlammhaufen"; pd "Merkwï¿½rdigen Schlammhaufen"; pa "Merkwï¿½rdigen Schlammhaufen";
 }
 translate SecretDig1 to german masculine
 {
- swa "Merkwürdiger Schlammhaufen";
-  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
-  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+ swa "Merkwï¿½rdiger Schlammhaufen";
+  sn "Merkwï¿½rdige Schlammhaufen"; sg "Merkwï¿½rdigen Schlammhaufens"; sd "Merkwï¿½rdige Schlammhaufen"; sa "Merkwï¿½rdige Schlammhaufen";
+  pn "Merkwï¿½rdigen Schlammhaufen"; pg "Merkwï¿½rdigen Schlammhaufen"; pd "Merkwï¿½rdigen Schlammhaufen"; pa "Merkwï¿½rdigen Schlammhaufen";
 }
 translate SecretDig2 to german masculine
 {
- swa "Merkwürdiger Schlammhaufen";
-  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
-  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+ swa "Merkwï¿½rdiger Schlammhaufen";
+  sn "Merkwï¿½rdige Schlammhaufen"; sg "Merkwï¿½rdigen Schlammhaufens"; sd "Merkwï¿½rdige Schlammhaufen"; sa "Merkwï¿½rdige Schlammhaufen";
+  pn "Merkwï¿½rdigen Schlammhaufen"; pg "Merkwï¿½rdigen Schlammhaufen"; pd "Merkwï¿½rdigen Schlammhaufen"; pa "Merkwï¿½rdigen Schlammhaufen";
 }
 translate SecretDig3 to german masculine
 {
- swa "Merkwürdiger Schlammhaufen";
-  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
-  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+ swa "Merkwï¿½rdiger Schlammhaufen";
+  sn "Merkwï¿½rdige Schlammhaufen"; sg "Merkwï¿½rdigen Schlammhaufens"; sd "Merkwï¿½rdige Schlammhaufen"; sa "Merkwï¿½rdige Schlammhaufen";
+  pn "Merkwï¿½rdigen Schlammhaufen"; pg "Merkwï¿½rdigen Schlammhaufen"; pd "Merkwï¿½rdigen Schlammhaufen"; pa "Merkwï¿½rdigen Schlammhaufen";
 }
 translate SecretDig4 to german masculine
 {
- swa "Merkwürdiger Schlammhaufen";
-  sn "Merkwürdige Schlammhaufen"; sg "Merkwürdigen Schlammhaufens"; sd "Merkwürdige Schlammhaufen"; sa "Merkwürdige Schlammhaufen";
-  pn "Merkwürdigen Schlammhaufen"; pg "Merkwürdigen Schlammhaufen"; pd "Merkwürdigen Schlammhaufen"; pa "Merkwürdigen Schlammhaufen";
+ swa "Merkwï¿½rdiger Schlammhaufen";
+  sn "Merkwï¿½rdige Schlammhaufen"; sg "Merkwï¿½rdigen Schlammhaufens"; sd "Merkwï¿½rdige Schlammhaufen"; sa "Merkwï¿½rdige Schlammhaufen";
+  pn "Merkwï¿½rdigen Schlammhaufen"; pg "Merkwï¿½rdigen Schlammhaufen"; pd "Merkwï¿½rdigen Schlammhaufen"; pa "Merkwï¿½rdigen Schlammhaufen";
 }
 
 translate SecretCrate to german feminine
@@ -194,7 +188,7 @@ to german "Formel";
 translate "Pattern"
 to german "Schnittmuster";
 translate "Template"
-to german "Matrize";
+to german "Vorlage";
 translate "Blueprint"
 to german "Blaupause";
 
@@ -203,70 +197,67 @@ to german "Blaupause";
 //"Your ",ComplexType(secret),":",ComplexName(secret),"'s ink fades out completely."
 
 translate "There are no bulbs left. Let a Dev know about this."
-to german "Es sind keine Zwiebeln mehr übrig. Sage einem Dev Bescheid.";
+to german "Es sind keine Zwiebeln mehr ï¿½brig. Sage einem Dev Bescheid.";
 
 translate "This Crate has been opened"
-to german "Diese Kiste wurde geöffnet";
+to german "Diese Kiste wurde geï¿½ffnet";
 
 translate "Examine this open crate"
 to german "Untersuche die offene Kiste";
 
 translate "This crate bears the mark of U1."
-to german "Diese Kiste trägt das Zeichen von U1(name).";
+to german "Diese Kiste trï¿½gt das Zeichen von U1(name).";
 
 translate "Unseal this crate"
 to german "Breche das Siegel dieser Kiste";
 
 translate "Are you sure you wish to unseal this crate? If you do so, the action cannot be taken back, and you must mark your name upon the crate to let others know who did this."
-to german "Bist du sicher, dass du das Siegel dieser Kiste brechen möchtest? Tust du dies, gibt es keinen Weg mehr zurück und du musst der Kiste mit deinem Siegel versehen, um anderen zu zeigen, wer dies getan hat.";
+to german "Bist du sicher, dass du das Siegel dieser Kiste brechen mï¿½chtest? Tust du dies, gibt es keinen Weg mehr zurï¿½ck und du musst der Kiste mit deinem Siegel versehen, um anderen zu zeigen, wer dies getan hat.";
 
 translate "It requires a Heavy Mallet and Wide Tungsten Chisel to break the seal on this crate."
-to german "Man benötigt einen Großen Holzhammer und einen Wolframmeißel um das Siegel dieser Kiste zu brechen.";
+to german "Man benï¿½tigt einen Groï¿½en Holzhammer und einen Wolframmeiï¿½el um das Siegel dieser Kiste zu brechen.";
 
 translate "There is a loud hiss as the seal on the crate is broken. You are struck in the face with a blast of some sort of dust. After coughing a bit, you look inside."
-to german "Du öffnest das Siegel und die Kiste öffnet sich mit einem lauten Zischen. Eine Art Staub trifft dein Gesicht, du hustest etwas und wirfst einen Blick hinein.";
+to german "Du ï¿½ffnest das Siegel und die Kiste ï¿½ffnet sich mit einem lauten Zischen. Eine Art Staub trifft dein Gesicht, du hustest etwas und wirfst einen Blick hinein.";
 
 translate "You find a strange parchment with instructions on it, and what appears to be an odd bulb of some kind. There are also the remains of several glass bottles, smashed by the rough treatment the crate has received."
-to german "Du findest ein fremdartiges Pergament mit einer Anleitung und etwas das aussieht wie eine seltsame Zwiebelart. Weiterhin siehst du Überreste verschiedener Glasflaschen, die durch das Rütteln, als die Kiste an Land geschwemmt wurde, vermutlich zerbrachen.";
+to german "Du findest ein fremdartiges Pergament mit einer Anleitung und etwas das aussieht wie eine seltsame Zwiebelart. Weiterhin siehst du ï¿½berreste verschiedener Glasflaschen, die durch das Rï¿½tteln, als die Kiste an Land geschwemmt wurde, vermutlich zerbrachen.";
 
 translate "You scratch your sigil upon the crate with the pointed end of your chisel before you leave."
-to german "Du kratzt mit der dem spitzen Ende deines Meißels dein Siegel auf die Kiste, bevor du gehst.";
+to german "Du kratzt mit der dem spitzen Ende deines Meiï¿½els dein Siegel auf die Kiste, bevor du gehst.";
 
 translate "Trial Accounts cannot open chests."
-to german "Testaccounts können keine Kisten öffnen.";
+to german "Testaccounts kï¿½nnen keine Kisten ï¿½ffnen.";
 
 translate "You feel too weak to open the chest, with this strange malady you have."
-to german "Aufgrund deiner schweren Erkrankung fühlst du dich zu schwach, diese Kiste zu öffnen.";
+to german "Aufgrund deiner schweren Erkrankung fï¿½hlst du dich zu schwach, diese Kiste zu ï¿½ffnen.";
 
 translate "You find a large plate, that seems to be inscribed with strange symbols. It has several threaded boltholes that seem to indicate that it should be attached to something. You also find a strange recipe that you cannot decipher. Perhaps you should take it to the School of Art."
-to german "Du findest eine große Platte, die mit fremdartigen Symbolen beschriftet zu sein scheint. Sie hat mehrere gewundene Bolzenlöcher, die vermuten lassen, dass sie an irgendetwas angebracht werden könnte. Außerdem findest du ein seltsames Rezept, das du nicht entziffern kannst. Möglicherweise kann dir eine Schule der Kunst weiterhelfen?";
+to german "Du findest eine groï¿½e Platte, die mit fremdartigen Symbolen beschriftet zu sein scheint. Sie hat mehrere gewundene Bolzenlï¿½cher, die vermuten lassen, dass sie an irgendetwas angebracht werden kï¿½nnte. Auï¿½erdem findest du ein seltsames Rezept, das du nicht entziffern kannst. Mï¿½glicherweise kann dir eine Schule der Kunst weiterhelfen?";
 
 translate "You find a large plate, that seems to be inscribed with strange symbols. It has several threaded boltholes that seem to indicate that it should be attached to something. The crate also holds a few bars of various metals, part of a larger shipment."
-to german "Du findest eine große Platte, die mit fremdartigen Symbolen beschriftet zu sein scheint. Sie hat mehrere gewundene Bolzenlöcher, die vermuten lassen, dass sie an irgendetwas angebracht werden könnte. Die Kiste beinhaltet außerdem ein paar Barren verschiedenartiger Metalle, Teil eine größeren Schiffsladung.";
+to german "Du findest eine groï¿½e Platte, die mit fremdartigen Symbolen beschriftet zu sein scheint. Sie hat mehrere gewundene Bolzenlï¿½cher, die vermuten lassen, dass sie an irgendetwas angebracht werden kï¿½nnte. Die Kiste beinhaltet auï¿½erdem ein paar Barren verschiedenartiger Metalle, Teil eine grï¿½ï¿½eren Schiffsladung.";
 
 translate "Dig into Pile"
 to german "Grabe in diesem Haufen";
 
 translate "You must have an Archaeologist's Shovel to dig into this, in order not to disturb the contents."
-to german "Du brauchst eine Archäologenschaufen um hierin zu graben, damit du den Inhalt nicht störst."; 
+to german "Du brauchst eine Archï¿½ologenschaufen um hierin zu graben, damit du den Inhalt nicht stï¿½rst."; 
 
 translate "Your digging moves the dirt at N1x the normal speed."
-to german "Deine Grabung fördert den Schmutz in N1x facher Geschwindigkeit.";
+to german "Deine Grabung fï¿½rdert den Schmutz in N1x facher Geschwindigkeit.";
 
 translate "This dig has already been completed."
 to german "Diese Grabung wurde bereits abgeschlossen.";
 
 translate "Reset Dig"
-to german "Grabung zurücksetzen";
-
-translate "Template"
-to german "Vorlage";
+to german "Grabung zurï¿½cksetzen";
 
 translate "Make a Tungsten Horn"
 to german "Stelle einen Wolframtrichter her";
 
 translate "To make a Tungsten Horn you need:"
-to german "Um einen Wolframtrichter herzustellen zu können benötigst du:";
+to german "Um einen Wolframtrichter herzustellen zu kï¿½nnen benï¿½tigst du:";
 
 translate "This project used: "
 to german "Diese Projekt braucht: ";
@@ -281,19 +272,19 @@ translate "Your Tungsten Horn is ready."
 to german "Dein Wolframtrichter ist fertig.";
 
 translate "Make a Spanner Wrench"
-to german "Stelle einen Ringschlüssel her";
+to german "Stelle einen Ringschlï¿½ssel her";
 
 translate "To make a Spanner Wrench you need:"
-to german "Um einen Ringschlüssel herzustellen benötigst du:";
+to german "Um einen Ringschlï¿½ssel herzustellen benï¿½tigst du:";
 
 translate "making a Spanner Wrench"
-to german "Herstellung eines Ringschlüssels";
+to german "Herstellung eines Ringschlï¿½ssels";
 
 translate "Spanner Wrench will be done in K1"
-to german "Der Ringschlüssel wird in K1 fertig sein";
+to german "Der Ringschlï¿½ssel wird in K1 fertig sein";
 
 translate "Your Spanner Wrench is ready."
-to german "Dein Ringschlüssel ist fertig.";
+to german "Dein Ringschlï¿½ssel ist fertig.";
 
 //"Create Complex
 

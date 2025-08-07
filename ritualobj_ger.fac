@@ -10,7 +10,7 @@ module ritualobj_ger;
 
 //menues
 translate "Ritual Items"
-to german "Rituelle Gegenstände";
+to german "Rituelle Gegenstï¿½nde";
 
 translate "Build a Ritual Torch"
 to german "Schaffe eine Ritusfackel";
@@ -19,15 +19,18 @@ translate "Build a Ritual Pedestal"
 to german "Baue ein Rituspodest";
 
 translate "Recite an Incantation"
-to german "Murmele eine Beschwörungsformel";
+to german "Murmele eine Beschwï¿½rungsformel";
 
 translate "Ritually Drop an Item into the Mine"
 to german "Werfe einen Ritualgegenstand in die Mine";
 
 translate "Item to Ritually Drop into Mine:"
-to german "Ritualgegenstand für die Mine:";
+to german "Ritualgegenstand fï¿½r die Mine:";
 
 translate "You don't have that item."
+to german "Du hast diesen Gegenstand nicht.";
+
+translate "You do not have that item."
 to german "Du hast diesen Gegenstand nicht.";
 
 //objects
@@ -58,28 +61,28 @@ swa "Spiritusbrenner";
 //texts
 
 translate "To build a Ritual Torch, you need: "
-to german "Um eine Ritualfackel bauen zu können benötigst du: ";
+to german "Um eine Ritualfackel bauen zu kï¿½nnen benï¿½tigst du: ";
 
 translate "Soak the Torch with Oil"
-to german "Tränke die Fackel mit Öl";
+to german "Trï¿½nke die Fackel mit ï¿½l";
 
 translate "You do not have any Oil."
-to german "Du hast kein Öl.";
+to german "Du hast kein ï¿½l.";
 
 translate "The Torch is ready to light."
-to german "Die Fackel ist bereit angezündet zu werden.";
+to german "Die Fackel ist bereit angezï¿½ndet zu werden.";
 
 translate "Light the Torch"
-to german "Zünde die Fackel an";
+to german "Zï¿½nde die Fackel an";
 
 translate "Type in the Incantation:"
 to german "Schreibe die Formel:";
 
 translate "To build a Ritual Pedestal, you need: "
-to german "Um ein Ritualpodest bauen zu können benötigst du: ";
+to german "Um ein Ritualpodest bauen zu kï¿½nnen benï¿½tigst du: ";
 
 translate "Paint the Pedestal White"
-to german "Streiche das Podest weiß";
+to german "Streiche das Podest weiï¿½";
 
 translate "Paint the Pedestal Red"
 to german "Streiche das Podest rot";
@@ -88,13 +91,13 @@ translate "Paint the Pedestal Blue"
 to german "Streiche das Podest blau";
 
 translate "Paint the Pedestal Green"
-to german "Streiche das Podest grün";
+to german "Streiche das Podest grï¿½n";
 
 translate "You do not have the paint."
 to german "Diese Farbe hast Du nicht.";
 
 translate "Paint the Pedestal's Trim White"
-to german "Streiche die Zierleisten weiß";
+to german "Streiche die Zierleisten weiï¿½";
 
 translate "Paint the Pedestal's Trim Red"
 to german "Streiche die Zierleisten rot";
@@ -103,7 +106,7 @@ translate "Paint the Pedestal's Trim Blue"
 to german "Streiche die Zierleisten blau";
 
 translate "Paint the Pedestal's Trim Green"
-to german "Streiche die Zierleisten grün";
+to german "Streiche die Zierleisten grï¿½n";
 
 translate "Place an Object on the Pedestal"
 to german "Platziere ein Objekt auf dem Podest";
@@ -112,10 +115,7 @@ translate "Item to place on Pedestal:"
 to german "Gegenstand zum Platzieren:";
 
 translate "That is not one of the items you can place onto a ritual pedestal."
-to german "Das ist kein Gegenstand, den du auf einem Ritualpodest plazieren könntest.";
-
-translate "You do not have that item."
-to german "Du hast diesen Gegenstand nicht.";
+to german "Das ist kein Gegenstand, den du auf einem Ritualpodest plazieren kï¿½nntest.";
 
 translate "Take the O1 from the Pedestal"
 to german "Nimm O1(dsa) O1(sa) vom Podest.";
@@ -124,22 +124,22 @@ translate "Build a Spirit Brasier"
 to german "Baue einen Spiritusbrenner";
 
 translate "To build a Spirit Brasier, you need:"
-to german "Um einen Spiritusbrenner zu bauen benötigst du";
+to german "Um einen Spiritusbrenner zu bauen benï¿½tigst du";
 
 translate "Light the brasier"
-to german "Entzünde den Brenner";
+to german "Entzï¿½nde den Brenner";
 
 translate "Select the spirit you wish to use for fuel:"
-to german "Wähle etwas Spiritus zum Einfüllen aus:";
+to german "Wï¿½hle etwas Spiritus zum Einfï¿½llen aus:";
 
 translate "You must select a spirit"
-to german "Du musst etwas Spiritus wählen";
+to german "Du musst etwas Spiritus wï¿½hlen";
 
 translate "Too late, somebody else already lit it."
-to german "Zu spät, jemand Anderes hat ihn schon entzündet.";
+to german "Zu spï¿½t, jemand Anderes hat ihn schon entzï¿½ndet.";
 
 translate "You need 5 K1."
-to german "Du benötigst 5 K1.";
+to german "Du benï¿½tigst 5 K1.";
 
 translate "The brasier is burning K1"
 to german "Der Brenner verbrennt K1";

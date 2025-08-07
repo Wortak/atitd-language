@@ -10,63 +10,71 @@ module towers_ger;
 
 translate Towers to german masculine
 {
-swa "Test der Türme";
-  sn "Test der Türme"; sg "Test der Türme"; sd "Test der Türme"; sa "Test der Türme";
-  pn "Test der Türme"; pg "Test der Türme"; pd "Test der Türme"; pa "Test der Türme";
+  swa "Test der Tï¿½rme";
+  
+  sn "Test der Turm";
+  sg "Test des Turmes";
+  sd "Test dem Turme";
+  sa "Test den Turm";
+
+  pn "Test die Tï¿½rme";
+  pg "Test der Tï¿½rme";
+  pd "Test den Tï¿½rmen";
+  pa "Test die Tï¿½rme";
 }
 translate VTower to german masculine
 {
 swa "Basisturm";
-  sn "Basisturm"; sg "Basisturms"; sd "Basisturm"; sa "Basisturm";
-  pn "Basistürme"; pg "Basistürme"; pd "Basistürmen"; pa "Basistürme";
+  sn "Basisturm"; sg "Basisturmes"; sd "Basisturm"; sa "Basisturm";
+  pn "Basistï¿½rme"; pg "Basistï¿½rme"; pd "Basistï¿½rmen"; pa "Basistï¿½rme";
 }
 translate VTowerMonument to german masculine
 {
 swa "Turm des Monuments";
   sn "Turm des Monuments"; sg "Turms des Monuments"; sd "Turm des Monuments"; sa "Turm des Monuments";
-  pn "Türme des Monuments"; pg "Türme des Monuments"; pd "Türme des Monuments"; pa "Türme des Monuments";
+  pn "Tï¿½rme des Monuments"; pg "Tï¿½rme des Monuments"; pd "Tï¿½rme des Monuments"; pa "Tï¿½rme des Monuments";
 }
 translate TowerSolidLand to german masculine
 {
 swa "Turm des fruchtbaren Landes";
   sn "Turm des fruchtbaren Landes"; sg "Turms des fruchtbaren Landes"; sd "Turm des fruchtbaren Landes"; sa "Turm des fruchtbaren Landes";
-  pn "Türme des fruchtbaren Landes"; pg "Türme des fruchtbaren Landes"; pd "Türmen des fruchtbaren Landes"; pa "Türme des fruchtbaren Landes";
+  pn "Tï¿½rme des fruchtbaren Landes"; pg "Tï¿½rme des fruchtbaren Landes"; pd "Tï¿½rmen des fruchtbaren Landes"; pa "Tï¿½rme des fruchtbaren Landes";
 }
 translate TowerRichSoil to german masculine
 {
 swa "Turm der reichen Erde";
   sn "Turm der reichen Erde"; sg "Turms der reichen Erde"; sd "Turm der reichen Erde"; sa "Turm der reichen Erde";
-  pn "Türme der reichen Erde"; pg "Türme der reichen Erde"; pd "Türmen der reichen Erde"; pa "Türme der reichen Erde";
+  pn "Tï¿½rme der reichen Erde"; pg "Tï¿½rme der reichen Erde"; pd "Tï¿½rmen der reichen Erde"; pa "Tï¿½rme der reichen Erde";
 }
 translate TowerNewLife to german masculine
 {
 swa "Turm des neuen Lebens";
   sn "Turm des neuen Lebens"; sg "Turms des neuen Lebens"; sd "Turm des neuen Lebens"; sa "Turm des neuen Lebens";
-  pn "Türme des neuen Lebens"; pg "Türme des neuen Lebens"; pd "Türmen des neuen Lebens"; pa "Türme des neuen Lebens";
+  pn "Tï¿½rme des neuen Lebens"; pg "Tï¿½rme des neuen Lebens"; pd "Tï¿½rmen des neuen Lebens"; pa "Tï¿½rme des neuen Lebens";
 }
 translate TowerHandOfMan to german masculine
 {
 swa "Turm der Menschlichkeit";
   sn "Turm der Menschlichkeit"; sg "Turms der Menschlichkeit"; sd "Turm der Menschlichkeit"; sa "Turm der Menschlichkeit";
-  pn "Türme der Menschlichkeit"; pg "Türme der Menschlichkeit"; pd "Türmen der Menschlichkeit"; pa "Türme der Menschlichkeit";
+  pn "Tï¿½rme der Menschlichkeit"; pg "Tï¿½rme der Menschlichkeit"; pd "Tï¿½rmen der Menschlichkeit"; pa "Tï¿½rme der Menschlichkeit";
 }
 translate TowerRacingMind to german masculine
 {
 swa "Turm des lebhaften Gedankens";
   sn "Turm des lebhaften Gedankens"; sg "Turms des lebhaften Gedankens"; sd "Turm des lebhaften Gedankens"; sa "Turm des lebhaften Gedankens";
-  pn "Türme des lebhaften Gedankens"; pg "Türme des lebhaften Gedankens"; pd "Türmen des lebhaften Gedankens"; pa "Türme des lebhaften Gedankens";
+  pn "Tï¿½rme des lebhaften Gedankens"; pg "Tï¿½rme des lebhaften Gedankens"; pd "Tï¿½rmen des lebhaften Gedankens"; pa "Tï¿½rme des lebhaften Gedankens";
 }
 translate TowerLivingLand to german masculine
 {
 swa "Turm des lebenden Landes";
   sn "Turm des lebenden Landes"; sg "Turms des lebenden Landes"; sd "Turm des lebenden Landes"; sa "Turm des lebenden Landes";
-  pn "Türme des lebenden Landes"; pg "Türme des lebenden Landes"; pd "Türmen des lebenden Landes"; pa "Türme des lebenden Landes";
+  pn "Tï¿½rme des lebenden Landes"; pg "Tï¿½rme des lebenden Landes"; pd "Tï¿½rmen des lebenden Landes"; pa "Tï¿½rme des lebenden Landes";
 }
 translate TowerNight to german masculine
 {
 swa "Turm der Nacht";
   sn "Turm der Nacht"; sg "Turms der Nacht"; sd "Turm der Nacht"; sa "Turm der Nacht";
-  pn "Türme der Nacht"; pg "Türme der Nacht"; pd "Türme der Nacht"; pa "Türme der Nacht";
+  pn "Tï¿½rme der Nacht"; pg "Tï¿½rme der Nacht"; pd "Tï¿½rme der Nacht"; pa "Tï¿½rme der Nacht";
 }
 translate Lens to german feminine
 {
@@ -74,69 +82,63 @@ swa "Linse";
   sn "Linse"; sg "Linse"; sd "Linse"; sa "Linse";
   pn "Linsen"; pg "Linsen"; pd "Linsen"; pa "Linsen";
 }
-translate VTower to german masculine
-{
-swa "Basisturm";
-  sn "Basisturm"; sg "Basisturms"; sd "Basisturm"; sa "Basisturm";
-  pn "Basistürme"; pg "Basistürme"; pd "Basistürmen"; pa "Basistürme";
-}
 translate MonumentalTower to german masculine
 {
 swa "Monumentturm";
   sn "Monumentturm"; sg "Monumentturms"; sd "Monumentturm"; sa "Monumentturm";
-  pn "Monumenttürme"; pg "Monumenttürme"; pd "Monumenttürmen"; pa "Monumenttürme";
+  pn "Monumenttï¿½rme"; pg "Monumenttï¿½rme"; pd "Monumenttï¿½rmen"; pa "Monumenttï¿½rme";
 }
 translate MonumentalSolidLand to german masculine
 {
 swa "Monumentturm des fruchtbaren Landes";
   sn "Monumentturm des fruchtbaren Landes"; sg "Monumentturms des fruchtbaren Landes"; sd "Monumentturm des fruchtbaren Landes"; sa "Monumentturm des fruchtbaren Landes";
-  pn "Monumenttürme des fruchtbaren Landes"; pg "Monumenttürme des fruchtbaren Landes"; pd "Monumenttürme des fruchtbaren Landes"; pa "Monumenttürme des fruchtbaren Landes";
+  pn "Monumenttï¿½rme des fruchtbaren Landes"; pg "Monumenttï¿½rme des fruchtbaren Landes"; pd "Monumenttï¿½rme des fruchtbaren Landes"; pa "Monumenttï¿½rme des fruchtbaren Landes";
 }
 translate MonumentalRichSoil to german masculine
 {
 swa "Monumentturm der reichen Erde";
   sn "Monumentturm der reichen Erde"; sg "Monumentturms der reichen Erde"; sd "Monumentturm des reichen Erde"; sa "Monumentturm der reichen Erde";
-  pn "Monumenttürme der reichen Erde"; pg "Monumenttürme der reichen Erde"; pd "Monumenttürme der reichen Erde"; pa "Monumenttürme der reichen Erde";
+  pn "Monumenttï¿½rme der reichen Erde"; pg "Monumenttï¿½rme der reichen Erde"; pd "Monumenttï¿½rme der reichen Erde"; pa "Monumenttï¿½rme der reichen Erde";
 }
 translate MonumentalNewLife to german masculine
 {
 swa "Monumentturm des neuen Lebens";
   sn "Monumentturm des neuen Lebens"; sg "Monumentturms des neuen Lebens"; sd "Monumentturm des neuen Lebens"; sa "Monumentturm des neuen Lebens";
-  pn "Monumenttürme des neuen Lebens"; pg "Monumenttürme des neuen Lebens"; pd "Monumenttürmen des neuen Lebens"; pa "Monumenttürme des neuen Lebens";
+  pn "Monumenttï¿½rme des neuen Lebens"; pg "Monumenttï¿½rme des neuen Lebens"; pd "Monumenttï¿½rmen des neuen Lebens"; pa "Monumenttï¿½rme des neuen Lebens";
 }
 translate MonumentalHandOfMan to german masculine
 {
 swa "Monumentturm der Menschlichkeit";
   sn "Monumentturm der Menschlichkeit"; sg "Monumentturms der Menschlichkeit"; sd "Monumentturm der Menschlichkeit"; sa "Monumentturm der Menschlichkeit";
-  pn "Monumenttürme der Menschlichkeit"; pg "Monumenttürme der Menschlichkeit"; pd "Monumenttürmen der Menschlichkeit"; pa "Monumenttürme der Menschlichkeit";
+  pn "Monumenttï¿½rme der Menschlichkeit"; pg "Monumenttï¿½rme der Menschlichkeit"; pd "Monumenttï¿½rmen der Menschlichkeit"; pa "Monumenttï¿½rme der Menschlichkeit";
 }
 translate MonumentalRacingMind to german masculine
 {
 swa "Monumentturm des lebhaften Gedankens";
   sn "Monumentturm des lebhaften Gedankens"; sg "Monumentturms des lebhaften Gedankens"; sd "Monumentturm des lebhaften Gedankens"; sa "Monumentturm des lebhaften Gedankens";
-  pn "Monumenttürme des lebhaften Gedankens"; pg "Monumenttürme des lebhaften Gedankens"; pd "Monumenttürmen des lebhaften Gedankens"; pa "Monumenttürme des lebhaften Gedankens";
+  pn "Monumenttï¿½rme des lebhaften Gedankens"; pg "Monumenttï¿½rme des lebhaften Gedankens"; pd "Monumenttï¿½rmen des lebhaften Gedankens"; pa "Monumenttï¿½rme des lebhaften Gedankens";
 }
 translate MonumentalLivingLand to german masculine
 {
 swa "Monumentturm des lebenden Landes";
   sn "Monumentturm des lebenden Landes"; sg "Monumentturms des lebenden Landes"; sd "Monumentturm des lebenden Landes"; sa "Monumentturm des lebenden Landes";
-  pn "Monumenttürme des lebenden Landes"; pg "Monumenttürme des lebenden Landes"; pd "Monumenttürmen des lebenden Landes"; pa "Monumenttürme des lebenden Landes";
+  pn "Monumenttï¿½rme des lebenden Landes"; pg "Monumenttï¿½rme des lebenden Landes"; pd "Monumenttï¿½rmen des lebenden Landes"; pa "Monumenttï¿½rme des lebenden Landes";
 }
 translate MonumentalNight to german masculine
 {
 swa "Monumentturm der Nacht";
   sn "Monumentturm der Nacht"; sg "Monumentturms der Nacht"; sd "Monumentturm der Nacht"; sa "Monumentturm der Nacht";
-  pn "Monumenttürme der Nacht"; pg "Monumenttürme der Nacht"; pd "Monumenttürmen der Nacht"; pa "Monumenttürme der Nacht";
+  pn "Monumenttï¿½rme der Nacht"; pg "Monumenttï¿½rme der Nacht"; pd "Monumenttï¿½rmen der Nacht"; pa "Monumenttï¿½rme der Nacht";
 }
 
 translate "The Hour of Towers occurs about once per three (Egypt) days. The schedule for the next seven Hours of Towers is shown at all Universities of Architecture. When the hour arrives, build any number of Towers across the land. You control all land that is closest to one of your towers. Control an amount of land equal to all of Egypt to pass the Test of Towers.\n\n"
-to german "Die Stunde der Türme ist einmal pro 3 Tage (Ägypten) aktiv. Die Ankündigung für die nächsten 7 Stunden der Türme wird an allen Universitäten der Architektur angezeigt. Wenn die Stunde gekommen ist, baue eine beliebige Anzahl von Türmen über das Land verteilt. Du kontrollierst alles Land, das deinem Turm am nähesten liegt. Kontrolliere einen Teil Ägpytens im Verhältnis zu Gesamtägypten, um den Test der Türme zu bestehen.\n\n";
+to german "Die Stunde der Tï¿½rme ist einmal pro 3 Tage (ï¿½gypten) aktiv. Die Ankï¿½ndigung fï¿½r die nï¿½chsten 7 Stunden der Tï¿½rme wird an allen Universitï¿½ten der Architektur angezeigt. Wenn die Stunde gekommen ist, baue eine beliebige Anzahl von Tï¿½rmen ï¿½ber das Land verteilt. Du kontrollierst alles Land, das deinem Turm am nï¿½hesten liegt. Kontrolliere einen Teil ï¿½gpytens im Verhï¿½ltnis zu Gesamtï¿½gypten, um den Test der Tï¿½rme zu bestehen.\n\n";
 
 translate "Hint: Since you only have K1 to place your towers, contract with others to build for you. Be sure they transfer ownership before the end of the Hour of Towers."
-to german "Tipp: Weil du nur K1 Zeit hast, Deine Türme zu setzen, schließe einen Bund mit Anderen, die für Dich Türme bauen und an dich übertragen. Stelle sicher, dass sie dir das Eigentum der Türme überschreiben, bevor die Stunde der Türme endet.";
+to german "Tipp: Weil du nur K1 Zeit hast, Deine Tï¿½rme zu setzen, schlieï¿½e einen Bund mit Anderen, die fï¿½r Dich Tï¿½rme bauen und an dich ï¿½bertragen. Stelle sicher, dass sie dir das Eigentum der Tï¿½rme ï¿½berschreiben, bevor die Stunde der Tï¿½rme endet.";
 
 translate "Principles of Towers challenges you to build two different kinds of Towers during Hours of Towers, and control a total of 7% of Egypt's land. Easy tower types include Towers of the Living Land, Rich Soil, and Hand of Man."
-to german "Die Prinzipien der Türme geben dir vor, 2 verschieden Turmarten währen der Turmstunden zu bauen und insgesamt 7% von Ägyptens Land zu kontrollieren. Einfache Turmarten sind die Türme des Lebenden Landes, der Reichen Erde und der Hand des Mannes.";
+to german "Die Prinzipien der Tï¿½rme geben dir vor, 2 verschieden Turmarten wï¿½hren der Turmstunden zu bauen und insgesamt 7% von ï¿½gyptens Land zu kontrollieren. Einfache Turmarten sind die Tï¿½rme des Lebenden Landes, der Reichen Erde und der Hand des Mannes.";
 
 translate "First Tower Type"
 to german "Erste Turmart";
@@ -145,10 +147,10 @@ translate "Second Tower Type"
 to german "Zweite Turmart";
 
 translate "Control 7% of Egypt"
-to german "Kontrolliere 7% Ägyptens";
+to german "Kontrolliere 7% ï¿½gyptens";
 
 translate "You have completed Principles of Towers."
-to german "Du hast die Prinzipien der Türme gemeistert.";
+to german "Du hast die Prinzipien der Tï¿½rme gemeistert.";
 
 translate "Report:"
 to german "Bericht:";
@@ -160,37 +162,28 @@ translate "It is now the Hour of O1."
 to german "Die Stunde des O1(sg) ist angebrochen.";
 
 translate "Time left is: K1."
-to german "Abgelaufene Zeit: K1";
-
-translate "Status Report"
-to german "Statusbericht";
+to german "Verbleidende Zeit ist: K1";
 
 translate "Prove Ability"
-to german "Prüfe Befähigung";
+to german "Prï¿½fe Befï¿½higung";
 
 translate "To Prove Egypt's Ability to create the O1 requires:"
-to german "Um Ägyptens Befähigung im Bau des O1(sg) zu prüfen wird benötigt:";
+to german "Um ï¿½gyptens Befï¿½higung im Bau des O1(sg) zu prï¿½fen wird benï¿½tigt:";
 
 translate "U1 has proven Egypt's ability to build the O1."
-to german "U1(name) hat Ägyptens Befähigung zum bau des O1(sg) bewiesen.";
+to german "U1(name) hat ï¿½gyptens Befï¿½higung zum bau des O1(sg) bewiesen.";
 
 translate "Hour of the O1."
-to german "Stunde des O1(sg).";
+to german "Stunde O1(dsg) O1(sg)."; // eventually dpg and pg for Test of Towers, dont what it is O1 here.
 
 translate "Hour of the Towers"
-to german "Die Stunde der Türme";
+to german "Stunde der Tï¿½rme";
 
-translate "Hour of Tours"
-to german "Die Stunde der Türme";
+translate "Hour of Tours" 
+to german "Stunde der Touren"; 
 
 translate "All of Egypt"
-to german "Ganz Ägypten";
-
-translate "Hour of the O1."
-to german "Die Stunde des O1(sg).";
-
-translate "Time left is: K1."
-to german "Restliche Zeit: K1";
+to german "Ganz ï¿½gypten";
 
 translate "The Hour of the O1 has begun."
 to german "Die Stunde des O1(sg) hat begonnen";
@@ -199,40 +192,40 @@ translate "The Hour of the O1 has ended. Scores will be reported in your main wi
 to german "Die Stunde des O1(sg) ist beendet. Die Wertungen werden in deinem Hauptfenster in etwa einer Minute bekannt gegeben.";
 
 translate "Hour of Towers, N1 towers built. The top N2 claims are: U1 claimed N3.N4% using N5 towers. "
-to german "Die Stunde der Türme, N1 Türme wurden gebaut. Die erfolgreichsten N2 Bebauungen: U1(name) bebaut N3.N4% des Gebiets mithilfe N5 Turm/Türmen. ";
+to german "Die Stunde der Tï¿½rme, N1 Tï¿½rme wurden gebaut. Die erfolgreichsten N2 Bebauungen: U1(name) bebaut N3.N4% des Gebiets mithilfe N5 Turm/Tï¿½rmen. ";
 
 translate "U1 claimed N1.N2% using N3 towers. "
-to german "U1(name) bebaut N1.N2% des Gebiets mithilfe N3 Turm/Türmen. ";
+to german "U1(name) bebaut N1.N2% des Gebiets mithilfe N3 Turm/Tï¿½rmen. ";
 
 translate "With this Tower, U1 claimed N1.N2% of Egypt, K1 ago."
-to german "Mit diesem Turm besetzt U1(name) seit K1 N1.N2% Ägyptens.";
+to german "Mit diesem Turm besetzt U1(name) seit K1 N1.N2% ï¿½gyptens.";
 
 translate "Your Claim is N1.N2% of Egypt"
-to german "Du besetzt N1.N2% von Ägypten.";
+to german "Du besetzt N1.N2% von ï¿½gypten.";
 
 translate "Test of Towers"
-to german "Test der Türme";
+to german "Test der Tï¿½rme";
 
 translate "Test of Towers: Your total claim this hour was one of the top N1."
-to german "Test der Türme: Deine Landbesetzung in dieser Stunde war eine der Besten N1.";
+to german "Test der Tï¿½rme: Deine Landbesetzung in dieser Stunde war eine der Besten N1.";
 
 translate "Test of Towers: Your total claim this hour was one of the top N1, so the full amount carries over."
-to german "Test der Türme: Deine Landbesetzung in dieser Stunde war eine der Besten N1, deshalb wird die Gesamtprozentzahl gewertet.";
+to german "Test der Tï¿½rme: Deine Landbesetzung in dieser Stunde war eine der Besten N1, deshalb wird die Gesamtprozentzahl gewertet.";
 
 translate "Test of Towers: Your total claim this hour was not in the top N1. so just one seventh carries over."
-to german "Test der Türme: Deine Landbesetzung war nicht unter den Besten N1. Deshalb wird nur ein Siebtel deines Resultates gewertet.";
+to german "Test der Tï¿½rme: Deine Landbesetzung war nicht unter den Besten N1. Deshalb wird nur ein Siebtel deines Resultates gewertet.";
 
 translate "Your claim has risen from K1% of Egypt to K2% of Egypt."
-to german "Das von dir besetzte Land Ägyptens ist von K1 auf K2% angewachsen.";
+to german "Das von dir besetzte Land ï¿½gyptens ist von K1 auf K2% angewachsen.";
 
 translate "This tower captured N1-N2% of Egypt."
-to german "Dieser Turm besetzt N1.N2% Ägyptens.";
+to german "Dieser Turm besetzt N1.N2% ï¿½gyptens.";
 
 translate "This tower has captured N1.N2% of Egypt."
-to german "Dieser Turm hat N1.N2% Ägyptens besetzt.";
+to german "Dieser Turm hat N1.N2% ï¿½gyptens besetzt.";
 
 translate "Add Tower called out of bounds. Contact Developers."
-to german "Der ausgewählte Turm entspricht nicht den Normen. Rufe einen Entwickler.";
+to german "Der ausgewï¿½hlte Turm entspricht nicht den Normen. Rufe einen Entwickler.";
 
 translate "Error in AddTower. Contact developers."
 to german "Fehler in der Erstellung eines Turmes. Rufe einen Entwickler.";
@@ -244,31 +237,31 @@ translate "Total scores: N1"
 to german "Gesamtpunktzahl: N1";
 
 translate "Scan for Nearby Towers"
-to german "Prüfe, ob andere Türme in der Nähe sind.";
+to german "Prï¿½fe, ob andere Tï¿½rme in der Nï¿½he sind.";
 
 translate "This is too close to another Tower."
 to german "Dies ist zu nah an einem anderen Turm.";
 
 translate "This area is fine for building a Tower."
-to german "Dieses Gebiet ist für einen Turmbau geeignet.";
+to german "Dieses Gebiet ist fï¿½r einen Turmbau geeignet.";
 
 translate "Recover all materials from this O1"
 to german "Das ganze benutzte Material von O1(tsn) O1(sn) wiedergewinnen";
 
 translate "Bricks for Structure"
-to german "Ziegel für die Konstruktion.";
+to german "Ziegel fï¿½r die Konstruktion.";
 
 translate "Clay Lamp for Illumination"
-to german "Tonlampe für die Beleuchtung.";
+to german "Tonlampe fï¿½r die Beleuchtung.";
 
 translate "Cut Stones for Reinforcement"
-to german "Geschnittene Steine für die Verstärkung.";
+to german "Geschnittene Steine fï¿½r die Verstï¿½rkung.";
 
 translate "White Sand as an Offering"
-to german "Weißer Sand als Opfergabe.";
+to german "Weiï¿½er Sand als Opfergabe.";
 
 translate "Medium Quartz for the Beacon"
-to german "Mittlerer Quartz für das Leuchtfeuer.";
+to german "Mittlerer Quartz fï¿½r das Leuchtfeuer.";
 
 translate "Onions as Offering"
 to german "Zwiebeln als Opfergabe.";
@@ -289,22 +282,22 @@ translate "Saltpeter as Enrichment"
 to german "Salpeter zur Verzierung.";
 
 translate "Medium Topaz for the Beacon"
-to german "Mittlerer Topas für das Leuchtfeuer.";
+to german "Mittlerer Topas fï¿½r das Leuchtfeuer.";
 
 translate "Ash to demonstrate life's end"
 to german "Asche als Erinnerung an das Ende des Lebens.";
 
 translate "Firebricks to show Permanence"
-to german "Feuerziegel als Zeichen der Beständigkeit.";
+to german "Feuerziegel als Zeichen der Bestï¿½ndigkeit.";
 
 translate "Charcoal to show man's control of nature"
-to german "Holzkohle als Beweis der Kontrolle des Menschen über die Natur.";
+to german "Holzkohle als Beweis der Kontrolle des Menschen ï¿½ber die Natur.";
 
 translate "Iron Bars to show Strength"
-to german "Eisenbarren zur Darstellung von Stärke.";
+to german "Eisenbarren zur Darstellung von Stï¿½rke.";
 
 translate "Medium Rubies for the Beacon"
-to german "Mittlere Rubine für das Leuchtfeuer.";
+to german "Mittlere Rubine fï¿½r das Leuchtfeuer.";
 
 translate "Eggs as Offering"
 to german "Eier als Opfergabe.";
@@ -325,16 +318,16 @@ translate "Garlic Seeds as Precious Gift"
 to german "Knoblauchsaaten als kostbares Geschenk.";
 
 translate "Medium Sapphires for the Beacon"
-to german "Mittlerer Saphir für das Leuchtfeuer.";
+to german "Mittlerer Saphir fï¿½r das Leuchtfeuer.";
 
 translate "Papyrus Paper, showing Contemplation"
 to german "Papyruspapier als Darstellung des Betrachtens";
 
 translate "Cobra's Bite Extract, showing Daring"
-to german "Kobrabissextrakt als Zeichen für Wagemut.";
+to german "Kobrabissextrakt als Zeichen fï¿½r Wagemut.";
 
 translate "Nut's Essence, showing Daring"
-to german "Nussessenz als Zeichen für Wagemut.";
+to german "Nussessenz als Zeichen fï¿½r Wagemut.";
 
 translate "Quicksilver, showing Haste"
 to german "Quecksilber als Darstellung von Eile.";
@@ -343,22 +336,22 @@ translate "Lens"
 to german "Linse";
 
 translate "Lens Amethyst for the Beacon"
-to german "Linsenamethyst für das Leuchtfeuer.";
+to german "Linsenamethyst fï¿½r das Leuchtfeuer.";
 
 translate "Wood for Structure"
-to german "Holz für die Konstruktion.";
+to german "Holz fï¿½r die Konstruktion.";
 
 translate "Medium Emeralds for the Beacon"
-to german "Mittlere Smaragde für das Leuchtfeuer.";
+to german "Mittlere Smaragde fï¿½r das Leuchtfeuer.";
 
 translate "Dates, sweet gift of Flora"
-to german "Datteln als süßes Geschenk der Pflanzenwelt.";
+to german "Datteln als sï¿½ï¿½es Geschenk der Pflanzenwelt.";
 
 translate "Honey, sweet gift of Fauna"
-to german "Honig als süßes Geschenk der Tierwelt.";
+to german "Honig als sï¿½ï¿½es Geschenk der Tierwelt.";
 
 translate "Medium Diamonds for the Beacon"
-to german "Mittlere Diamanten für das Leuchtfeuer.";
+to german "Mittlere Diamanten fï¿½r das Leuchtfeuer.";
 
 translate "Slate as Barrier"
 to german "Schiefer als Abdeckung.";
@@ -367,10 +360,10 @@ translate "Night Granite as Shield"
 to german "Nachtgranit als Schutzschild.";
 
 translate "Peasant's Foot Mushrooms as Offering"
-to german "Bauernfußpilze als Opfergabe.";
+to german "Bauernfuï¿½pilze als Opfergabe.";
 
 translate "Toad Skin Mushrooms as Offering"
-to german "Krötenhautpilze als Opfergabe.";
+to german "Krï¿½tenhautpilze als Opfergabe.";
 
 translate "Sand Spore Mushrooms as Offering"
 to german "Sandsporenpilze als Opfergabe.";
@@ -388,13 +381,13 @@ translate "Dung Rot Mushrooms as Offering"
 to german "Vefaulte Mistpilze als Opfergabe.";
 
 translate "Check construction costs"
-to german "Prüfe Baumaterialkosten";
+to german "Prï¿½fe Baumaterialkosten";
 
 translate "Monumental Towers"
-to german "Monumenttürme";
+to german "Monumenttï¿½rme";
 
 translate "Test of Towers: O1"
-to german "Test der Türme: O1(sn)";
+to german "Test der Tï¿½rme: O1(sn)";
 
 translate "Monumental Tower of the Rich Soil"
 to german "Monumentturm der reichen Erde";
@@ -418,13 +411,13 @@ translate "Your tower location is too remote."
 to german "Deine Turmposition ist zu abgeschieden.";
 
 translate "You may not build within 1000 feet of another Tower."
-to german "Du kannst nicht innerhalb 1000 Fuß eines anderen Turmes bauen.";
+to german "Du kannst nicht innerhalb 1000 Fuï¿½ eines anderen Turmes bauen.";
 
 translate "This tower may be out of bounds. Then again, this message may be in error. Anyway, contact the developers if something looks wrong."
-to german "Dieser Turm ist nicht erlaubt. Es kann aber sein, dass diese Meldung falsch ist. Wenn du meinst, dass ein Fehler vorliegen könnte, rufe einen Entwickler.";
+to german "Dieser Turm ist nicht erlaubt. Es kann aber sein, dass diese Meldung falsch ist. Wenn du meinst, dass ein Fehler vorliegen kï¿½nnte, rufe einen Entwickler.";
 
 translate "Towers must be built in Egypt proper."
-to german "Türme müssen innerhalb Ägyptens gebaut werden.";
+to german "Tï¿½rme mï¿½ssen innerhalb ï¿½gyptens gebaut werden.";
 
 translate "Only one Monumental tower of each type may be built."
 to german "Du kannst nur einen einzigen Monumentalturm jeder Art bauen.";

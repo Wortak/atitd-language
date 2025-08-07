@@ -9,10 +9,10 @@ module player_ger;
 //***************************************************************************
 
 translate "Choose a New Starting Spot"
-to german "Wähle einen neuen Startpunkt";
+to german "Wï¿½hle einen neuen Startpunkt";
 
 translate "Choose Starting Spot near a Friend"
-to german "Wähle einen Startpunkt in der Nähe eines Freundes";
+to german "Wï¿½hle einen Startpunkt in der Nï¿½he eines Freundes";
 
 translate Shirt to german neuter
 {
@@ -36,7 +36,7 @@ swa "Kleid"; sn "Kleid";
 }
 translate Anklet to german neuter
 {
-swa "Fußkettchen"; sn "Fußkettchen";
+swa "Fuï¿½kettchen"; sn "Fuï¿½kettchen";
 }
 translate Headdress to german feminine
 {
@@ -64,11 +64,11 @@ swa "Handwickel"; sn "Handwickel";
 }
 translate Feet to german feminine
 {
-swa "Fußwickel"; sn "Fußwickel";
+swa "Fuï¿½wickel"; sn "Fuï¿½wickel";
 }
 translate Belt to german masculine
 {
-swa "Gürtel"; sn "Gürtel";
+swa "Gï¿½rtel"; sn "Gï¿½rtel";
 }
 translate Pleats to german feminine
 {
@@ -76,7 +76,7 @@ swa "Faltenrock"; sn "Faltenrock";
 }
 translate Halter to german neuter
 {
-swa "Trägeroberteil"; sn "Trägeroberteil";
+swa "Trï¿½geroberteil"; sn "Trï¿½geroberteil";
 }
 translate Skirt to german masculine
 {
@@ -128,7 +128,7 @@ swa "Mittige Rockverzierung"; sn "Mittige Rockverzierung";
 }
 translate Legwarmers to german masculine
 {
-swa "Beinwärmer"; sn "Beinwärmer"; pn "Beinwärmer";
+swa "Beinwï¿½rmer"; sn "Beinwï¿½rmer"; pn "Beinwï¿½rmer";
 }
 translate Gloves to german masculine
 {
@@ -136,7 +136,7 @@ swa "Handschuhe"; sn "Handschuhe"; pn "Handschuhe";
 }
 translate Sleeves to german masculine
 {
-swa "Ärmel"; sn "Ärmel"; pn "Ärmel";
+swa "ï¿½rmel"; sn "ï¿½rmel"; pn "ï¿½rmel";
 }
 translate Bandages to german feminine
 {
@@ -212,7 +212,7 @@ swa "Zierfalten"; sn "Zierfalten";
 }
 translate Sash to german feminine
 {
-swa "Schärpe"; sn "Schärpe";
+swa "Schï¿½rpe"; sn "Schï¿½rpe";
 }
 translate Slippers to german feminine
 {
@@ -292,7 +292,7 @@ swa "Unterhemd"; sn "Unterhemd";
 }
 translate WaistAndThighs to german feminine
 {
-swa "Hüft-und Oberschenkelklamotten"; sn "Hüft-und Oberschenkelklamotten";
+swa "Hï¿½ft-und Oberschenkelklamotten"; sn "Hï¿½ft-und Oberschenkelklamotten";
 }
 translate Shins to german feminine
 {
@@ -308,7 +308,7 @@ swa "Bikini"; sn "Bikini";
 }
 translate Armbands to german feminine
 {
-swa "Armbänder"; sn "Armbänder";
+swa "Armbï¿½nder"; sn "Armbï¿½nder";
 }
 translate Wristbands to german feminine
 {
@@ -330,7 +330,7 @@ to german "Bluse";
 translate "Dress"
 to german "Kleid";
 translate "Anklet"
-to german "Fußkettchen";
+to german "Fuï¿½kettchen";
 translate "Headdress"
 to german "Kopfbedeckung";
 translate "Abs and Neck"
@@ -344,13 +344,13 @@ to german "Kniewickel";
 translate "Hands"
 to german "Handwickel";
 translate "Feet"
-to german "Fußwickel";
+to german "Fuï¿½wickel";
 translate "Belt"
-to german "Gürtel"; 
+to german "Gï¿½rtel"; 
 translate "Pleats"
 to german "Faltenrock";
 translate "Halter"
-to german "Trägeroberteil";
+to german "Trï¿½geroberteil";
 translate "Skirt"
 to german "Rock"; 
 translate "Body Suit"
@@ -376,11 +376,11 @@ to german "Untere Rockverzierung";
 translate "Skirt Trim (Middle)"
 to german "Mittige Rockverzierung"; 
 translate "Legwarmers"
-to german "Beinwärmer";
+to german "Beinwï¿½rmer";
 translate "Gloves"
 to german "Handschuhe"; 
 translate "Sleeves"
-to german "Ärmel"; 
+to german "ï¿½rmel"; 
 translate "Bandages"
 to german "Bandagen";
 translate "Hat Band"
@@ -418,7 +418,7 @@ to german "Hosenband";
 translate "Pleats Trim"
 to german "Zierfalten";
 translate "Sash"
-to german "Schärpe"; 
+to german "Schï¿½rpe"; 
 translate "Slippers"
 to german "Pantoffeln";
 translate "Vest"
@@ -458,7 +458,7 @@ to german "Harnisch";
 translate "Undershirt"
 to german "Unterhemd"; 
 translate "Waist and Thigh Rags"
-to german "Hüft-und Oberschenkelklamotten";
+to german "Hï¿½ft-und Oberschenkelklamotten";
 translate "Shin Wraps"
 to german "Schienbeinschoner"; 
 translate "Tunic"
@@ -481,7 +481,7 @@ translate "Build"
 to german "Baue";
 
 translate "Plant"
-to german "Säen";
+to german "Sï¿½en";
 
 translate "Gather"
 to german "Sammle";
@@ -529,10 +529,10 @@ translate "Show the Compass (F4)"
 	to german "Zeige den Kompass (F4)";
 
 translate "Free Transport for Newcomers"
-	to german "Freier Transport für Neulinge";
+	to german "Freier Transport fï¿½r Neulinge";
 
 translate "Utility"
-	to german "Nützliches";
+	to german "Nï¿½tzliches";
 
 translate "Billing"
 	to german "Abrechnung";
@@ -544,7 +544,7 @@ translate "Ownership"
 	to german "Eigentum";
 
 translate "Utility Menu"
-	to german "Menü \"Nützliches\"";
+	to german "Menï¿½ \"Nï¿½tzliches\"";
 
 translate "Bug Reports"
 	to german "Bugberichte";
@@ -556,34 +556,34 @@ translate "Quit"
 	to german "Beenden";
 
 translate "Utility/Utility Menu"
-	to german "Nützliches/Menü \"Nützliches\"";
+	to german "Nï¿½tzliches/Menï¿½ \"Nï¿½tzliches\"";
 translate "Utility/-"
-	to german "Nützliches/-";
+	to german "Nï¿½tzliches/-";
 translate "Utility/*"
-	to german "Nützliches/*";
+	to german "Nï¿½tzliches/*";
 
 translate "Utility/Bug Reports"
-	to german "Nützliches/Bug Reports";
+	to german "Nï¿½tzliches/Bug Reports";
 translate "Utility/Bug Reports/Bug Reports"
-	to german "Nützliches/Bug Reports/Bug Reports";
+	to german "Nï¿½tzliches/Bug Reports/Bug Reports";
 translate "Utility/Bug Reports/-"
-	to german "Nützliches/Bug Reports/-";
+	to german "Nï¿½tzliches/Bug Reports/-";
 translate "Utility/Bug Reports/*"
-	to german "Nützliches/Bug Reports/*";
+	to german "Nï¿½tzliches/Bug Reports/*";
 translate "Utility/Bug Reports/Filter"
-	to german "Nützliches/Bug Reports/Filter";
+	to german "Nï¿½tzliches/Bug Reports/Filter";
 translate "Utility/Bug Reports/Log Out"
-	to german "Nützliches/Bug Reports/Ausloggen";
+	to german "Nï¿½tzliches/Bug Reports/Ausloggen";
 translate "Utility/-"
-	to german "Nützliches/-";
+	to german "Nï¿½tzliches/-";
 translate "Utility/Options:"
-	to german "Nützliches/Optionen:";
+	to german "Nï¿½tzliches/Optionen:";
 translate "Utility/-"
-	to german "Nützliches/-";
+	to german "Nï¿½tzliches/-";
 translate "Utility/Log Out"
-	to german "Nützliches/Ausloggen";
+	to german "Nï¿½tzliches/Ausloggen";
 translate "Utility/Quit"
-	to german "Nützliches/Beenden";
+	to german "Nï¿½tzliches/Beenden";
 
 translate "Options:"
 	to german "Optionen:";
@@ -612,7 +612,7 @@ translate "Debug Misc"
 to german "Debug Misc";
 
 translate "Debug Ecosys"
-to german "Debug Ökosys";
+to german "Debug ï¿½kosys";
 
 translate "Debug"
 to german "Debug";
@@ -624,7 +624,7 @@ translate "Someone you don't recognize"
 to german "Jemand, den Du nicht kennst";
 
 translate "Public"
-to german "Öffentlich";
+to german "ï¿½ffentlich";
 
 translate "Appearance"
 to german "Aussehen";
@@ -636,7 +636,7 @@ translate "Tests"
 to german "Tests";
 
 translate "Ranks"
-to german "Ränge";
+to german "Rï¿½nge";
 
 translate "Ownership"
 to german "Eigentum";
@@ -657,7 +657,7 @@ translate "Character Selection"
 to german "Charakterauswahl";
 
 translate "Character Height"
-to german "Charakterhöhe";
+to german "Charakterhï¿½he";
 
 translate "Chat Bubble"
 to german "Sprechblase";
@@ -678,7 +678,7 @@ translate "Default"
 to german "Standard"; 
 
 translate "Green"
-to german "Grün"; 
+to german "Grï¿½n"; 
 
 translate "Blue"
 to german "Blau"; 
@@ -702,7 +702,7 @@ translate "Brown"
 to german "Braun";
 
 translate "Whites"
-to german "Weiß";
+to german "Weiï¿½";
 
 translate "Black"
 to german "Schwarz";
@@ -714,13 +714,13 @@ translate "Blues"
 to german "Blau";
 
 translate "Pure White"
-to german "Pures Weiß";
+to german "Pures Weiï¿½";
 
 translate "Faded White"
-to german "Verblasstes Weiß";
+to german "Verblasstes Weiï¿½";
 
 translate "Smoky White"
-to german "Rauchiges Weiß";
+to german "Rauchiges Weiï¿½";
 
 translate "Light Grey"
 to german "Helles Grau";
@@ -738,52 +738,52 @@ translate "Navy Blue"
 to german "Marineblau";
 
 translate "Deep Blue"
-to german "Dunkelblau";
+to german "Tiefes Blau";
 
 translate "Reds"
 to german "Rot";
 
 translate "Bright Red"
-to german "Hellrot";
+to german "Strahlendes Rot";
 
 translate "Brick Red"
 to german "Ziegelrot";
 
 translate "Reddish Grey"
-to german "rötliches Grau";
+to german "rï¿½tliches Grau";
 
 translate "Burgundy Red"
 to german "Burgunderrot";
 
 translate "Deep Red"
-to german "Dunkelrot";
+to german "Tiefes Rot";
 
 translate "Very Deep Red"
-to german "Dunkles Dunkelrot";
+to german "Sehr tiefes Rot";
 
 translate "Greens"
-to german "Grün";
+to german "Grï¿½n";
 
 translate "Forest Green"
-to german "Waldgrün";
+to german "Waldgrï¿½n";
 
 translate "Bright Green"
-to german "Leuchtendes Grün";
+to german "Strahlendes Grï¿½n";
 
 translate "Olive Green"
-to german "Olivgrün";
+to german "Olivgrï¿½n";
 
 translate "Faded Green"
-to german "Verblasstes Grün";
+to german "Verblasstes Grï¿½n";
 
 translate "Deep Green"
-to german "Dunkles Grün";
+to german "Tiefes Grï¿½n";
 
 translate "Golden Yellow"
 to german "Goldgelb";
 
 translate "Bright Yellow"
-to german "Leuchtendes Gelb";
+to german "Strahlendes Gelb";
 
 translate "Yellows"
 to german "Gelb";
@@ -792,7 +792,7 @@ translate "Faded Yellow"
 to german "Verblasstes Gelb";
 
 translate "Light Tan"
-to german "Leichte Bräune";
+to german "Leichte Brï¿½une";
 
 translate "Browns"
 to german "Braun";
@@ -804,7 +804,7 @@ translate "Chocolate"
 to german "Schokoladenbraun";
 
 translate "Deep Purple"
-to german "Dunkles Violett";
+to german "Tiefes Violett";
 
 translate "Purples"
 to german "Violett";
@@ -823,13 +823,13 @@ translate "The following Chat Bubbles are"
 to german "Die folgenden Sprechblasen sind"; 
 
 translate "available to somebody of your rank:"
-to german "für Jemanden deines Ranges verfügbar:";
+to german "fï¿½r Jemanden deines Ranges verfï¿½gbar:";
 
 translate "Standard Chat Bubble"
 to german "Standardsprechblase";
 
 translate "Military Swords Bubble"
-to german "Militärsprechblase";
+to german "Militï¿½rsprechblase";
 
 translate "Presence of Horus"
 to german "Stimme des Horus";
@@ -841,7 +841,7 @@ translate "Presence of Osiris"
 to german "Stimme der Osiris";
 
 translate "Scholar of the Land"
-to german "Schüler des Landes";
+to german "Schï¿½ler des Landes";
 
 translate "Game Master"
 to german "Gamemaster";
@@ -862,7 +862,7 @@ translate "Blank Bubble"
 to german "Leere Sprechblase";
 
 translate "Scholar of the 2nd Age"
-to german "Schüler des 2. Zeitalters";
+to german "Schï¿½ler des 2. Zeitalters";
 
 translate "Patron of the Land"
 to german "Patron des Landes";
@@ -874,16 +874,16 @@ translate "O1 Color"
 to german "O1(sn)-Farbe";
 
 translate "Character Height"
-to german "Charaktergröße";
+to german "Charaktergrï¿½ï¿½e";
 
 translate "Gigantic"
 to german "Gigantisch";
 
 translate "Very Tall"
-to german "Sehr Groß";
+to german "Sehr Groï¿½";
 
 translate "Tall"
-to german "Groß";
+to german "Groï¿½";
 
 translate "Average"
 to german "Durchschnittlich";
@@ -895,7 +895,7 @@ translate "Very Short"
 to german "Sehr Klein";
 
 translate "Razak Size"
-to german "Groß wie Razak";
+to german "Groï¿½ wie Razak";
 
 translate "Miniscule"
 to german "Winzig";
@@ -913,7 +913,7 @@ translate "Character Selection"
 to german "Charakterauswahl";
 
 translate "Male Character N1"
-to german "Männl. Charakter N1";
+to german "Mï¿½nnl. Charakter N1";
 
 translate "Female Character N1"
 to german "Weibl. Charakter N1";
@@ -938,10 +938,10 @@ to german "Dunkel";
 
 
 translate "You may only create new characters during an official play session. Register for the beta at www.egenesis.com to be notified of play sessions."
-to german "Du kannst nur während des offiziellen Spielbetriebs neue Chars erschaffen. Registriere Dich auf www.kemet-deutschland.de für die Beta, Du wirst bei neuen Spielsessions benachrichtigt.";
+to german "Du kannst nur wï¿½hrend des offiziellen Spielbetriebs neue Chars erschaffen. Registriere Dich auf www.kemet-deutschland.de fï¿½r die Beta, Du wirst bei neuen Spielsessions benachrichtigt.";
 
 translate "male"
-to german "männlich";
+to german "mï¿½nnlich";
 translate "female"
 to german "weiblich";
 translate "cancel"
@@ -951,7 +951,7 @@ to german "Passwort1";
 translate "Passwort2"
 to german "Passwort2";
 translate "You must select a gender"
-to german "Wähle ein Geschlecht aus";
+to german "Wï¿½hle ein Geschlecht aus";
 
 translate "The Username U1 is already taken."
 to german "Der Benutzername U1(name) ist bereits vergeben.";
@@ -964,13 +964,13 @@ translate "That username is already taken."
 to german "Dieser Benutzername ist bereits vergeben.";
 
 translate "The server is up in Development Mode. Unless you are a World Builder, or have been specially asked by one of the development team members to log in, plase wait until the next play session."
-to german "Der Server ist im Entwicklermodus. Wenn Du kein Weltenschaffer bist, oder nicht von einem Entwickler zum Einloggen eingeladen wurdest, warte bitte bis zur nächsten Spielsession.";
+to german "Der Server ist im Entwicklermodus. Wenn Du kein Weltenschaffer bist, oder nicht von einem Entwickler zum Einloggen eingeladen wurdest, warte bitte bis zur nï¿½chsten Spielsession.";
 
 translate "Although the server is up, this isn't an official play session. If you have already played in an official session you may log in and explore if you'd like, but be aware that nothing you do will be saved."
-to german "Auch wenn der Server am Netz ist, läuft momentan keine offizielle Spielsession. Wenn Du bereits in einer offiziellen Sitzung gespielt hast, kannst Du, wenn du willst, einloggen und die Welt erkunden, aber Nichts davon wird gespeichert.";
+to german "Auch wenn der Server am Netz ist, lï¿½uft momentan keine offizielle Spielsession. Wenn Du bereits in einer offiziellen Sitzung gespielt hast, kannst Du, wenn du willst, einloggen und die Welt erkunden, aber Nichts davon wird gespeichert.";
 
 translate "The developers are preparing the server for the upcoming official session. Only developers may log in right now. "
-to german "Die Entwickler bereiten den Server für eine angehende offizielle Sitzung vor. Nur Entwickler können jetzt einloggen.";
+to german "Die Entwickler bereiten den Server fï¿½r eine angehende offizielle Sitzung vor. Nur Entwickler kï¿½nnen jetzt einloggen.";
 
 translate "Although the server is up, this isn't an official play session. You may log in if you want, and but THIS GAME IS NOT FUN unless it's during an official session when there are other people around. Also, nothing you do will be saved."
 to german "Auch wenn der Server am Netz ist, ist keine offizielle Spielsession. Du kannst einloggen, wenn du willst, ABER NICHT ZUM SPASS, wie es bei einer offiziellen Sitzung mit anderen Leuten ist. Auch wird Nichts, was Du jetzt tust gespeichert.";
@@ -979,10 +979,10 @@ translate "Player Identification: U1"
 to german "Spieler-Identifikation: U1(name)";
 
 translate "You must type in a name for your player."
-to german "Du musst einen Namen für deinen Spieler eintippen.";
+to german "Du musst einen Namen fï¿½r deinen Spieler eintippen.";
 
 translate "Privileged users must use a password"
-to german "Priviligierte Nutzer müssen ein Passwort verwenden";
+to german "Priviligierte Nutzer mï¿½ssen ein Passwort verwenden";
 
 translate "No such player."
 to german "Spieler unbekannt.";
@@ -994,10 +994,10 @@ translate "Your character has been banned."
 to german "Dein Charakter wurde verbannt.";
 
 translate "Your character account is suspended for the next N1"
-to german "Dein Charakter ist für die Zeit von N1 suspendiert.";
+to german "Dein Charakter ist fï¿½r die Zeit von N1 suspendiert.";
 
 translate "The Server is open for Developers only."
-to german "Der Server ist nur für Entwickler offen.";
+to german "Der Server ist nur fï¿½r Entwickler offen.";
 
 translate "Emote"
 to german "Verhalten";
@@ -1021,7 +1021,7 @@ translate "thrash"
 to german "Niederwerfen";
 
 translate "bend"
-to german "Bücken";
+to german "Bï¿½cken";
 
 translate "gesture"
 to german "Gestikulieren";
@@ -1030,13 +1030,13 @@ translate "reach"
 to german "Zum Himmel deuten";
 
 translate "cardiac"
-to german "Krümmen";
+to german "Krï¿½mmen";
 
 translate "bless"
 to german "Anbeten";
 
 translate "backflip"
-to german "Rückwärtssalto";
+to german "Rï¿½ckwï¿½rtssalto";
 
 translate "hambone"
 to german "Tanzen";
@@ -1055,13 +1055,13 @@ translate "Enter credit card# and expiration date (mm/yy) below, or the word Pay
 to german "Gib die Kreditkarten-Nr. und das Ablaufdatum (MM/JJ) unten ein, oder die Option BarZahlung, wenn du diese Optoion nutzt. In der Beta, nutze Kreditkarte";
 
 translate "for free play."
-to german "für freies Spielen.";
+to german "fï¿½r freies Spielen.";
 
 translate "That name is not allowed."
 to german "Dieser Name ist nicht erlaubt.";
 
 translate "Attempt to connect from blocked port."
-to german "Versuch, dich über einen gesperrten Port anzumelden.";
+to german "Versuch, dich ï¿½ber einen gesperrten Port anzumelden.";
 
 translate "Banned character U1 tried to log in."
 to german "Gebannter Charakter U1(name) versuchte einzuloggen.";
@@ -1075,25 +1075,25 @@ to german "Versuche Wieder-Verbindung";
 
 
 translate "Choose your gender:"
-to german "Wähle dein Geschlecht:";
+to german "Wï¿½hle dein Geschlecht:";
 
 translate "That's the wrong password."
 to german "Das ist das falsche Passwort.";
 
 translate "The Server is open for Developers only."
-to german "Der Server ist nur für Entwickler geöffnet.";
+to german "Der Server ist nur fï¿½r Entwickler geï¿½ffnet.";
 
 translate "The Server is open for Builders only."
-to german "Der Server ist nur für Weltenschaffer geöffnet.";
+to german "Der Server ist nur fï¿½r Weltenschaffer geï¿½ffnet.";
 
 translate "Your character account is suspended for the next N1."
-to german "Dein Account wurde für N1 suspendiert. Bitte wende dich an support@kemet-deutschland.de";
+to german "Dein Account wurde fï¿½r N1 suspendiert. Bitte wende dich an support@kemet-deutschland.de";
 
 translate "Guest Account"
 to german "Gastaccount";
 
 translate "Guild Affiliations"
-to german "Gildenzugehörigkeit";
+to german "Gildenzugehï¿½rigkeit";
 
 translate "Mentored by "
 to german "Mentor war ";

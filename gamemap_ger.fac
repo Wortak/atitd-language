@@ -10,38 +10,38 @@ Module gamemap_ger;
 //menues
 
 translate "Jail. Call a GM."
-to german "Ällabätsch! Rufe einen GM.";
+to german "ï¿½llabï¿½tsch! Rufe einen GM.";
 
 translate "Show the Map (F3)"
 to german "Zeige die Karte (F3)";
 
 translate "Toggle the Map (F3)"
-to german "Zeige die Karte (F3)";
+to german "Umschalten der Karte (F3)";
 
 translate "Landmarks"
-to german "Sehenswürdigkeiten";
+to german "Sehenswï¿½rdigkeiten";
 
 translate "Add a Landmark"
-to german "Füge Sehenswürdigkeit hinzu";
+to german "Fï¿½ge Sehenswï¿½rdigkeit hinzu";
 
 translate "Maximum of N1 landmarks reached."
-to german "Maximum von N1 Sehenswürdigkeiten erreicht.";
+to german "Maximum von N1 Sehenswï¿½rdigkeiten erreicht.";
 
 translate "Name of Landmark?"
-to german "Name der Sehenswürdigkeit?";
+to german "Name der Sehenswï¿½rdigkeit?";
 
 translate "Replace Landmark K1?"
-to german "Ersetze Name der Sehenswürdigkeit K1?";
+to german "Ersetze Name der Sehenswï¿½rdigkeit K1?";
 
 translate "Delete Landmark"
-to german "Lösche Sehenswürdigkeit";
+to german "Lï¿½sche Sehenswï¿½rdigkeit";
 
 //Josh: This doesn't work:
 translate "Are you sure you want to delete landmark K1?"
-to german "Bist du sicher, dass du die Sehenswürdigkeit K1 löschen willst?";
+to german "Bist du sicher, dass du die Sehenswï¿½rdigkeit K1 lï¿½schen willst?";
 
 translate "Abandon All Hope.  Contact a GM.: N1, N2"
-to german "Ällabätsch!    Rufe einen GM.: N1, N2";
+to german "ï¿½llabï¿½tsch!    Rufe einen GM.: N1, N2";
 
 translate "Welcoming Island"
 to german "Willkommensinsel";

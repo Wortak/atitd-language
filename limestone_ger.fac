@@ -22,15 +22,15 @@ translate Dirt to german masculine
 }
 translate FlintChisel to german masculine
 {
-  swa "Feuersteinmeißel";
-  sn "Feuersteinmeißel"; sg "Feuersteinmeißel"; sd "Feuersteinmeißel"; sa "Feuersteinmeißel";
-  pn "Feuersteinmeißel"; pg "Feuersteinmeißel"; pd "Feuersteinmeißel"; pa "Feuersteinmeißel";
+  swa "Feuersteinmeiï¿½el";
+  sn "Feuersteinmeiï¿½el"; sg "Feuersteinmeiï¿½el"; sd "Feuersteinmeiï¿½el"; sa "Feuersteinmeiï¿½el";
+  pn "Feuersteinmeiï¿½el"; pg "Feuersteinmeiï¿½el"; pd "Feuersteinmeiï¿½el"; pa "Feuersteinmeiï¿½el";
 }
 translate FlintHammer to german masculine
 {
   swa "Feuersteinhammer";
   sn "Feuersteinhammer"; sg "Feuersteinhammers"; sd "Feuersteinhammer"; sa "Feuersteinhammer";
-  pn "Feuersteinhämmer"; pg "Feuersteinhämmer"; pd "Feuersteinhämmern"; pa "Feuersteinhämmer";
+  pn "Feuersteinhï¿½mmer"; pg "Feuersteinhï¿½mmer"; pd "Feuersteinhï¿½mmern"; pa "Feuersteinhï¿½mmer";
 }
 
 translate "Gather: Dirt"
@@ -43,16 +43,13 @@ translate "Gather: Limestone"
 to german "Sammle: Kalkstein";
 
 translate "As you chisel away some limestone, you also discover some soda."
-to german "Während du Kalkstein ausgräbst entdeckst du auch etwas Natron.";
+to german "Wï¿½hrend du Kalkstein ausgrï¿½bst entdeckst du auch etwas Natron.";
 
 translate "Your lead chisel has worn away to nothing!"
-to german "Dein Meißel hat sich abgenutzt und zerfällt!";
+to german "Dein Meiï¿½el hat sich abgenutzt und zerfï¿½llt!";
 
 translate "Your flint chisel has shattered!"
-to german "Dein Feuersteinmeißel ist zerbrochen!";
-
-translate "Your flint chisel has shattered!"
-to german "Dein Feuersteinhammer ist zerbrochen!";
+to german "Dein Feuersteinmeiï¿½el ist zerbrochen!";
 
 translate "You must have a chisel and hammer to chip away at the limestone."
-to german "Du musst einen Meißel und einen Hammer haben, um Kalkstein auszugraben.";
+to german "Du musst einen Meiï¿½el und einen Hammer haben, um Kalkstein auszugraben.";

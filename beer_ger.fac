@@ -13,10 +13,10 @@ translate "Farming"
 to german "Landwirtschaft";
 
 translate "Build a Grain Oven"
-to german "Baue einen Getreideofen";
+to german "Baue einen Getreidetrocknungsofen";
 
 translate "To construct a Grain Oven, you need:"
-to german "Um einen Getreideofen zu bauen benötigst Du:";
+to german "Um einen Getreidetrockenofen zu bauen benï¿½tigst Du:";
 
 translate "Beer Brewing"
 to german "Bierbrauen";
@@ -25,162 +25,146 @@ to german "Bierbrauen";
 //objects
 translate GrainOven to german masculine
 {
-swa "Getreideofen";
-sn "Getreideofen"; sg "Getreideofens"; sd "Getreideofen"; sa "Getreideofen";
-pn "Getreideöfen"; pg "Getreideöfen"; pd "Getreideöfen"; sa "Getreideöfen";
+	swa "Getreidetrocknungsofen";
+	sn "Getreidetrocknungsofen"; sg "Getreidetrocknungsofens"; sd "Getreidetrocknungsofen"; sa "Getreidetrocknungsofen";
+	pn "Getreidetrocknungsï¿½fen"; pg "Getreidetrocknungsï¿½fen"; pd "Getreidetrocknungsï¿½fen"; sa "Getreidetrocknungsï¿½fen";
 }
-
 translate Beer to german neuter
 {
-swa "Bier";
-sn "Bier"; sg "Bieres"; sd "Bier"; sa "Bier";
-pn "Biere"; pg "Biere"; pd "Bieren"; sa "Biere";
+	swa "Bier";
+	sn "Bier"; sg "Bieres"; sd "Bier"; sa "Bier";
+	pn "Biere"; pg "Biere"; pd "Bieren"; sa "Biere";
 }
-
-translate Beer to german neuter
-{
-swa "Bier";
-sn "Bier"; sg "Biers"; sd "Buer"; sa "Bier";
-pn "Bier"; pg "Bier"; pd "Bier"; sa "Bier";
-}
-
 translate BarleyRaw to german femininecollective
 {
-swa "Gerste (roh)";
-sn "Gerste (roh)"; sg "Gerste (roh)"; sd "Gerste (roh)"; sa "Gerste (roh)";
-pn "Gerste (roh)"; pg "Gerste (roh)"; pd "Gersten (roh)"; pa "Gerste (roh)";
+	swa "Gerste (roh)";
+	sn "Gerste (roh)"; sg "Gerste (roh)"; sd "Gerste (roh)"; sa "Gerste (roh)";
+	pn "Gersten (roh)"; pg "Gersten (roh)"; pd "Gersten (roh)"; pa "Gersten (roh)";
 }
 translate BarleyLightRoasted to german femininecollective
 {
-swa "Gerste (leicht geröstet)";
-sn "Gerste (leicht geröstet)"; sg "Gerste (leicht geröstet)"; sd "Gerste (leicht geröstet)"; sa "Gerste (leicht geröstet)";
-pn "Gerste (leicht geröstet)"; pg "Gerste (leicht geröstet)"; pd "Gersten (leicht geröstet)"; pa "Gerste (leicht geröstet)";
+	swa "Gerste (leicht gerï¿½stet)";
+	sn "Gerste (leicht gerï¿½stet)"; sg "Gerste (leicht gerï¿½stet)"; sd "Gerste (leicht gerï¿½stet)"; sa "Gerste (leicht gerï¿½stet)";
+	pn "Gersten (leicht gerï¿½stet)"; pg "Gersten (leicht gerï¿½stet)"; pd "Gersten (leicht gerï¿½stet)"; pa "Gersten (leicht gerï¿½stet)";
 }
 translate BarleyMediumRoasted to german femininecollective
 {
-swa "Gerste (medium geröstet)";
-sn "Gerste (medium geröstet)"; sg "Gerste (medium geröstet)"; sd "Gerste (medium geröstet)"; sa "Gerste (medium geröstet)";
-pn "Gerste (medium geröstet)"; pg "Gerste (medium geröstet)"; pd "Gersten (medium geröstet)"; pa "Gerste (medium geröstet)";
+	swa "Gerste (medium gerï¿½stet)";
+	sn "Gerste (medium gerï¿½stet)"; sg "Gerste (medium gerï¿½stet)"; sd "Gerste (medium gerï¿½stet)"; sa "Gerste (medium gerï¿½stet)";
+	pn "Gersten (medium gerï¿½stet)"; pg "Gersten (medium gerï¿½stet)"; pd "Gersten (medium gerï¿½stet)"; pa "Gersten (medium gerï¿½stet)";
 }
 translate BarleyDarkRoasted to german femininecollective
 {
-swa "Gerste (dunkel geröstet)";
-sn "Gerste (dunkel geröstet)"; sg "Gerste (dunkel geröstet)"; sd "Gerste (dunkel geröstet)"; sa "Gerste (dunkel geröstet)";
-pn "Gerste (dunkel geröstet)"; pg "Gerste (dunkel geröstet)"; pd "Gersten (dunkel geröstet)"; pa "Gerste (dunkel geröstet)";
+	swa "Gerste (dunkel gerï¿½stet)";
+	sn "Gerste (dunkel gerï¿½stet)"; sg "Gerste (dunkel gerï¿½stet)"; sd "Gerste (dunkel gerï¿½stet)"; sa "Gerste (dunkel gerï¿½stet)";
+	pn "Gersten (dunkel gerï¿½stet)"; pg "Gersten (dunkel gerï¿½stet)"; pd "Gersten (dunkel gerï¿½stet)"; pa "Gersten (dunkel gerï¿½stet)";
 }
 translate BarleyBurnt to german femininecollective
 {
-swa "Gerste (verbrannt)";
-sn "Gerste (verbrannt)"; sg "Gerste (verbrannt)"; sd "Gerste (verbrannt)"; sa "Gerste (verbrannt)";
-pn "Gerste (verbrannt)"; pg "Gerste (verbrannt)"; pd "Gersten (verbrannt)"; pa "Gerste (verbrannt)";
+	swa "Gerste (verbrannt)";
+	sn "Gerste (verbrannt)"; sg "Gerste (verbrannt)"; sd "Gerste (verbrannt)"; sa "Gerste (verbrannt)";
+	pn "Gersten (verbrannt)"; pg "Gersten (verbrannt)"; pd "Gersten (verbrannt)"; pa "Gersten (verbrannt)";
 }
 translate WheatRaw to german masculinecollective
 {
-swa "Weizen (roh)";
-sn "Weizen (roh)"; sg "Weizens (roh)"; sd "Weizen (roh)"; sa "Weizen (roh)";
-pn "Weizen (roh)"; pg "Weizen (roh)"; pd "Weizen (roh)"; pa "Weizen (roh)";
+	swa "Weizen (roh)";
+	sn "Weizen (roh)"; sg "Weizens (roh)"; sd "Weizen (roh)"; sa "Weizen (roh)";
+	pn "Weizen (roh)"; pg "Weizen (roh)"; pd "Weizen (roh)"; pa "Weizen (roh)";
 }
 translate WheatLightRoasted to german masculinecollective
 {
-swa "Weizen (leicht geröstet)";
-sn "Weizen (leicht geröstet)"; sg "Weizens (leicht geröstet)"; sd "Weizen (leicht geröstet)"; sa "Weizen (leicht geröstet)";
-pn "Weizen (leicht geröstet)"; pg "Weizen (leicht geröstet)"; pd "Weizen (leicht geröstet)"; pa "Weizen (leicht geröstet)";
+	swa "Weizen (leicht gerï¿½stet)";
+	sn "Weizen (leicht gerï¿½stet)"; sg "Weizens (leicht gerï¿½stet)"; sd "Weizen (leicht gerï¿½stet)"; sa "Weizen (leicht gerï¿½stet)";
+	pn "Weizen (leicht gerï¿½stet)"; pg "Weizen (leicht gerï¿½stet)"; pd "Weizen (leicht gerï¿½stet)"; pa "Weizen (leicht gerï¿½stet)";
 }
 translate WheatMediumRoasted to german masculinecollective
 {
-swa "Weizen (medium geröstet)";
-sn "Weizen (medium geröstet)"; sg "Weizens (medium geröstet)"; sd "Weizen (medium geröstet)"; sa "Weizen (medium geröstet)";
-pn "Weizen (medium geröstet)"; pg "Weizen (medium geröstet)"; pd "Weizen (medium geröstet)"; pa "Weizen (medium geröstet)";
+	swa "Weizen (medium gerï¿½stet)";
+	sn "Weizen (medium gerï¿½stet)"; sg "Weizens (medium gerï¿½stet)"; sd "Weizen (medium gerï¿½stet)"; sa "Weizen (medium gerï¿½stet)";
+	pn "Weizen (medium gerï¿½stet)"; pg "Weizen (medium gerï¿½stet)"; pd "Weizen (medium gerï¿½stet)"; pa "Weizen (medium gerï¿½stet)";
 }
 translate WheatDarkRoasted to german masculinecollective
 {
-swa "Weizen (dunkel geröstet)";
-sn "Weizen (dunkel geröstet)"; sg "Weizens (dunkel geröstet)"; sd "Weizen (dunkel geröstet)"; sa "Weizen (dunkel geröstet)";
-pn "Weizen (dunkel geröstet)"; pg "Weizen (dunkel geröstet)"; pd "Weizen (dunkel geröstet)"; pa "Weizen (dunkel geröstet)";
+	swa "Weizen (dunkel gerï¿½stet)";
+	sn "Weizen (dunkel gerï¿½stet)"; sg "Weizens (dunkel gerï¿½stet)"; sd "Weizen (dunkel gerï¿½stet)"; sa "Weizen (dunkel gerï¿½stet)";
+	pn "Weizen (dunkel gerï¿½stet)"; pg "Weizen (dunkel gerï¿½stet)"; pd "Weizen (dunkel gerï¿½stet)"; pa "Weizen (dunkel gerï¿½stet)";
 }
 translate WheatBurnt to german masculinecollective
 {
-swa "Weizen (verbrannt)";
-sn "Weizen (verbrannt)"; sg "Weizens (verbrannt)"; sd "Weizen (verbrannt)"; sa "Weizen (verbrannt)";
-pn "Weizen (verbrannt)"; pg "Weizen (verbrannt)"; pd "Weizen (verbrannt)"; pa "Weizen (verbrannt)";
+	swa "Weizen (verbrannt)";
+	sn "Weizen (verbrannt)"; sg "Weizens (verbrannt)"; sd "Weizen (verbrannt)"; sa "Weizen (verbrannt)";
+	pn "Weizen (verbrannt)"; pg "Weizen (verbrannt)"; pd "Weizen (verbrannt)"; pa "Weizen (verbrannt)";
 }
 translate MaltRaw to german neutercollective
 {
-swa "Malz (roh)";
-sn "Malz (roh)"; sg "Malzes (roh)"; sd "Malz (roh)"; sa "Malz (roh)";
-pn "Malz (roh)"; pg "Malz (roh)"; pd "Malz (roh)"; pa "Malz (roh)";
+	swa "Malz (roh)";
+	sn "Malz (roh)"; sg "Malzes (roh)"; sd "Malz (roh)"; sa "Malz (roh)";
+	pn "Malz (roh)"; pg "Malz (roh)"; pd "Malz (roh)"; pa "Malz (roh)";
 }
 translate MaltLightRoasted to german neutercollective
 {
-swa "Malz (leicht geröstet)";
-sn "Malz (leicht geröstet)"; sg "Malzes (leicht geröstet)"; sd "Malz (leicht geröstet)"; sa "Malz (leicht geröstet)";
-pn "Malz (leicht geröstet)"; pg "Malz (leicht geröstet)"; pd "Malz (leicht geröstet)"; pa "Malz (leicht geröstet)";
+	swa "Malz (leicht gerï¿½stet)";
+	sn "Malz (leicht gerï¿½stet)"; sg "Malzes (leicht gerï¿½stet)"; sd "Malz (leicht gerï¿½stet)"; sa "Malz (leicht gerï¿½stet)";
+	pn "Malz (leicht gerï¿½stet)"; pg "Malz (leicht gerï¿½stet)"; pd "Malz (leicht gerï¿½stet)"; pa "Malz (leicht gerï¿½stet)";
 }
 translate MaltMediumRoasted to german neutercollective
 {
-swa "Malz (medium geröstet)";
-sn "Malz (medium geröstet)"; sg "Malzes (medium geröstet)"; sd "Malz (medium geröstet)"; sa "Malz (medium geröstet)";
-pn "Malz (medium geröstet)"; pg "Malz (medium geröstet)"; pd "Malz (medium geröstet)"; pa "Malz (medium geröstet)";
+	swa "Malz (medium gerï¿½stet)";
+	sn "Malz (medium gerï¿½stet)"; sg "Malzes (medium gerï¿½stet)"; sd "Malz (medium gerï¿½stet)"; sa "Malz (medium gerï¿½stet)";
+	pn "Malz (medium gerï¿½stet)"; pg "Malz (medium gerï¿½stet)"; pd "Malz (medium gerï¿½stet)"; pa "Malz (medium gerï¿½stet)";
 }
 translate MaltDarkRoasted to german neutercollective
 {
-swa "Malz (dunkel geröstet)";
-sn "Malz (dunkel geröstet)"; sg "Malzes (dunkel geröstet)"; sd "Malz (dunkel geröstet)"; sa "Malz (dunkel geröstet)";
-pn "Malz (dunkel geröstet)"; pg "Malz (dunkel geröstet)"; pd "Malz (dunkel geröstet)"; pa "Malz (dunkel geröstet)";
+	swa "Malz (dunkel gerï¿½stet)";
+	sn "Malz (dunkel gerï¿½stet)"; sg "Malzes (dunkel gerï¿½stet)"; sd "Malz (dunkel gerï¿½stet)"; sa "Malz (dunkel gerï¿½stet)";
+	pn "Malz (dunkel gerï¿½stet)"; pg "Malz (dunkel gerï¿½stet)"; pd "Malz (dunkel gerï¿½stet)"; pa "Malz (dunkel gerï¿½stet)";
 }
 translate MaltBurnt to german neutercollective
 {
-swa "Malz (verbrannt)";
-sn "Malz (verbrannt)"; sg "Malzes (verbrannt)"; sd "Malz (verbrannt)"; sa "Malz (verbrannt)";
-pn "Malz (verbrannt)"; pg "Malz (verbrannt)"; pd "Malz (verbrannt)"; pa "Malz (verbrannt)";
+	swa "Malz (verbrannt)";
+	sn "Malz (verbrannt)"; sg "Malzes (verbrannt)"; sd "Malz (verbrannt)"; sa "Malz (verbrannt)";
+	pn "Malz (verbrannt)"; pg "Malz (verbrannt)"; pd "Malz (verbrannt)"; pa "Malz (verbrannt)";
 }
-translate GrainOven to german masculine
-{
-swa "Getreidebrennofen";
-sn "Getreidebrennofen"; sg "Getreidebrennofens"; sd "Getreidebrennofen"; sa "Getreidebrennofen";
-pn "Getreidebrennöfen"; pg "Getreidebrennöfen"; pd "Getreidebrennöfen"; pa "Getreidebrennöfen";
-}
-
 translate QuickBrewing to german neuter
 {
-swa "Schnelles Brauen";
-sn "Schnelles Brauen"; sg "Schnelles Brauen"; sd "Schnelles Brauen"; sa "Schnelles Brauen";
-pn "Schnelles Brauen"; pg "Schnelles Brauen"; pd "Schnelles Brauen"; pa "Schnelles Brauen";
+	swa "Schnelles Brauen";
+	sn "Schnelles Brauen"; sg "Schnelles Brauen"; sd "Schnelles Brauen"; sa "Schnelles Brauen";
+	pn "Schnelles Brauen"; pg "Schnelles Brauen"; pd "Schnelles Brauen"; pa "Schnelles Brauen";
 }
 
 translate "QuickBrewing (Completed)"
 to german "Schnelles Brauen (Komplett)";
 
 translate "To learn quick brewing, you must already know beer brewing, and you must have a great deal of experience with festivals.  Your standing with the festival gods must add up to N1.  The skill costs 500 barley."
-to german "Um Schnelles Brauen zu lernen, musst du bereits Bierbrauen beherrschen. Außerdem brauchst Du große Erfahrungen mit Festen. Dein Ruf bei den Festivalgöttern muß über N1 betragen. Die Fertigkeit kostet 500 Gerste.";
+to german "Um Schnelles Brauen zu lernen, musst du bereits Bierbrauen beherrschen. Auï¿½erdem brauchst Du groï¿½e Erfahrungen mit Festen. Dein Ruf bei den Festivalgï¿½ttern muï¿½ ï¿½ber N1 betragen. Die Fertigkeit kostet 500 Gerste.";
 
 //texts
 translate "The grain oven contains nothing to take."
-to german "Im Getreidebrennofen ist nichts, was du nehmen kannst.";
+to german "Im Getreidetrocknungsofen ist nichts, was du nehmen kannst.";
 
 translate "You must select an item in the list before pressing 'Take'."
-to german "Du musst etwas aus der Liste auswählen, bevor du 'Nehmen' drückst.";
+to german "Du musst etwas aus der Liste auswï¿½hlen, bevor du 'Nehmen' drï¿½ckst.";
 
 translate "Select Wood, or a Grain:"
-to german "Wähle Holz oder Getreide:";
+to german "Wï¿½hle Holz oder Getreide:";
 
 translate "You can only put wood and grain into the grain oven."
-to german "Du kannst nur Holz und Getreide in den Getreideofen legen.";
+to german "Du kannst nur Holz und Getreide in den Getreidetrocknungsofen legen.";
 
 translate "How many O1 should I put in?"
-to german "Wieviel O1(sn) soll ich hineinlegen?";
+to german "Wie viel O1(sn) soll ich hineinlegen?";
 
 translate "You do not have N1 O1"
 to german "Du hast keine N1 O1(N1?pd:sd)";
 
 translate "The oven is overloaded.  It will do nothing until you remove some bulk."
-to german "Der Ofen ist überladen. Er wird nichts tun, bis Du eine kleine Menge herausgenommen hast.";
+to german "Der Ofen ist ï¿½berladen. Er wird nichts tun, bis Du eine kleine Menge herausgenommen hast.";
 
 translate "The oven uses N1 wood every 10 seconds. It does not have enough."
-to german "Der Ofen benötigt N1 Holz alle 10 Sekunden. Er hat nicht genug.";
+to german "Der Ofen benï¿½tigt N1 Holz alle 10 Sekunden. Er hat nicht genug.";
 
 translate "Allows one to brew beer of many flavors"
-to german "Erlaubt die Bierherstellung in vielen Geschmacksrichtungen";
+to german "Erlaubt einem die Bierherstellung in vielen Geschmacksrichtungen";
 
 translate " (Completed)"
 to german " (Komplett)";
@@ -217,9 +201,3 @@ to german "Malz (Allgemein)";
 
 translate "Wood"
 to german "Holz";
-
-translate "Allows one to brew beer of many flavors"
-to german "Erlaubt einem Biere in vielen verschiedenen Geschmacksrichtungen zu brauen";
-
-
-

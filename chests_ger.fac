@@ -7,38 +7,39 @@ module chests_ger;
 //**    (C)opyright 2002-2006 by MDO Entertainment                         **
 //**                                                                       **
 //***************************************************************************
-//menues
 
+// objects
 translate Chest to german feminine
 {
-swa "Kiste";
-sn "Kiste"; sg "Kiste"; sd "Kiste"; sa "Kiste";
-pn "Kisten"; pg "Kisten"; pd "Kisten"; pa "Kisten";
+	swa "Kiste";
+	sn "Kiste"; sg "Kiste"; sd "Kiste"; sa "Kiste";
+	pn "Kisten"; pg "Kisten"; pd "Kisten"; pa "Kisten";
 }
 translate LargeChest to german feminine
 {
-swa "Große Kiste";
-sn "Große Kiste"; sg "Großen Kiste"; sd "Großen Kiste"; sa "Große Kiste";
-pn "Großen Kisten"; pg "Großen Kisten"; pd "Großen Kisten"; pa "Großen Kisten";
+	swa "Groï¿½e Kiste";
+	sn "Groï¿½e Kiste"; sg "Groï¿½en Kiste"; sd "Groï¿½en Kiste"; sa "Groï¿½e Kiste";
+	pn "Groï¿½en Kisten"; pg "Groï¿½en Kisten"; pd "Groï¿½en Kisten"; pa "Groï¿½en Kisten";
 }
 translate HugeChest to german feminine
 {
-swa "Riesige Kiste";
-sn "Riesige Kiste"; sg "Riesigen Kiste"; sd "Riesigen Kiste"; sa "Riesige Kiste";
-pn "Riesigen Kisten"; pg "Riesigen Kisten"; pd "Riesigen Kisten"; pa "Riesigen Kisten";
+	swa "Riesige Kiste";
+	sn "Riesige Kiste"; sg "Riesigen Kiste"; sd "Riesigen Kiste"; sa "Riesige Kiste";
+	pn "Riesigen Kisten"; pg "Riesigen Kisten"; pd "Riesigen Kisten"; pa "Riesigen Kisten";
 }
 translate MegaChest to german feminine
 {
-swa "Megakiste";
-sn "Megakiste"; sg "Megakiste"; sd "Megakiste"; sa "Megakiste";
-pn "Megakisten"; pg "Megakisten"; pd "Megakisten"; pa "Megakisten";
+	swa "Megakiste";
+	sn "Megakiste"; sg "Megakiste"; sd "Megakiste"; sa "Megakiste";
+	pn "Megakisten"; pg "Megakisten"; pd "Megakisten"; pa "Megakisten";
 }
+
 
 translate "Chests"
 to german "Kisten";
 
 translate "To build a Chest you need:"
-to german "Um eine Kiste zu bauen benötigst du:";
+to german "Zum bauen einer Kiste benï¿½tigst du:";
 
 translate "Chest"
 to german "Kiste";
@@ -53,19 +54,16 @@ translate "Take"
 to german "Nimm";
 
 translate "Build a Large Chest"
-to german "Baue eine große Kiste";
+to german "Baue eine groï¿½e Kiste";
 
 translate "To build a Large Chest you need:"
-to german "Um eine große Kiste zu bauen benötigst du:";
+to german "Zum bauen einer groï¿½en Kiste benï¿½tigst du:";
 
 translate "Browse Contents"
 to german "Inhalt durchsuchen";
 
 translate "Build a Huge Chest"
 to german "Baue eine riesige Kiste";
-
-translate "To build a Large Chest you need:"
-to german "Um eine riesige Kiste zu bauen benötigst du:";
 
 translate "Label this chest"
 to german "Bezeichnung der Kiste";
@@ -77,16 +75,16 @@ translate "You"
 to german "dir";
 
 translate "The Public"
-to german "Der Öffentlichkeit";
+to german "Der ï¿½ffentlichkeit";
 
 translate "This chest belongs to U1"
-to german "Diese Kiste gehört U1(name)";
+to german "Diese Kiste gehï¿½rt U1(name)";
 
 translate "This chest belongs to You"
-to german "Diese Kiste gehört dir";
+to german "Diese Kiste gehï¿½rt dir";
 
 translate "This chest belongs to The Public"
-to german "Diese Kiste gehört der Öffentlichkeit";
+to german "Diese Kiste gehï¿½rt der ï¿½ffentlichkeit";
 
 translate "This O1 is N1% full (N2 of N3.)"
 to german "O1(^tsn) O1(sn) ist zu N1% voll (N2 von N3.)";
@@ -94,7 +92,7 @@ translate "Your O1 is N1% full (N2 of N3.)"
 to german "O1(^tsn) O1(sn) ist zu N1% voll (N2 von N3.)";
 
 translate "Tear down this chest"
-to german "Zerstöre die Kiste";
+to german "Zerstï¿½re die Kiste";
 
 translate "It's locked."
 to german "Sie ist verschlossen!";
@@ -106,7 +104,7 @@ translate "Cruelty! You can't put a rabbit in a chest..."
 to german "Ra bewahre! Du kannst doch keine Hasen in Kisten sperren...";
 
 translate "Cruelty! You can't put a chicken in a chest..."
-to german "Ra bewahre! Du kannst doch keine Hühner in Kisten sperren...";
+to german "Ra bewahre! Du kannst doch keine Hï¿½hner in Kisten sperren...";
 
 translate "You can't fit any more O1 in the O2!"
 to german "Du kannst O1(kpn) O1(pn) mehr in O2(tsn) O2(sn) hineinlegen!";
@@ -124,28 +122,28 @@ translate "Dump everything into the O1"
 to german "Lege all deine Habe in O1(tsn) O1(sn)";
 
 translate "Upgrade to a Large Chest"
-to german "Erweitere zu einer großen Kiste";
+to german "Erweitere zu einer groï¿½en Kiste";
 
 translate "To upgrade this to a Large Chest, you need:"
-to german "Für die Erweiterung zur großen Kiste benötigst du:";
+to german "Fï¿½r die Erweiterung zur groï¿½en Kiste benï¿½tigst du:";
 
 translate "Upgrade to a Huge Chest"
 to german "Erweitere zu einer riesigen Kiste";
 
 translate "To upgrade this to a Huge Chest, you need:"
-to german "Für die Erweiterung zur riesigen Kiste benötigst du:";
+to german "Fï¿½r die Erweiterung zur riesigen Kiste benï¿½tigst du:";
 
 translate "Foreign Trader's Cart"
-to german "Fremder Händlerwagen";
+to german "Fremder Hï¿½ndlerwagen";
 
 translate "Browse Contents [key=B]"
 to german "Durchsuche Inhalt [Taste=B]";
 
 translate "You must have both Use and Stash permission to browse."
-to german "Du musst Nutzungs- und Verstauerlaubnis haben um durchsuchen zu können.";
+to german "Du musst Nutzungs- und Verstauerlaubnis haben um durchsuchen zu kï¿½nnen.";
 
 translate "Copy Contents to Clipboard"
 to german "Kopiere Inhalt in die Zwischenablage";
 
 translate "O1 owned by U1 at N1 N2"
-to german "O1(swa) gehört U1(name) bei N1 N2";
+to german "O1(swa) gehï¿½rt U1(name) bei N1 N2";

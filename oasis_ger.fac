@@ -12,11 +12,11 @@ translate Wood to german neuter
 {
 swa "Holz";
 sn "Holz"; sg "Holzes"; sd "Holz"; sa "Holz";
-pn "Hölzer"; pg "Hölzer"; pd "Hölzern"; pa "Hölzer";
+pn "Hï¿½lzer"; pg "Hï¿½lzer"; pd "Hï¿½lzern"; pa "Hï¿½lzer";
 }
 translate Foraging to german neuter
  {
-swa "Kräutersammeln"; sn "Kräutersammeln"; pn "Kräutersammeln"; 
+swa "Krï¿½utersammeln"; sn "Krï¿½utersammeln"; pn "Krï¿½utersammeln"; 
 }
 
 translate Oasis to german femininecollective
@@ -30,7 +30,7 @@ translate OPWoodBearing to german masculine
 {
 swa "Holzertrag";
 sn "Holzertrag"; sg "Holzertrags"; sd "Holzertrag"; sa "Holzertrag";
-pn "Holzerträge"; pg "Holzerträge"; pd "Holzerträgen"; pa "Holzerträge";
+pn "Holzertrï¿½ge"; pg "Holzertrï¿½ge"; pd "Holzertrï¿½gen"; pa "Holzertrï¿½ge";
 }
 
 translate OPDecorative to german femininecollective
@@ -44,14 +44,14 @@ translate OPThornBearing to german masculine
 {
 swa "Dornenertrag";
 sn "Dornenertrag"; sg "Dornenertrags"; sd "Dornenertrag"; sa "Dornenertrag";
-pn "Dornenerträge"; pg "Dornenerträge"; pd "Dornenerträge"; pa "Dornenerträge";
+pn "Dornenertrï¿½ge"; pg "Dornenertrï¿½ge"; pd "Dornenertrï¿½ge"; pa "Dornenertrï¿½ge";
 }
  
 translate OPHerb to german neuter
 {
 swa "Kraut";
 sn "Kraut"; sg "Krauts"; sd "Kraut"; sa "Kraut";
-pn "Kräuter"; pg "Kräuter"; pd "Kräutern"; pa "Kräuter";
+pn "Krï¿½uter"; pg "Krï¿½uter"; pd "Krï¿½utern"; pa "Krï¿½uter";
 }
 
 translate OAPMiniPalmetto to german femininecollective
@@ -79,7 +79,7 @@ translate OAPGiantCricklewood to german neuter
 {
 swa "Riesiges Knitterholz";
 sn "Riesige Knitterholz"; sg "Riesigen Knitterholzes"; sd "Riesigen Knitterholz"; sa "Riesige Knitterholz";
-pn "Riesigen Knitterhölzer"; pg "Riesige Knitterhölzer"; pd "Riesigen Knitterhölzern"; pa "Riesige Knitterhölzer";
+pn "Riesigen Knitterhï¿½lzer"; pg "Riesige Knitterhï¿½lzer"; pd "Riesigen Knitterhï¿½lzern"; pa "Riesige Knitterhï¿½lzer";
 }
 
 translate OAPMiniatureFernPalm to german femininecollective
@@ -93,14 +93,14 @@ translate OAPCricklewood to german neuter
 {
 swa "Knitterholz";
 sn "Knitterholz"; sg "Knitterholzes"; sd "Knitterholz"; sa "Knitterholz";
-pn "Knitterhölzer"; pg "Knitterhölzer"; pd "Knitterhölzern"; pa "Knitterhölzer";
+pn "Knitterhï¿½lzer"; pg "Knitterhï¿½lzer"; pd "Knitterhï¿½lzern"; pa "Knitterhï¿½lzer";
 }
 
 translate OAPBrambleHedge to german neuter
 {
-swa "Brombeergehölz";
-sn "Brombeergehölz"; sg "Brombeergehölzes"; sd "Brombeergehölz"; sa "Brombeergehölz";
-pn "Brombeergehölze"; pg "Brombeergehölze"; pd "Brombeergehölzen"; pa "Brombeergehölze";
+swa "Brombeergehï¿½lz";
+sn "Brombeergehï¿½lz"; sg "Brombeergehï¿½lzes"; sd "Brombeergehï¿½lz"; sa "Brombeergehï¿½lz";
+pn "Brombeergehï¿½lze"; pg "Brombeergehï¿½lze"; pd "Brombeergehï¿½lzen"; pa "Brombeergehï¿½lze";
 }
 
 translate OAPHawthorn to german masculine
@@ -121,35 +121,35 @@ translate OAPBottleTree to german masculine
 {
 swa "Flaschenbaum";
 sn "Flaschenbaum"; sg "Flaschenbaums"; sd "Flaschenbaum"; sa "Flaschenbaum";
-pn "Flaschenbäume"; pg "Flaschenbäume"; pd "Flaschenbäumen"; pa "Flaschenbäume";
+pn "Flaschenbï¿½ume"; pg "Flaschenbï¿½ume"; pd "Flaschenbï¿½umen"; pa "Flaschenbï¿½ume";
 }
 
 translate OAPFeatherTree to german masculine
 {
 swa "Federbaum";
 sn "Federbaum"; sg "Federbaums"; sd "Federbaum"; sa "Federbaum";
-pn "Federbäume"; pg "Federbäume"; pd "Federbäumen"; pa "Federbäume";
+pn "Federbï¿½ume"; pg "Federbï¿½ume"; pd "Federbï¿½umen"; pa "Federbï¿½ume";
 }
 
 translate OAPButterleafTree to german masculine
 {
 swa "Butterblattbaum";
 sn "Butterblattbaum"; sg "Butterblattbaums"; sd "Butterblattbaum"; sa "Butterblattbaum";
-pn "Butterblattbäume"; pg "Butterblattbäume"; pd "Butterblattbäumen"; pa "Butterblattbäume";
+pn "Butterblattbï¿½ume"; pg "Butterblattbï¿½ume"; pd "Butterblattbï¿½umen"; pa "Butterblattbï¿½ume";
 }
 
 translate OAPSpindleTree to german masculine
 {
 swa "Spindelbaum";
 sn "Spindelbaum"; sg "Spindelbaums"; sd "Spindelbaum"; sa "Spindelbaum";
-pn "Spindelbäume"; pg "Spindelbäume"; pd "Spindelbäumen"; pa "Spindelbäume";
+pn "Spindelbï¿½ume"; pg "Spindelbï¿½ume"; pd "Spindelbï¿½umen"; pa "Spindelbï¿½ume";
 }
 
 translate OAPRoyalPalm to german femininecollective
 {
-swa "Königliche Palme";
-sn "Königliche Palme"; sg "Königlichen Palme"; sd "Königlichen Palme"; sa "Königliche Palme";
-pn "Königliche Palmen"; pg "Königlichen Palmen"; pd "Königlichen Palmen"; pa "Königlichen Palmen";
+swa "Kï¿½nigliche Palme";
+sn "Kï¿½nigliche Palme"; sg "Kï¿½niglichen Palme"; sd "Kï¿½niglichen Palme"; sa "Kï¿½nigliche Palme";
+pn "Kï¿½nigliche Palmen"; pg "Kï¿½niglichen Palmen"; pd "Kï¿½niglichen Palmen"; pa "Kï¿½niglichen Palmen";
 }
 
 translate OAPUmbrellaPalm to german femininecollective
@@ -170,7 +170,7 @@ translate OAPScaleyHardwood to german neuter
 {
 swa "Schuppiges Hartholz";
 sn "Schuppige Hartholz"; sg "Schuppigen Hartholzes"; sd "Schuppigen Hartholz"; sa "Schuppige Hartholz";
-pn "Schuppigen Harthölzer"; pg "Schuppigen Harthölzer"; pd "Schuppigen Harthölzer"; pa "Schuppigen Harthölzer";
+pn "Schuppigen Harthï¿½lzer"; pg "Schuppigen Harthï¿½lzer"; pd "Schuppigen Harthï¿½lzer"; pa "Schuppigen Harthï¿½lzer";
 }
 
 translate OAPSacredPalm to german femininecollective
@@ -189,9 +189,9 @@ pn "Scheinzypressen"; pg "Scheinzypressen"; pd "Scheinzypressen"; pa "Scheinzypr
  
 translate YoungOleanderWithBlossoms to german masculine
 {
-swa "Junger blühender Oleander";
-sn "Junge blühende Oleander"; sg "Jungen blühenden Oleanders"; sd "Jungen blühenden Oleander"; sa "Junge blühende Oleander";
-pn "Jungen blühenden Oleander"; pg "Jungen blühenden Oleander"; pd "Jungen blühenden Oleandern"; pa "Jungen blühenden Oleander";
+swa "Junger blï¿½hender Oleander";
+sn "Junge blï¿½hende Oleander"; sg "Jungen blï¿½henden Oleanders"; sd "Jungen blï¿½henden Oleander"; sa "Junge blï¿½hende Oleander";
+pn "Jungen blï¿½henden Oleander"; pg "Jungen blï¿½henden Oleander"; pd "Jungen blï¿½henden Oleandern"; pa "Jungen blï¿½henden Oleander";
 }
 
 translate NorwaySpruce to german femininecollective
@@ -224,9 +224,9 @@ pn "Winterbuchen"; pg "Winterbuchen"; pd "Winterbuchen"; pa "Winterbuchen";
 
 translate YoungSweetBirch to german femininecollective
 {
-swa "Junge Süßbirke";
-sn "Junge Süßbirke"; sg "Jungen Süßbirke"; sd "Jungen Süßbirke"; sa "Junge Süßbirke";
-pn "Jungen Süßbirken"; pg "Jungen Süßbirken"; pd "Jungen Süßbirken"; pa "Jungen Süßbirken";
+swa "Junge Sï¿½ï¿½birke";
+sn "Junge Sï¿½ï¿½birke"; sg "Jungen Sï¿½ï¿½birke"; sd "Jungen Sï¿½ï¿½birke"; sa "Junge Sï¿½ï¿½birke";
+pn "Jungen Sï¿½ï¿½birken"; pg "Jungen Sï¿½ï¿½birken"; pd "Jungen Sï¿½ï¿½birken"; pa "Jungen Sï¿½ï¿½birken";
 }
 
 translate YoungAlder to german femininecollective
@@ -261,7 +261,7 @@ translate TreeStump to german masculine
 {
 swa "Baumstumpf";
 sn "Baumstumpf"; sg "Baumstumpfs"; sd "Baumstumpf"; sa "Baumstumpf";
-pn "Baumstümpfe"; pg "Baumstümpfe"; pd "Baumstümpfen"; pa "Baumstümpfe";
+pn "Baumstï¿½mpfe"; pg "Baumstï¿½mpfe"; pd "Baumstï¿½mpfen"; pa "Baumstï¿½mpfe";
 }
 
 translate PalmFrond to german masculinecollective
@@ -270,10 +270,9 @@ swa "Palmwedel";
 sn "Palmwedel"; sg "Palmwedels"; sd "Palmwedel"; sa "Palmwedel";
 pn "Palmwedel"; pg "Palmwedel"; pd "Palmwedeln"; pa "Palmwedel";
 }
- 
- 
+
 translate "Wood Bearing"
-to german "Holzertrag";
+to german "Holztragend"; // maybe Holzlager ?
 
 translate "Thorn Bearing"
 to german "Dornenertrag";
@@ -288,7 +287,7 @@ translate "cancel"
 to german "Abbrechen";
 
 translate "Set Count"
-to german "Zählereinstellung";
+to german "Zï¿½hlereinstellung";
 
 translate "Total Plants: "
 to german "Alle Pflanzen: ";
@@ -297,16 +296,16 @@ translate "Are you sure?"
 to german "Bist du sicher?";
 
 translate "Randomize all Plants"
-to german "Setze alle Pflanzen zufällig";
+to german "Setze alle Pflanzen zufï¿½llig";
 
 translate "Herbs (Do not use!)"
-to german "Kräuter (nicht benutzen!)";
+to german "Krï¿½uter (nicht benutzen!)";
 
 translate "Examine this plant"
 to german "Untersuche diese Pflanze";
 
 translate "It is a O1. Though it doesn't seem particularly useful right now, as your skills improve, you may find a use for this."
-to german "Dies ist O1(asn) O1(swa). Obwohl es im Augenblick nicht besonders nützlich scheint, um deine Fähigkeiten zu verbessern, könntest du einen Gebrauch dafür finden.";
+to german "Dies ist O1(asn) O1(swa). Obwohl es im Augenblick nicht besonders nï¿½tzlich scheint, um deine Fï¿½higkeiten zu verbessern, kï¿½nntest du einen Gebrauch dafï¿½r finden.";
 
 translate "[Header]"
 to german "[Header]";
@@ -324,7 +323,7 @@ translate "Game Master"
 to german "Gamemaster";
 
 translate "Utility"
-to german "Nützliches";
+to german "Nï¿½tzliches";
 
 translate "Type:"
 to german "Typ.";
@@ -336,46 +335,46 @@ translate "More thorns in K1"
 to german "Mehr Dornen in K1";
 
 translate "Gather Thorns"
-to german "Pflücke Dornen";
+to german "Pflï¿½cke Dornen";
 
 translate "Gather O1 from this O2"
 to german "Sammle O1(swa) von O2(tsd) O2(sd)";
 
 translate "You gathered N1 thorns"
-to german "Du hast N1 Dornen gepflückt";
+to german "Du hast N1 Dornen gepflï¿½ckt";
 
 translate "This O1 has no O2 for N1 seconds"
-to german "O1(^tsn) O1(sn) hat keine O2(pn) mehr für N1 Sekunden";
+to german "O1(^tsn) O1(sn) hat keine O2(pn) mehr fï¿½r N1 Sekunden";
 
 translate "This O1 produces at least N1 wood"
 to german "O1(^tsn) O1(sn) produziert mindestens N1 Holz";
 
 translate "The O1 will have more O2 available in N1 seconds."
-to german "O1(^tsn) O1(sn) wird in N1 Sekunden über mehr O2(pn) verfügen.";
+to german "O1(^tsn) O1(sn) wird in N1 Sekunden ï¿½ber mehr O2(pn) verfï¿½gen.";
 
 translate "Your hatchet is not high enough quality to help gather wood. You can still gather at the normal rate."
-to german "Dein Beil ist qualitativ nicht gut genug, um mehr Holz schlagen zu können. Du wirst nur die normale Anzahl abholzen.";
+to german "Dein Beil ist qualitativ nicht gut genug, um mehr Holz schlagen zu kï¿½nnen. Du wirst nur die normale Anzahl abholzen.";
 
 translate "Congrats, you just advanced in enhanced woodcutting... Now: N1"
 to german "Gratuliere, du bist in Erweitertem Holzschlagen aufgestiegen... Nun: N1";
 
 translate "With keen Perception, you were able to get a bit more wood, without harming the tree."
-to german "Mit deiner feinen Wahrnehmung war es dir möglich, etwas mehr Holz zu bekommen, ohne dem Baum zu schaden.";
+to german "Mit deiner feinen Wahrnehmung war es dir mï¿½glich, etwas mehr Holz zu bekommen, ohne dem Baum zu schaden.";
 
 translate "How odd - you find a nest with a chicken egg in the tree. You delicately remove the beautiful egg."
-to german "Wie merkwürdig - du findest in dem Baum ein Nest mit einem Hühnerei. Vorsichtig entfernst du das wunderschöne Ei.";
+to german "Wie merkwï¿½rdig - du findest in dem Baum ein Nest mit einem Hï¿½hnerei. Vorsichtig entfernst du das wunderschï¿½ne Ei.";
 
 translate "Well done. Hint: Sacrificial bonfires take a huge quantity of wood - it's easiest to work on the bonfire with others."
-to german "Gut gemacht. Tipp: Mahnwachenfeuer benötigen eine große Menge Holzes - es ist einfacher, wenn du mit anderen zusammen an dem Feuer arbeitest.";
+to german "Gut gemacht. Tipp: Mahnwachenfeuer benï¿½tigen eine groï¿½e Menge Holzes - es ist einfacher, wenn du mit anderen zusammen an dem Feuer arbeitest.";
 
 translate "Fertilize with SaltPeter"
-to german "Dünge mit Salpeter";
+to german "Dï¿½nge mit Salpeter";
 
 translate "You don't have any Saltpeter."
 to german "Du hast keinen Salpeter.";
 
 translate "A new tree is growing here"
-to german "Ein neuer Baum wächst hier heran";
+to german "Ein neuer Baum wï¿½chst hier heran";
 
 translate "Use Elixir of Regrowth"
 to german "Benutze das Wachstumselixier";
@@ -393,40 +392,40 @@ translate "Clear-Cut this tree"
 to german "Diesen Baum abholzen";
 
 translate "You see no fruit on this Date Palm"
-to german "Du siehst keine Früchte an dieser Dattelpalme";
+to german "Du siehst keine Frï¿½chte an dieser Dattelpalme";
 
 translate "You see some immature dates growing"
 to german "Du siehst einige unreife Datteln wachsen";
 
 translate "This Palm Tree has some dates on it!"
-to german "Dieser Palmbaum trägt einige Datteln!";
+to german "Dieser Palmbaum trï¿½gt einige Datteln!";
 
 translate "Gather some fresh juicy Dates"
-to german "Pflücke einige frische, saftige Datteln";
+to german "Pflï¿½cke einige frische, saftige Datteln";
 
 translate "You collected N1 delicious dates."
-to german "Du hast N1 köstliche Datteln gepflückt.";
+to german "Du hast N1 kï¿½stliche Datteln gepflï¿½ckt.";
 
 //translate "Date palms are found throughout Egypt, and when fertilized, can be a source of tasty and nourishing Dates."
-//to german "Dattelpalmen können in ganz Ägypten gefunden werden und sind eine Quelle für leckere und nahrhafte Datteln, wenn man sie düngt.";
+//to german "Dattelpalmen kï¿½nnen in ganz ï¿½gypten gefunden werden und sind eine Quelle fï¿½r leckere und nahrhafte Datteln, wenn man sie dï¿½ngt.";
 
 translate "You see some Coconuts!"
-to german "Du siehst einige Kokosnüsse!";
+to german "Du siehst einige Kokosnï¿½sse!";
 
 translate "Gather the Coconuts"
-to german "Pflücke die Kokosnüsse";
+to german "Pflï¿½cke die Kokosnï¿½sse";
 
 translate "You collected N1 coconuts!"
-to german "Du hast N1 Kokosnüsse gepflückt!";
+to german "Du hast N1 Kokosnï¿½sse gepflï¿½ckt!";
 
 translate "Pull down a perfect Palm Frond!"
 to german "Reisse einen perfekten Palmwedel ab!";
 
 translate "Coconuts! N1 at N2 N3"
-to german "Kokosnüsse! N1 bei N2 N3";
+to german "Kokosnï¿½sse! N1 bei N2 N3";
 
 //translate "Cut away the outer stem"
-//to german "Schneide den äußeren Stamm weg";
+//to german "Schneide den ï¿½uï¿½eren Stamm weg";
 
 //translate "Harvest the Root pith"
 //to german "Ernte das Wurzelmark";
@@ -450,19 +449,19 @@ to german "Kokosnüsse! N1 bei N2 N3";
 //to german "Entferne die Samen";
 
 //translate "Crush the stems"
-//to german "Zerdrücke den Stamm";
+//to german "Zerdrï¿½cke den Stamm";
 
 //translate "Pluck the leaves"
-//to german "Zupfe die Blätter ab";
+//to german "Zupfe die Blï¿½tter ab";
 
 //translate "Squeeze out the sap"
-//to german "Drücke den Saft aus";
+//to german "Drï¿½cke den Saft aus";
 
 //translate "Scrape away the leaf hairs"
 //to german "Schabe die Blatthaare ab";
 
 translate "This is some type of herb"
-to german "Dies ist eine Kräutersorte";
+to german "Dies ist eine Krï¿½utersorte";
 
 translate "It's a O1. Don't place these in oases until Teppy categorizes them."
 to german "Dies ist O1(asn) O1(swa). Pflanze dies nicht in Oasen, bis Teppy sie eingeordnet hat.";
@@ -471,25 +470,22 @@ translate "Forage"
 to german "Einsammeln";
 
 translate "The sickly herb bruises and dies."
-to german "Das kränkliche Kraut welkt und stirbt.";
+to german "Das krï¿½nkliche Kraut welkt und stirbt.";
 
 translate "Yes, your technique is correct. You identify the herb as O1, and harvest N1 deben."
 to german "Ja, deine Technik war richtig. Du identifizierst das Kraut als O1(sn) und erntest N1 Deben.";
 
 translate "Hmm, you must have misidentified the herb. Your clumsy technique kills the delicate flora."
-to german "Hmm.. du musst das Kraut verwechselt haben. Deine unbeholfene Technik tötet die zarte Pflanze";
+to german "Hmm.. du musst das Kraut verwechselt haben. Deine unbeholfene Technik tï¿½tet die zarte Pflanze";
 
 translate "Teach Foraging"
-to german "Lehre Kräutersammeln";
+to german "Lehre Krï¿½utersammeln";
 
 translate "You teach Foraging to U1"
-to german "Du lehrst U1(name) das Kräutersammeln";
+to german "Du lehrst U1(name) das Krï¿½utersammeln";
 
 translate "You learn Foraging techniques."
-to german "Du lehrst Kräutersammeltechniken.";
-
-translate "Wood Bearing"
-to german "Holztragend";
+to german "Du lehrst Krï¿½utersammeltechniken.";
 
 translate "Decorative"
 to german "Dekorativ";
@@ -507,7 +503,7 @@ translate "By order of the Wood Source Protection Act by Tumaini, You are prohib
 to german "Per Holzbestandsschutzgesetz von Tumaini, ist es dir verboten, von diesem Baum Holz zu schlagen.";
 
 translate "You mark the tree protected, as specified in the Wood Source Protection Act, passed by Tumaini."
-to german "Du kennzeichnest den Baum als geschützt, nach Tumaini's Holzbestandsschutzgesetz.";
+to german "Du kennzeichnest den Baum als geschï¿½tzt, nach Tumaini's Holzbestandsschutzgesetz.";
 
 translate "Plant Designer Controller"
 to german "Pflanzendesignkontrolle";
@@ -516,7 +512,7 @@ translate "Eat this herb, fresh from the Earth"
 to german "Esse dieses Kraut frisch vom Boden";
 
 translate "You teach Foraging to U1"
-to german "Du lehrst U1(name) das Kräutersammeln";
+to german "Du lehrst U1(name) das Krï¿½utersammeln";
 
 translate "You learn Foraging techniques."
-to german "Du lernst Sammeltechniken für Kräuter.";
+to german "Du lernst Sammeltechniken fï¿½r Krï¿½uter.";

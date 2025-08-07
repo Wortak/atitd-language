@@ -8,48 +8,43 @@ module builders_ger;
 //**                                                                       **
 //***************************************************************************
 
+// objects
 translate BlueBanner to german neutercollective
 {
   swa "Blaues Banner";
   sn "Blaue Banner"; sg "Blauen Banners"; sd "Blauen Banner"; sa "Blaue Banner";
   pn "Blauen Banner"; pg "Blauen Banner"; pd "Blauen Bannern"; pa "Blauen Banner";
 }
-
 translate GreenBanner to german neutercollective
 {
-  swa "Grünes Banner";
-  sn "Grüne Banner"; sg "Grünen Banners"; sd "Grünen Banner"; sa "Grüne Banner";
-  pn "Grünen Banner"; pg "Grünen Banner"; pd "Grünen Bannern"; pa "Grünen Banner";
+  swa "Grï¿½nes Banner";
+  sn "Grï¿½ne Banner"; sg "Grï¿½nen Banners"; sd "Grï¿½nen Banner"; sa "Grï¿½ne Banner";
+  pn "Grï¿½nen Banner"; pg "Grï¿½nen Banner"; pd "Grï¿½nen Bannern"; pa "Grï¿½nen Banner";
 }
-
 translate OrangeBanner to german neutercollective
 {
   swa "Orangenes Banner";
   sn "Orangene Banner"; sg "Orangenen Banners"; sd "Orangenen Banner"; sa "Orangene Banner";
   pn "Orangenen Banner"; pg "Orangenen Banner"; pd "Orangenen Bannern"; pa "Orangenen Banner";
 }
-
 translate PurpleBanner to german neutercollective
 {
   swa "Lilanes Banner";
   sn "Lilane Banner"; sg "Lilanen Banners"; sd "Lilanen Banner"; sa "Lilane Banner";
   pn "Lilanen Banner"; pg "Lilanen Banner"; pd "Lilanen Bannern"; pa "Lilanen Banner";
 }
-
 translate BlackBanner to german neutercollective
 {
   swa "Schwarzes Banner";
   sn "Schwarze Banner"; sg "Schwarzen Banners"; sd "Schwarzen Banner"; sa "Schwarze Banner";
   pn "Schwarzen Banner"; pg "Schwarzen Banner"; pd "Schwarzen Bannern"; pa "Schwarzen Banner";
 }
-
 translate WhiteBanner to german neutercollective
 {
-  swa "Weißes Banner";
-  sn "Weiße Banner"; sg "Weißen Banners"; sd "Weißen Banner"; sa "Weiße Banner";
-  pn "Weißen Banner"; pg "Weißen Banner"; pd "Weißen Bannern"; pa "Weißen Banner";
+  swa "Weiï¿½es Banner";
+  sn "Weiï¿½e Banner"; sg "Weiï¿½en Banners"; sd "Weiï¿½en Banner"; sa "Weiï¿½e Banner";
+  pn "Weiï¿½en Banner"; pg "Weiï¿½en Banner"; pd "Weiï¿½en Bannern"; pa "Weiï¿½en Banner";
 }
-
 translate HeavyStone to german masculine
 {
   swa "Schwerer Stein";
@@ -60,9 +55,10 @@ translate Bench to german feminine
 {
   swa "Sitzbank";
   sn "Sitzbank"; sg "Sitzbank"; sd "Sitzbank"; sa "Sitzbank";
-  pn "Sitzbänke"; pg "Sitzbänke"; pd "Sitzbänken"; pa "Sitzbänken";
+  pn "Sitzbï¿½nke"; pg "Sitzbï¿½nke"; pd "Sitzbï¿½nken"; pa "Sitzbï¿½nken";
 }
 
+// text
 translate "Paint Reseed"
 to german "Paint Reseed";
 
@@ -70,19 +66,19 @@ translate "Conjure 100 Builder Money"
 to german "Erschaffe 100 Buildergeld";
 
 translate "Enter Builder Mode"
-to german "Wechsle zum Buildermodus";
+to german "Betritt den Buildermodus";
 
 translate "Exit Builder Mode"
-to german "Verlasse Buildermodus";
+to german "Verlasse den Buildermodus";
 
 translate "Populous"
-to german "Öffentlichkeit";
+to german "ï¿½ffentlichkeit";
 
 translate "Trees"
-to german "Bäume";
+to german "Bï¿½ume";
 
 translate "University"
-to german "Universität";
+to german "Universitï¿½t";
 
 translate "School"
 to german "Schule";
@@ -100,44 +96,44 @@ translate "Other"
 to german "Anderes";
 
 translate "Define and Select Red Sand"
-to german "Definiere und wähle Roten Sand";
+to german "Definiere und wï¿½hle Roten Sand";
 
 translate "Warp to Builder Island"
-to german "Warpe zur Builderinsel";
+to german "Teleportiere zur Builder Insel";
 
 translate "Return to Egypt"
-to german "Kehre nach Ägypten zurück";
+to german "Kehre nach ï¿½gypten zurï¿½ck";
 
 translate "Rip this out!"
-to german "Reiße dies heraus!";
+to german "Reiï¿½e dies heraus!";
 
 translate "Recalculate walkability for Egypt"
-to german "Rekalkuliere die Begehbarkeit für Ägypten";
+to german "Rekalkuliere die Begehbarkeit fï¿½r ï¿½gypten";
 
 translate "Walk"
 to german "Gehe";
 translate "Warp"
 to german "Warpe";
 translate "PAINTSURFACE"
-to german "Bilde Oberfläche";
+to german "Bilde Oberflï¿½che";
 translate "RAISELAND"
 to german "Hebe Land";
 translate "LOWERLAND"
 to german "Senke Land";
 translate "SMOOTH"
-to german "Glätten";
+to german "Glï¿½tten";
 translate "SMOOTHROADS"
-to german "Glätte Straßen";
+to german "Glï¿½tte Straï¿½en";
 translate "PLATEAU"
 to german "Plateau";
 translate "EYEDROPPER"
 to german "Eyedropper";
 translate "SURFACEREPLACE"
-to german "Oberflächen-Austausch";
+to german "Oberflï¿½chen-Austausch";
 translate "QUICKPLACER"
 to german "Schnell Setzen";
 translate "PAINTSLOPES"
-to german "Male Abhänge";
+to german "Male Abhï¿½nge";
 translate "Softness"
 to german "Weichheit";
 translate "HardCircle"
@@ -181,14 +177,14 @@ to german "Marmor 2";
 translate "More Marble"
 to german "Marmor 1";
 translate "Temporary"
-to german "Temporär";
+to german "Temporï¿½r";
 translate "Special"
 to german "Spezial";
 
 translate "Strength"
-to german "Stärke";
+to german "Stï¿½rke";
 translate "Elevation"
-to german "Höhe";
+to german "Hï¿½he";
 translate "Tile Grid"
 to german "Gitternetz";
 translate "Hide"
@@ -196,14 +192,11 @@ to german "Versteckt";
 translate "Show"
 to german "Angezeigt";
 
-translate "Enter Builder Mode"
-to german "Wechsel zum Buildermodus";
-
 translate "Are you sure you want to rip out the O1."
-to german "Bist du sicher, dass du O1(tsa) O1(sa) herausreißen willst?";
+to german "Bist du sicher, dass du O1(tsa) O1(sa) herausreiï¿½en willst?";
 
 translate "Select Texture"
-to german "Wähle Textur";
+to german "Wï¿½hle Textur";
 
 translate "Illegal builder brush specified."
 to german "Illegale Builder-Pinsel spezifiziert.";
@@ -221,7 +214,7 @@ to german "Seite4";
 translate "Page5"
 to german "Seite5";
 translate "Close"
-to german "Schließe";
+to german "Schlieï¿½e";
 
 translate "Illegal option to toggle"
 to german "Illegale Option zum umschalten";
@@ -245,7 +238,7 @@ translate "Permanently remove this O1"
 to german "Entf. O1(tsa) O1(sa) dauerhaft";
 
 translate "Removing universities is usually not allowed, because they may have research."
-to german "Universitäten zu entfernen ist normalerweise nicht erlaubt, weil sie noch Forschungen haben könnten.";
+to german "Universitï¿½ten zu entfernen ist normalerweise nicht erlaubt, weil sie noch Forschungen haben kï¿½nnten.";
 
 translate "Are you sure you want to remove the O1?"
 to german "Bist du sicher, dass du O1(dsa) O1(sa) entfernen willst?";
@@ -257,11 +250,11 @@ translate "You cannot move. I have no idea why. Please report this bug to eGenes
 to german "Du kannst dich nicht bewegen, warum auch immer. Bitte melde diesen Bug einem Gamemaster.";
 
 translate "You are carrying too much weight."
-to german "Du trägst zuviel Last mit dir herum.";
+to german "Du trï¿½gst zuviel Last mit dir herum.";
 translate "You are carrying too much bulk."
-to german "Du trägst zu viel Volumen mit dir herum.";
+to german "Du trï¿½gst zu viel Volumen mit dir herum.";
 translate "You are carrying too much"
-to german "Du trägst zu viel mit dir herum.";
+to german "Du trï¿½gst zu viel mit dir herum.";
 translate "You cannot move in AFK-mode. Click on yourself."
 to german "Du kannst dich im AFK-Modus nicht bewegen. Klicke dich selbst an, um aufzustehen.";
 translate "You have been commanded to stand still."
@@ -277,19 +270,16 @@ translate "The water is too deep."
 to german "Das Wasser ist zu tief.";
 
 translate "The terrain is too steep."
-to german "Das Gelände ist zu steil.";
+to german "Das Gelï¿½nde ist zu steil.";
 
 translate "The red line marks the edge of Pharaoh's lands."
-to german "Die rote Linie markiert die Kante von Pharao's Ländereien.";
+to german "Die rote Linie markiert die Kante von Pharao's Lï¿½ndereien.";
 
 translate "You can't do that when you can't move."
-to german "Du kannst dies nicht tun, solange du dich nicht bewegen kannst.";
+to german "Du kannst das nicht tun, wenn du dich nicht bewegen kannst.";
 
 translate "You can't go there."
 to german "Dorthin kannst du nicht gehen.";
-
-translate "You can't do that when you can't move."
-to german "Du kannst dies nicht tun, wenn du dich nicht bewegen kannst.";
 
 translate "Hint: You can send these messages to the Console window. Use Utility/Options: Interface"
 to german "Tipp: Diese Meldungen kannst du dir nur im Hauptchat anzeigen lassen. Klicke auf Optionen, Option: Interface";
@@ -308,12 +298,6 @@ to german "GM Ausrichtung O1(sn)";
 
 translate "F1[hidden]"
 to german "F1[versteckt]";
-
-translate "Warp to Builder Island"
-to german "Teleportiere zur Builder Insel";
-
-translate "Return to Egypt"
-to german "Kehre nach Ägypten zurück";
 
 translate "Game Master"
 to german "Gamemaster";

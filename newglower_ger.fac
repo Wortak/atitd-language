@@ -18,11 +18,11 @@ swa "Leuchtkugel"; sn "Leuchtkugel"; pn "Leuchtkugel";
 }
 translate EgyptianCandle to german feminine
 {
-swa "Ägyptische Kerze"; sn "Ägyptische Kerze"; pn "Ägyptische Kerzen";
+swa "ï¿½gyptische Kerze"; sn "ï¿½gyptische Kerze"; pn "ï¿½gyptische Kerzen";
 }
 translate PlanetarySalute to german masculine
 {
-swa "Planetengruß"; sn "Planetengruß"; pn "Planetengrüße";
+swa "Planetengruï¿½"; sn "Planetengruï¿½"; pn "Planetengrï¿½ï¿½e";
 }
 translate GlowerLab to german neuter
 {
@@ -43,22 +43,22 @@ translate "Rename the Favorite Star"
 to german "Umbenennen der Lieblingsleuchtkugel";
 
 translate "What would you like to name the Star?"
-to german "Wie soll die Leuchtkugel heißen?";
+to german "Wie soll die Leuchtkugel heiï¿½en?";
 
 translate "Designate the last Star as Best"
 to german "Bestimme die letzte Leuchtkugel als die Beste";
 
 translate "Stars must be named."
-to german "Leuchtkugeln müssen benannt sein.";
+to german "Leuchtkugeln mï¿½ssen benannt sein.";
 
 translate "Shots Left: N1"
-to german "Verbleibende Abschüsse: N1";
+to german "Verbleibende Abschï¿½sse: N1";
 
 translate "Favorite Star K1 watched by N1 watchers."
 to german "Lieblingsleuchtkugel K1 wurde von N1 Betrachtern beobachtet.";
 
 translate "Launch a new star (Shake the color box)"
-to german "Starte eine neue Leuchtkugel (Schüttel die Farbschachtel)";
+to german "Starte eine neue Leuchtkugel (Schï¿½ttel die Farbschachtel)";
 
 translate "Launch Favourite Star: "
 to german "Starte Lieblingsleuchtkugel: ";
@@ -67,13 +67,13 @@ translate "Launch the previous Star"
 to german "Starte die vorherige Leuchtkugel";
 
 translate "All people who are watching should declare that before launching any stars."
-to german "";
+to german "Alle Personen die zuschauen sollten aufgeklÃ¤rt sein noch bevor irgendwelche Sterne gestartet werden.";
 
 translate "Read the Recipe for the last fired Star"
 to german "Lese das Rezept der zuletzt abgeschossenen Leuchtkugel";
 
 translate "The recipe for 10 stars is:"
-to german "Das Rezept für 10 Leuchtkugeln ist:";
+to german "Das Rezept fï¿½r 10 Leuchtkugeln ist:";
 
 translate "Portable Star Lab"
 to german "Tragbares Leuchtkugellabor";
@@ -82,22 +82,22 @@ translate "Request a Portable Star Lab"
 to german "Frage nach einem Tragbaren Leuchtkugellabor";
 
 translate "By order of the Pyrotechnics Research Act, introduced by Sedelyan, only paid accounts that have been in Egypt for at least 14 days may request a Portable Star Lab."
-to german "";
+to german "Aufgrund des Pyrotechnik-Forschungsgesetzes, eingefï¿½hrt von Sedelyan, nur bezahlte Konten, die sich seit mindestens 14 Tagen in ï¿½gypten befinden, kï¿½nnen ein tragbares Sternenlabor anfordern.";
 
 translate "Consulting the Scientists..."
 to german "Befrage die Wissenschaftler...";
 
 translate "Asking for the lab repeatedly just interrupts the scientists. It takes the scientists two minutes to answer the door and walk back to their lab!"
-to german "";
+to german "Wenn man wiederholt nach dem Labor fragt, unterbricht man nur die Wissenschaftler. Es nimmt den Wissenschaftler zwei Minuten um die Tï¿½r zu ï¿½ffnen und das Labor zurï¿½ckzugeben!";
 
 translate "We *just* finished this Portable Star Lab, and we will entrust it to you. Star labs represent many hours "
-to german "";
+to german "Wir haben *gerade* dieses tragbare Sternenlabor fertiggestellt und werden es dir anvertrauen. Sternenlabore reprï¿½sentieren viele Stunden";
 
 translate "of work on behalf of our scientists, so please assemble a group of fellow artists to evaluate the stars it produces."
-to german "";
+to german "der Arbeit im Auftrag unserer Wissenschaftler, also stelle bitte eine Gruppe von KÃ¼nstlergefÃ¤hrten zusammen um die produzierten Sterne auszuwerten.";
 
 translate "Sorry, our scientists are still building the next Portable Star Lab."
-to german "Entschuldige, unsere Wissenschaftler bauen noch das nächste tragbare Leuchtkugellabor.";
+to german "Entschuldige, unsere Wissenschaftler bauen noch das nï¿½chste tragbare Leuchtkugellabor.";
 
 translate "Register as a watcher"
 to german "Registrieren als Betrachter";
@@ -109,10 +109,10 @@ translate "You register as a watcher."
 to german "Du registrierst Dich als Betrachter.";
 
 translate "Turn in Star Lab"
-to german "";
+to german "Gib das Star Lab ab";
 
 translate "Turning it in..."
-to german "";
+to german "wird abgegeben...";
 
 translate "No favorite Star has been designated."
 to german "Es wurde keine besondere Leuchtkugel ernannt."; 
@@ -127,55 +127,52 @@ translate "You learn the recipe for making K1 stars."
 to german "Du lernst ein Rezept um K1 Leuchtkugeln herzustellen.";
 
 translate "To build a Star Rack you need:"
-to german "Um ein Leuchtkugellabor herzustellen benötigst du:";
+to german "Um ein Leuchtkugellabor herzustellen benï¿½tigst du:";
 
 translate "Stars will be done in N1"
 to german "Die Leuchtkugeln werden in N1 fertig sein";
-
-translate "Make Stars"
-to german "Stelle Leuchtkugeln her";
 
 translate "How many K1?"
 to german "Wieviele K1?";
 
 translate "To make a batch of N1 K1 you need:"
-to german "Um ein Bündel von N1 K1 herzustellen benötigst du:";
+to german "Um ein Bï¿½ndel von N1 K1 herzustellen benï¿½tigst du:";
 
 translate "Decommission this Star Lab"
 to german "Lege dieses Leuchtkugellabor still";
 
 translate "The lab has been decomissioned. Next time, be sure to designate *some* star as favorite!"
-to german "Das Labor wurde stillgelegt. Stelle nächstes Mal sicher, daß *einige* Leuchtkugeln als Favoriten gekennzeichnet sind!";
+to german "Das Labor wurde stillgelegt. Stelle nï¿½chstes Mal sicher, daï¿½ *einige* Leuchtkugeln als Favoriten gekennzeichnet sind!";
 
 translate "You have learned a clever way of tightly wrapping a single Star in a piece of Rotten Flax to form a primitive pyrotechnic device. In the future you may wish to persue the Test of Pyrotechnics, where you will be able to create sophisticated fireworks and exhibit them in competition."
 to german "";
 
 translate "Make Egyptian Candle Fireworks"
-to german "Stelle Raketen 'Ägyptische Kerze' her";
+to german "Stelle Raketen 'ï¿½gyptische Kerze' her";
 
 translate "Make how many K1 Egyptian Candles?"
-to german "Wieviele K1 Ägyptische Kerzen machen?";
+to german "Wieviele K1 ï¿½gyptische Kerzen machen?";
 
 translate "You need N1 rotten flax to wrap the stars."
 to german "Du brauchst N1 verrotteten Flachs, um die Leuchtkugeln zu umwickeln.";
 
 translate "Light the K1 Egyptian Candle"
-to german "Zünde die K1 Ägyptische Kerze an";
+to german "Zï¿½nde die K1 ï¿½gyptische Kerze an";
 
 translate "You can only light single candles, not piles."
-to german "Du kannst nur einzelne Kerzen, keine Bündel, anzünden.";
+to german "Du kannst nur einzelne Kerzen, keine Bï¿½ndel, anzï¿½nden.";
 
 translate "Ask for a package of Wild Planet Pyrotechnic Stars"
 to german "Frage nach einem Leuchtkugelpaket 'Wilde Planeten'";
 
 translate "A scientist wearing an unusual green hat comes out, nervously looks around, then slips a package into your hands. "
-to german "Ein Wissenschaftler mit einem ungewöhnlichen grünen Hut kommt heraus, nervös um sich schauend und drückt dir dann ein Paket in die Hand. ";
+to german "Ein Wissenschaftler mit einem ungewï¿½hnlichen grï¿½nen Hut kommt heraus, nervï¿½s um sich schauend und drï¿½ckt dir dann ein Paket in die Hand. ";
 
 translate "These stars have several uses. "
-to german "Diese Leuchtkugeln haben verschiedene Nutzungsmöglichkeiten. ";
+to german "Diese Leuchtkugeln haben verschiedene Nutzungsmï¿½glichkeiten. ";
 
 translate " he whispers. "
-to german " flüstert er. ";
+to german " flï¿½stert er. ";
 
 translate "If you persue the Discipline of Art and Music, they can be incorporated into beautiful pyrotechnic shells. If you'd like to play with them right away, get the Planetary Salute skill here. Or, seek out accomplished pyrotechnicians to trade for other goods."
-to german "Wenn du in der Disziplin der Kunst und Musik weitergehst, können sie zu wunderschönen Feuerwerksgranaten weiterverarbeitet werden. Wenn du richtig mit ihnen spielen möchtest, lerne hier die Planentengrußfähigkeit. Oder suche erfahrene Feuerwerker, um mit ihnen um andere Waren zu handeln.";
+to german "Wenn du in der Disziplin der Kunst und Musik weitergehst, kï¿½nnen sie zu wunderschï¿½nen Feuerwerksgranaten weiterverarbeitet werden. Wenn du richtig mit ihnen spielen mï¿½chtest, lerne hier die Planentengruï¿½fï¿½higkeit. Oder suche erfahrene Feuerwerker, um mit ihnen um andere Waren zu handeln.";

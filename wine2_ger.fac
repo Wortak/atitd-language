@@ -9,13 +9,13 @@ module wine2_ger;
 //**                                                                       **
 //***************************************************************************
 
-translate VineCutting2 to german masculine
+translate VineCutting to german masculine
 {
 swa "Rebenverschnitt";
   sn "Rebenverschnitt"; sg "Rebenverschnitts"; sd "Rebenverschnitt"; sa "Rebenverschnitt";
   pn "Rebenverschnitte"; pg "Rebenverschnitte"; pd "Rebenverschnitte"; pa "Rebenverschnitte";
 }
-translate VineCutting to german masculine
+translate VineCutting2 to german masculine
 {
 swa "Rebenverschnitt";
   sn "Rebenverschnitt"; sg "Rebenverschnitts"; sd "Rebenverschnitt"; sa "Rebenverschnitt";
@@ -27,29 +27,29 @@ swa "Traube";
   sn "Traube"; sg "Traube"; sd "Traube"; sa "Traube";
   pn "Trauben"; pg "Trauben"; pd "Trauben"; pa "Trauben";
 }
-translate Wine2 to german masculine
-{
-swa "Wein";
-  sn "Wein"; sg "Weines"; sd "Wein"; sa "Wein";
-  pn "Weine"; pg "Weine"; pd "Weinen"; pa "Weine";
-}
 translate Wine to german masculine
 {
 swa "Wein";
   sn "Wein"; sg "Weines"; sd "Wein"; sa "Wein";
   pn "Weine"; pg "Weine"; pd "Weinen"; pa "Weine";
 }
-translate Vineyard2 to german masculine
+translate Wine2 to german masculine
 {
-swa "Weinberg";
-  sn "Weinberg"; sg "Weinberges"; sd "Weinberg"; sa "Weinberg";
-  pn "Weinberge"; pg "Weinberge"; pd "Weinbergen"; pa "Weinberge";
+swa "Wein";
+  sn "Wein"; sg "Weines"; sd "Wein"; sa "Wein";
+  pn "Weine"; pg "Weine"; pd "Weinen"; pa "Weine";
 }
 translate Vineyard to german masculine
 {
-swa "Weinberg";
-  sn "Weinberg"; sg "Weinberges"; sd "Weinberg"; sa "Weinberg";
-  pn "Weinberge"; pg "Weinberge"; pd "Weinbergen"; pa "Weinberge";
+  swa "Weingarten";
+  sn "Weingarten"; sg "Weingartens"; sd "Weingarten"; sa "Weingarten";
+  pn "Weingï¿½rten"; pg "Weingï¿½rten"; pd "Weingï¿½rten"; pa "Weingï¿½rten";
+}
+translate Vineyard2 to german masculine
+{
+  swa "Weingarten";
+  sn "Weingarten"; sg "Weingartens"; sd "Weingarten"; sa "Weingarten";
+  pn "Weingï¿½rten"; pg "Weingï¿½rten"; pd "Weingï¿½rten"; pa "Weingï¿½rten";
 }
 translate Viticulture to german masculinecollective
 {
@@ -61,19 +61,19 @@ translate WineBarrel to german neuter
 {
 swa "Weinfass";
   sn "Weinfass"; sg "Weinfasses"; sd "Weinfass"; sa "Weinfass";
-  pn "Weinfässer"; pg "Weinfässer"; pd "Weinfässern"; pa "Weinfässer";
+  pn "Weinfï¿½sser"; pg "Weinfï¿½sser"; pd "Weinfï¿½ssern"; pa "Weinfï¿½sser";
 }
 translate smallBarrels to german neuter
 {
 swa "Kleines Fass";
   sn "Kleine Fass"; sg "Kleinen Fasses"; sd "Kleinen Fass"; sa "Kleine Fass";
-  pn "Kleinen Fässer"; pg "Kleinen Fässer"; pd "Kleinen Fässern"; pa "Kleinen Fässer";
+  pn "Kleinen Fï¿½sser"; pg "Kleinen Fï¿½sser"; pd "Kleinen Fï¿½ssern"; pa "Kleinen Fï¿½sser";
 }
 translate WAGrapefruit to german feminine
 {
 swa "Grapefrucht";
   sn "Grapefrucht"; sg "Grapefrucht"; sd "Grapefrucht"; sa "Grapefrucht";
-  pn "Grapefrüchte"; pg "Grapefrüchte"; pd "Grapefrüchten"; pa "Grapefrüchte";
+  pn "Grapefrï¿½chte"; pg "Grapefrï¿½chte"; pd "Grapefrï¿½chten"; pa "Grapefrï¿½chte";
 }
 translate WALemon to german feminine
 {
@@ -127,7 +127,7 @@ translate WAApple to german masculine
 {
 swa "Apfel";
   sn "Apfel"; sg "Apfel"; sd "Apfel"; sa "Apfel";
-  pn "Äpfel"; pg "Äpfel"; pd "Äpfeln"; pa "Äpfel";
+  pn "ï¿½pfel"; pg "ï¿½pfel"; pd "ï¿½pfeln"; pa "ï¿½pfel";
 }
 translate WAPineapple to german feminine
 {
@@ -173,9 +173,9 @@ swa "Feige";
 }
 translate WAArtificialFruit to german feminine
 {
-swa "Künstl. Frucht";
-  sn "Künstl. Frucht"; sg "Künstl. Frucht"; sd "Künstl. Frucht"; sa "Künstl. Frucht";
-  pn "Künstl. Früchte"; pg "Künstl. Früchte"; pd "Künstl. Früchten"; pa "Künstl. Früchte";
+swa "Kï¿½nstl. Frucht";
+  sn "Kï¿½nstl. Frucht"; sg "Kï¿½nstl. Frucht"; sd "Kï¿½nstl. Frucht"; sa "Kï¿½nstl. Frucht";
+  pn "Kï¿½nstl. Frï¿½chte"; pg "Kï¿½nstl. Frï¿½chte"; pd "Kï¿½nstl. Frï¿½chten"; pa "Kï¿½nstl. Frï¿½chte";
 }
 translate WAMethylAnthranilate to german neuter
 {
@@ -193,13 +193,13 @@ translate WAGrass to german neuter
 {
 swa "Gras";
   sn "Gras"; sg "Grases"; sd "Gras"; sa "Gras";
-  pn "Gräser"; pg "Gräser"; pd "Gräsern"; pa "Gräser";
+  pn "Grï¿½ser"; pg "Grï¿½ser"; pd "Grï¿½sern"; pa "Grï¿½ser";
 }
 translate WABellPepper to german masculine
 {
-swa "Grüner Pfeffer";
-  sn "Grüne Pfeffer"; sg "Grünen Pfeffers"; sd "Grünem Pfeffer"; sa "Grüne Pfeffer";
-  pn "Grünen Pfeffer"; pg "Grünen Pfeffer"; pd "Grünen Pfeffern"; pa "Grünen Pfeffer";
+swa "Grï¿½ner Pfeffer";
+  sn "Grï¿½ne Pfeffer"; sg "Grï¿½nen Pfeffers"; sd "Grï¿½nem Pfeffer"; sa "Grï¿½ne Pfeffer";
+  pn "Grï¿½nen Pfeffer"; pg "Grï¿½nen Pfeffer"; pd "Grï¿½nen Pfeffern"; pa "Grï¿½nen Pfeffer";
 }
 translate WAEucalyptus to german masculine
 {
@@ -215,9 +215,9 @@ swa "Minze";
 }
 translate WAGreenBeans to german feminine
 {
-swa "Grüne Bohne";
-  sn "Grüne Bohne"; sg "Grünen Bohne"; sd "Grünen Bohne"; sa "Grüne Bohne";
-  pn "Grünen Bohnen"; pg "Grünen Bohnen"; pd "Grünen Bohnen"; pa "Grünen Bohnen";
+swa "Grï¿½ne Bohne";
+  sn "Grï¿½ne Bohne"; sg "Grï¿½nen Bohne"; sd "Grï¿½nen Bohne"; sa "Grï¿½ne Bohne";
+  pn "Grï¿½nen Bohnen"; pg "Grï¿½nen Bohnen"; pd "Grï¿½nen Bohnen"; pa "Grï¿½nen Bohnen";
 }
 translate WAAsparagus to german masculine
 {
@@ -227,9 +227,9 @@ swa "Spargel";
 }
 translate WAGreenOlive to german feminine
 {
-swa "Grüne Olive";
-  sn "Grüne Olive"; sg "Grünen Olive"; sd "Grünen Olive"; sa "Grüne Olive";
-  pn "Grünen Oliven"; pg "Grünen Oliven"; pd "Grünen Oliven"; pa "Grünen Oliven";
+swa "Grï¿½ne Olive";
+  sn "Grï¿½ne Olive"; sg "Grï¿½nen Olive"; sd "Grï¿½nen Olive"; sa "Grï¿½ne Olive";
+  pn "Grï¿½nen Oliven"; pg "Grï¿½nen Oliven"; pd "Grï¿½nen Oliven"; pa "Grï¿½nen Oliven";
 }
 translate WABlackOlive to german feminine
 {
@@ -265,13 +265,13 @@ translate WAWalnut to german feminine
 {
 swa "Walnuss";
   sn "Walnuss"; sg "Walnuss"; sd "Walnuss"; sa "Walnuss";
-  pn "Walnüsse"; pg "Walnüsse"; pd "Walnüssen"; pa "Walnüsse";
+  pn "Walnï¿½sse"; pg "Walnï¿½sse"; pd "Walnï¿½ssen"; pa "Walnï¿½sse";
 }
 translate WAHazelnut to german feminine
 {
 swa "Haselnuss";
   sn "Haselnuss"; sg "Haselnuss"; sd "Haselnuss"; sa "Haselnuss";
-  pn "Haselnüsse"; pg "Haselnüsse"; pd "Haselnüssen"; pa "Haselnüsse";
+  pn "Haselnï¿½sse"; pg "Haselnï¿½sse"; pd "Haselnï¿½ssen"; pa "Haselnï¿½sse";
 }
 translate WAAlmond to german feminine
 {
@@ -299,9 +299,9 @@ swa "Butter";
 }
 translate WASoySauce to german feminine
 {
-swa "Sojasoße";
-  sn "Sojasoße"; sg "Sojasoße"; sd "Sojasoße"; sa "Sojasoße";
-  pn "Sojasoßen"; pg "Sojasoßen"; pd "Sojasoßen"; pa "Sojasoßen";
+swa "Sojasoï¿½e";
+  sn "Sojasoï¿½e"; sg "Sojasoï¿½e"; sd "Sojasoï¿½e"; sa "Sojasoï¿½e";
+  pn "Sojasoï¿½en"; pg "Sojasoï¿½en"; pd "Sojasoï¿½en"; pa "Sojasoï¿½en";
 }
 translate WAChocolate to german feminine
 {
@@ -317,9 +317,9 @@ swa "Sirup";
 }
 translate WAPhenolic to german neuter
 {
-swa "Phenolharz";
-  sn "Phenolharz"; sg "Phenolharzes"; sd "Phenolharz"; sa "Phenolharz";
-  pn "Phenolharze"; pg "Phenolharze"; pd "Phenolharzen"; pa "Phenolharze";
+swa "Phenol";
+  sn "Phenol"; sg "Phenol"; sd "Phenol"; sa "Phenol";
+  pn "Phenolen"; pg "Phenolen"; pd "Phenolen"; pa "Phenolen";
 }
 translate WAVanilla to german feminine
 {
@@ -443,7 +443,7 @@ translate WABurntMatch to german neuter
 {
 swa "Abgebranntes Streichholz";
   sn "Abgebrannte Streichholz"; sg "Abgebrannten Streichholzes"; sd "Abgebrannten Streichholz"; sa "Abgebrannte Streichholz";
-  pn "Abgebrannten Streichhölzer"; pg "Abgebrannten Streichhölzer"; pd "Abgebrannten Streichhölzern"; pa "Abgebrannten Streichhölzer";
+  pn "Abgebrannten Streichhï¿½lzer"; pg "Abgebrannten Streichhï¿½lzer"; pd "Abgebrannten Streichhï¿½lzern"; pa "Abgebrannten Streichhï¿½lzer";
 }
 translate WASulfur to german masculine
 {
@@ -471,21 +471,21 @@ swa "Nasse Pappe";
 }
 translate WAEthylAcetate to german neuter
 {
-swa "Äthylazetat";
-  sn "Äthylazetat"; sg "Äthylazetats"; sd "Äthylazetat"; sa "Äthylazetat";
-  pn "Äthylazetate"; pg "Äthylazetate"; pd "Äthylazetate"; pa "Äthylazetate";
+swa "ï¿½thylazetat";
+  sn "ï¿½thylazetat"; sg "ï¿½thylazetats"; sd "ï¿½thylazetat"; sa "ï¿½thylazetat";
+  pn "ï¿½thylazetate"; pg "ï¿½thylazetate"; pd "ï¿½thylazetate"; pa "ï¿½thylazetate";
 }
 translate WAAceticAcid to german feminine
 {
-swa "Essigsäure";
-  sn "Essigsäure"; sg "Essigsäure"; sd "Essigsäure"; sa "Essigsäure";
-  pn "Essigsäuren"; pg "Essigsäuren"; pd "Essigsäuren"; pa "Essigsäuren";
+swa "Essigsï¿½ure";
+  sn "Essigsï¿½ure"; sg "Essigsï¿½ure"; sd "Essigsï¿½ure"; sa "Essigsï¿½ure";
+  pn "Essigsï¿½uren"; pg "Essigsï¿½uren"; pd "Essigsï¿½uren"; pa "Essigsï¿½uren";
 }
 translate WAEthanol to german neuter
 {
-swa "Äthanol";
-  sn "Äthanol"; sg "Äthanols"; sd "Äthanol"; sa "Äthanol";
-  pn "Äthanole"; pg "Äthanole"; pd "Äthanolen"; pa "Äthanole";
+swa "ï¿½thanol";
+  sn "ï¿½thanol"; sg "ï¿½thanols"; sd "ï¿½thanol"; sa "ï¿½thanol";
+  pn "ï¿½thanole"; pg "ï¿½thanole"; pd "ï¿½thanolen"; pa "ï¿½thanole";
 }
 translate WASharpSulfur to german feminine
 {
@@ -519,9 +519,9 @@ swa "Fusel";
 }
 translate WAHotAlcohol to german masculine
 {
-swa "Heißer Alkohol";
-  sn "Heiße Alkohol"; sg "Heißen Alkohols"; sd "Heißen Alkohol"; sa "Heiße Alkohol";
-  pn "Heißen Alkohole"; pg "Heißen Alkohole"; pd "Heißen Alkoholen"; pa "Heißen Alkohole";
+swa "Heiï¿½er Alkohol";
+  sn "Heiï¿½e Alkohol"; sg "Heiï¿½en Alkohols"; sd "Heiï¿½en Alkohol"; sa "Heiï¿½e Alkohol";
+  pn "Heiï¿½en Alkohole"; pg "Heiï¿½en Alkohole"; pd "Heiï¿½en Alkoholen"; pa "Heiï¿½en Alkohole";
 }
 translate WAAcetaldehyde to german neuter
 {
@@ -539,7 +539,7 @@ translate WALeesy to german masculine
 {
 swa "Bodensatz";
   sn "Bodensatz"; sg "Bodensatzes"; sd "Bodensatz"; sa "Bodensatz";
-  pn "Bodensätze"; pg "Bodensätze"; pd "Bodensätzen"; pa "Bodensätze";
+  pn "Bodensï¿½tze"; pg "Bodensï¿½tze"; pd "Bodensï¿½tzen"; pa "Bodensï¿½tze";
 }
 translate WASaurkraut to german neuter
 {
@@ -549,21 +549,21 @@ swa "Sauerkraut";
 }
 translate WAButericAcid to german feminine
 {
-swa "Buttersäure";
-  sn "Buttersäure"; sg "Buttersäure"; sd "Buttersäure"; sa "Buttersäure";
-  pn "Buttersäuren"; pg "Buttersäuren"; pd "Buttersäuren"; pa "Buttersäuren";
+swa "Buttersï¿½ure";
+  sn "Buttersï¿½ure"; sg "Buttersï¿½ure"; sd "Buttersï¿½ure"; sa "Buttersï¿½ure";
+  pn "Buttersï¿½uren"; pg "Buttersï¿½uren"; pd "Buttersï¿½uren"; pa "Buttersï¿½uren";
 }
 translate WASweaty to german neuter
 {
-swa "Schweiß";
-  sn "Schweiß"; sg "Schweiß"; sd "Schweiß"; sa "Schweiß";
-  pn "Schweiß"; pg "Schweiß"; pd "Schweiß"; pa "Schweiß";
+swa "Schweiï¿½";
+  sn "Schweiï¿½"; sg "Schweiï¿½"; sd "Schweiï¿½"; sa "Schweiï¿½";
+  pn "Schweiï¿½"; pg "Schweiï¿½"; pd "Schweiï¿½"; pa "Schweiï¿½";
 }
 translate WALacticAcid to german feminine
 {
-swa "Milchsäure";
-  sn "Milchsäure"; sg "Milchsäure"; sd "Milchsäure"; sa "Milchsäure";
-  pn "Milchsäuren"; pg "Milchsäuren"; pd "Milchsäuren"; pa "Milchsäuren";
+swa "Milchsï¿½ure";
+  sn "Milchsï¿½ure"; sg "Milchsï¿½ure"; sd "Milchsï¿½ure"; sa "Milchsï¿½ure";
+  pn "Milchsï¿½uren"; pg "Milchsï¿½uren"; pd "Milchsï¿½uren"; pa "Milchsï¿½uren";
 }
 translate WAHorsey to german neuter
 {
@@ -579,9 +579,9 @@ swa "Maus";
 }
 translate WAOrangeBlossom to german feminine
 {
-swa "Orangenblüte";
-  sn "Orangenblüte"; sg "Orangenblüte"; sd "Orangenblüte"; sa "Orangenblüte";
-  pn "Orangenblüten"; pg "Orangenblüten"; pd "Orangenblüten"; pa "Orangenblüten";
+swa "Orangenblï¿½te";
+  sn "Orangenblï¿½te"; sg "Orangenblï¿½te"; sd "Orangenblï¿½te"; sa "Orangenblï¿½te";
+  pn "Orangenblï¿½ten"; pg "Orangenblï¿½ten"; pd "Orangenblï¿½ten"; pa "Orangenblï¿½ten";
 }
 translate WARose to german feminine
 {
@@ -635,25 +635,25 @@ translate WATreeFruit to german feminine
 {
 swa "Teefrucht";
   sn "Teefrucht"; sg "Teefrucht"; sd "Teefrucht"; sa "Teefrucht";
-  pn "Teefrüchte"; pg "Teefrüchte"; pd "Teefrüchten"; pa "Teefrüchte";
+  pn "Teefrï¿½chte"; pg "Teefrï¿½chte"; pd "Teefrï¿½chten"; pa "Teefrï¿½chte";
 }
 translate WATropicalFruit to german feminine
 {
 swa "Tropenfrucht";
   sn "Tropenfrucht"; sg "Tropenfrucht"; sd "Tropenfrucht"; sa "Tropenfrucht";
-  pn "Tropenfrüchte"; pg "Tropenfrüchte"; pd "Tropenfrüchten"; pa "Tropenfrüchte";
+  pn "Tropenfrï¿½chte"; pg "Tropenfrï¿½chte"; pd "Tropenfrï¿½chten"; pa "Tropenfrï¿½chte";
 }
 translate WADriedFruit to german neuter
 {
-swa "Dörrobst";
-  sn "Dörrobst"; sg "Dörrobst"; sd "Dörrobst"; sa "Dörrobst";
-  pn "Dörrobst"; pg "Dörrobst"; pd "Dörrobst"; pa "Dörrobst";
+swa "Dï¿½rrobst";
+  sn "Dï¿½rrobst"; sg "Dï¿½rrobst"; sd "Dï¿½rrobst"; sa "Dï¿½rrobst";
+  pn "Dï¿½rrobst"; pg "Dï¿½rrobst"; pd "Dï¿½rrobst"; pa "Dï¿½rrobst";
 }
 translate WAOddFruit to german feminine
 {
 swa "Seltsame Frucht";
   sn "Seltsame Frucht"; sg "Seltsamne Frucht"; sd "Seltsamen Frucht"; sa "Seltsame Frucht";
-  pn "Seltsamen Früchte"; pg "Seltsamen Früchte"; pd "Seltsamen Früchten"; pa "Seltsamen Früchte";
+  pn "Seltsamen Frï¿½chte"; pg "Seltsamen Frï¿½chte"; pd "Seltsamen Frï¿½chten"; pa "Seltsamen Frï¿½chte";
 }
 translate WAFresh to german feminine
 {
@@ -677,19 +677,13 @@ translate WANutty to german neuter
 {
 swa "Nuss";
   sn "Nuss"; sg "Nuss"; sd "Nuss"; sa "Nuss";
-  pn "Nüssen"; pg "Nüssen"; pd "Nüssen"; pa "Nüssen";
+  pn "Nï¿½ssen"; pg "Nï¿½ssen"; pd "Nï¿½ssen"; pa "Nï¿½ssen";
 }
 translate WACarmelized to german neuter
 {
 swa "Karamell";
   sn "Karamell"; sg "Karamell"; sd "Karamell"; sa "Karamell";
   pn "Karamell"; pg "Karamell"; pd "Karamell"; pa "Karamell";
-}
-translate WAPhenolic to german neuter
-{
-swa "Phenol";
-  sn "Phenol"; sg "Phenol"; sd "Phenol"; sa "Phenol";
-  pn "Phenolen"; pg "Phenolen"; pd "Phenolen"; pa "Phenolen";
 }
 translate WAResinous to german neuter
 {
@@ -721,12 +715,6 @@ swa "Petroleum";
   sn "Petroleum"; sg "Petroleum"; sd "Petroleum"; sa "Petroleum";
   pn "Petroleum"; pg "Petroleum"; pd "Petroleum"; pa "Petroleum";
 }
-translate WASulfur to german masculine
-{
-swa "Schwefel";
-  sn "Schwefel"; sg "Schwefel"; sd "Schwefel"; sa "Schwefel";
-  pn "Schwefel"; pg "Schwefel"; pd "Schwefel"; pa "Schwefel";
-}
 translate WAPapery to german neuter
 {
 swa "Papier";
@@ -735,9 +723,9 @@ swa "Papier";
 }
 translate WAPungent to german neuter
 {
-swa "Schärfe";
-  sn "Schärfe"; sg "Schärfe"; sd "Schärfe"; sa "Schärfe";
-  pn "Schärfe"; pg "Schärfe"; pd "Schärfe"; pa "Schärfe";
+swa "Schï¿½rfe";
+  sn "Schï¿½rfe"; sg "Schï¿½rfe"; sd "Schï¿½rfe"; sa "Schï¿½rfe";
+  pn "Schï¿½rfe"; pg "Schï¿½rfe"; pd "Schï¿½rfe"; pa "Schï¿½rfe";
 }
 translate WAOddChemical to german neuter
 {
@@ -745,17 +733,23 @@ swa "Skurrile Chemie";
   sn "Skurrile Chemie"; sg "Skurrile Chemie"; sd "Skurrile Chemie"; sa "Skurrile Chemie";
   pn "Skurrile Chemie"; pg "Skurrile Chemie"; pd "Skurriler Chemie"; pa "Skurrile Chemie";
 }
-translate WAHot to german neuter
+translate WAHot to german neuter // dont know.... "Heiï¿½" or "Schï¿½rfe", have to see more
 {
-swa "Schärfe";
-  sn "Schärfe"; sg "Schärfe"; sd "Schärfe"; sa "Schärfe";
-  pn "Schärfe"; pg "Schärfe"; pd "Schärfe"; pa "Schärfe";
+swa "Schï¿½rfe";
+  sn "Schï¿½rfe"; sg "Schï¿½rfe"; sd "Schï¿½rfe"; sa "Schï¿½rfe";
+  pn "Schï¿½rfe"; pg "Schï¿½rfe"; pd "Schï¿½rfe"; pa "Schï¿½rfe";
+}
+translate WAHot to german neuter // dont know.... "Heiï¿½" or "Schï¿½rfe", have to see more
+{
+swa "Heiï¿½";
+  sn "Heiï¿½"; sg "Heiï¿½"; sd "Heiï¿½"; sa "Heiï¿½";
+  pn "Heiï¿½"; pg "Heiï¿½"; pd "Heiï¿½"; pa "Heiï¿½";
 }
 translate WACool to german neuter
 {
-swa "Kühle";
-  sn "Kühle"; sg "Kühle"; sd "Kühle"; sa "Kühle";
-  pn "Kühle"; pg "Kühle"; pd "Kühle"; pa "Kühle";
+swa "Kï¿½hle";
+  sn "Kï¿½hle"; sg "Kï¿½hle"; sd "Kï¿½hle"; sa "Kï¿½hle";
+  pn "Kï¿½hle"; pg "Kï¿½hle"; pd "Kï¿½hle"; pa "Kï¿½hle";
 }
 translate WAOxidized to german neuter
 {
@@ -789,15 +783,15 @@ swa "Blume";
 }
 translate WASpicey to german neuter
 {
-swa "Würze";
-  sn "Würze"; sg "Würze"; sd "Würze"; sa "Würze";
-  pn "Würze"; pg "Würze"; pd "Würze"; pa "Würze";
+swa "Wï¿½rze";
+  sn "Wï¿½rze"; sg "Wï¿½rze"; sd "Wï¿½rze"; sa "Wï¿½rze";
+  pn "Wï¿½rze"; pg "Wï¿½rze"; pd "Wï¿½rze"; pa "Wï¿½rze";
 }
 translate WAFruity to german neuter
 {
 swa "Frucht";
   sn "Frucht"; sg "Frucht"; sd "Frucht"; sa "Frucht";
-  pn "Früchten"; pg "Früchten"; pd "Früchten"; pa "Früchten";
+  pn "Frï¿½chten"; pg "Frï¿½chten"; pd "Frï¿½chten"; pa "Frï¿½chten";
 }
 translate WAVegetative to german neuter
 {
@@ -809,7 +803,7 @@ translate WAWoody to german neuter
 {
 swa "Holz";
   sn "Holz"; sg "Holz"; sd "Holz"; sa "Holz";
-  pn "Hölzer"; pg "Hölzer"; pd "Hölzern"; pa "Hölzer";
+  pn "Hï¿½lzer"; pg "Hï¿½lzer"; pd "Hï¿½lzern"; pa "Hï¿½lzer";
 }
 
 translate WACaramelized to german neuter
@@ -834,28 +828,28 @@ swa "Mikrobakterien";
 }
 
 translate "Allows for the cultivation of grapes."
-to german "Ermöglicht die Kultivierung von Trauben.";
+to german "Ermï¿½glicht die Kultivierung von Trauben.";
 
 translate "Vineyard"
-to german "Weinberg";
+to german "Weingarten";
 
 translate "To build a vineyard, you need:"
-to german "Um einen Weinberg zu bauen benötigst du:";
+to german "Zum bauen eines Weingarts, benï¿½tigst du:";
 
 translate "Build a Vineyard"
-to german "Weinberg";
+to german "Baue einen Weingarten";
 
 translate "Ask for a grape vine cutting"
 to german "Frage nach einem Rebenverschnitt";
 
 translate "We're very short on vine clippings right now. Here's what we're doing: Donate a Tilapia to the viticulture program. If we happen to have an extra vine cutting on hand, we will give you one. Does that seem ok?"
-to german "Im Augenblick sind unsere Vorräte an Weinsetzlingen sehr knapp. Wir machen Folgendes: Spende einen Buntbarsch für das Weinanbauprogramm. Wenn wir einen Setzling übrig haben, werden wir dir einen geben. Bist du damit einverstanden?";
+to german "Im Augenblick sind unsere Vorrï¿½te an Weinsetzlingen sehr knapp. Wir machen Folgendes: Spende einen Buntbarsch fï¿½r das Weinanbauprogramm. Wenn wir einen Setzling ï¿½brig haben, werden wir dir einen geben. Bist du damit einverstanden?";
 
 translate "You don't have any Tilapia!"
 to german "Du hast keinen Buntbarsch!";
 
 translate "We don't have any vine cuttings right now. It's best to ask another grower for a cutting. So long, and thanks for the fish."
-to german "Wir haben momentan keinerlei Setzlinge. Am besten fragst du einen Weinbauern nach Setzlingen. Bis bald und danke für den Fisch.";
+to german "Wir haben momentan keinerlei Setzlinge. Am besten fragst du einen Weinbauern nach Setzlingen. Bis bald und danke fï¿½r den Fisch.";
 
 translate "This is a O1, Growing K1"
 to german "Dies ist O1(asn) O1(sn), Zucht K1";
@@ -897,10 +891,10 @@ translate ", Growing K1"
 to german ", Zucht K1";
 
 translate "Fertilize the vine"
-to german "Dünge die Weinrebe";
+to german "Dï¿½nge die Weinrebe";
 
 translate "Warning: Fertilizing a vine has a chance of burning the plant, killing it. You might want to first take a cutting of the vine. Proceed anyway? (This warning will go away once you've made your first Vine Cutting.)"
-to german "Achtung: Düngen von Wein kann die Pflanze verbrennen und abtöten. Du kannst zuerst einen Setzling schneiden. Trotzdem fortfahren? (Diese Warnung wird nach deinem ersten Rebenschnitt verschwinden.)";
+to german "Achtung: Dï¿½ngen von Wein kann die Pflanze verbrennen und abtï¿½ten. Du kannst zuerst einen Setzling schneiden. Trotzdem fortfahren? (Diese Warnung wird nach deinem ersten Rebenschnitt verschwinden.)";
 
 translate "The ammonia in the fish burned the roots, ruining the crop!"
 to german "Das Ammoniak des Fisches verbrennt die Wurzen und ruiniert die Ernte!";
@@ -915,10 +909,10 @@ translate "Grapes are starting to shrivel"
 to german "Die Trauben beginnen zu vertrocknen";
 
 translate "Leaves are wilting"
-to german "Die Blätter verwelken";
+to german "Die Blï¿½tter verwelken";
 
 translate "Leaves shimmer with moisture"
-to german "Die Blätter schimmern feucht";
+to german "Die Blï¿½tter schimmern feucht";
 
 translate "Stems look especially fat"
 to german "Die Triebe sehen besonders dick aus";
@@ -927,28 +921,28 @@ translate "A musty smell can be detected"
 to german "Du stellst einen muffigen Geruch fest";
 
 translate "Vines are sagging a bit"
-to german "Die Reben hängen ein wenig herunter";
+to german "Die Reben hï¿½ngen ein wenig herunter";
 
 translate "Leaves rustle in the breeze"
-to german "Die Blätter rascheln im Wind";
+to german "Die Blï¿½tter rascheln im Wind";
 
 translate "Tend: Aerate the Soil"
 to german "Pflege: Lockere den Boden auf";
 
 translate "Tend: Trim the Lower Leaves"
-to german "Pflege: Schneide die unteren Blätter";
+to german "Pflege: Schneide die unteren Blï¿½tter";
 
 translate "Tend: Tie the Vines to the Trellis"
 to german "Pflege: Binde die Ranken an das Spalier";
 
 translate "Tend: Pinch off the weakest stems"
-to german "Pflege: Schneide schwächliche Zweige ab";
+to german "Pflege: Schneide schwï¿½chliche Zweige ab";
 
 translate "Tend: Mist the Grapes"
 to german "Pflege: Befeuchte die Trauben";
 
 translate "Tend: Shade the Leaves"
-to german "Pflege: Beschatte die Blätter";
+to german "Pflege: Beschatte die Blï¿½tter";
 
 translate "Tend: Spread out the Vines"
 to german "Pflege: Breite die Ranken aus";
@@ -968,7 +962,7 @@ translate "Cutting"
 to german "Schneiden";
 
 translate "Warning: Tending a vine when you don't know what you're doing can kill it. You might want to first take a cutting of the vine. Proceed anyway? (This warning will go away once you've made your first Vine Cutting.)"
-to german "Warnung: Wenn du eine Weinrebe pflegen möchtest, aber nicht weisst, wie es geht, könntest du sie abtöten. Du kannst zuerst einen Setzling schneiden. Trotzdem fortfahren? (Diese Warnung wird nach deinem ersten Rebenschnitt verschwinden.)";
+to german "Warnung: Wenn du eine Weinrebe pflegen mï¿½chtest, aber nicht weisst, wie es geht, kï¿½nntest du sie abtï¿½ten. Du kannst zuerst einen Setzling schneiden. Trotzdem fortfahren? (Diese Warnung wird nach deinem ersten Rebenschnitt verschwinden.)";
 
 translate "Take a Cutting of the Vine"
 to german "Nimm einen Rebensetzling von dieser Rebe";
@@ -980,7 +974,7 @@ translate "Harvest the Grapes"
 to german "Ernte die Trauben";
 
 translate "Are you sure you want to harvest these grapes?"
-to german "Bist du sicher, dass du diese Trauben ernten möchtest?";
+to german "Bist du sicher, dass du diese Trauben ernten mï¿½chtest?";
 
 translate "Examine Grapes"
 to german "Untersuche die Trauben";
@@ -993,7 +987,7 @@ to german "Gesundheit: N1";
 translate "Grapes: N1"
 to german "Trauben: N1";
 translate "Quality: N1"
-to german "Qualität: N1";
+to german "Qualitï¿½t: N1";
 translate "Sugar: N1"
 to german "Zucker: N1";
 translate "Skin: N1"
@@ -1001,7 +995,7 @@ to german "Schale: N1";
 translate "Color: N1"
 to german "Farbe: N1";
 translate "Acid: N1"
-to german "Säure: N1";
+to german "Sï¿½ure: N1";
 translate "Hue: "
 to german "Farbton: ";
 
@@ -1024,16 +1018,16 @@ translate "Wine Barrel"
 to german "Weinfass";
 
 translate "To build a Wine Barrel, you need: "
-to german "Um ein Weinfass zu bauen benötigst du: ";
+to german "Um ein Weinfass zu bauen benï¿½tigst du: ";
 
 translate "Barrel contains N1 bunches of grapes."
-to german "Das Weinfass enthält N1 Weintrauben.";
+to german "Das Weinfass enthï¿½lt N1 Weintrauben.";
 
 translate "Crush the Grapes and Seal the Barrel"
 to german "Zerstampfe die Trauben und dichte das Fass ab";
 
 translate "There are not enough grapes for even a single bottle of wine!"
-to german "Du hast nicht mal für eine einzige Weinflasche ausreichend Trauben!";
+to german "Du hast nicht mal fï¿½r eine einzige Weinflasche ausreichend Trauben!";
 
 translate "You need a Barrel Tap. Ask someone with the Whittling skill."
 to german "Du brauchst einen Fassdeckel. Frage jemanden mit Schnitzfertigkeit."; 
@@ -1045,10 +1039,10 @@ translate "Label for this wine:"
 to german "Weinbezeichnung:";
 
 translate "Wine barrel has been sealed, and fermentation has begun."
-to german "Das Weinfass wurde versiegelt und die Gärung hat begonnen.";
+to german "Das Weinfass wurde versiegelt und die Gï¿½rung hat begonnen.";
 
 translate "Add Grapes"
-to german "Fülle Weintrauben ein";
+to german "Fï¿½lle Weintrauben ein";
 
 translate "The grapes have spoiled, and should be thrown away."
 to german "Die Trauben sind verdorben und sollten weggeworfen werden.";
@@ -1057,10 +1051,10 @@ translate "Empty the contents of the barrel onto the ground."
 to german "Leere den Fassinhalt auf dem Boden aus.";
 
 translate "Are you sure you want to empty the barrel onto the ground?"
-to german "Bist du sicher, daß du den Fassinhalt auf den Boden ausleeren willst?";
+to german "Bist du sicher, daï¿½ du den Fassinhalt auf den Boden ausleeren willst?";
 
 translate "Open the Barrel and Bottle the Wine"
-to german "Öffne das Fass und fülle den Wein ab";
+to german "ï¿½ffne das Fass und fï¿½lle den Wein ab";
 
 translate "You need N1 Wine Bottles."
 to german "Du brauchst N1 Weinflaschen.";
@@ -1069,10 +1063,10 @@ translate "Siphon a Barrel Sample"
 to german "Entnehme eine Probe aus dem Fass";
 
 translate "Future Barrel Sample"
-to german "Nächste mögliche Probeentnahme";
+to german "Nï¿½chste mï¿½gliche Probeentnahme";
 
 translate "Siphon"
-to german "Abfüllen";
+to german "Abfï¿½llen";
 
 translate "Siphoning..."
 to german "Entnahme...";
@@ -1083,7 +1077,7 @@ to german "Ernte K1";
 translate "This K1, Vintage N1 White Wine has:"
 to german "Weinsorte K1, Ernte N1 Weisswein hat:"; 
 translate "This K1, Vintage N1 Rose Wine has:"
-to german "Weinsorte K1, Ernte N1 Roséwein hat:"; 
+to german "Weinsorte K1, Ernte N1 Rosï¿½wein hat:"; 
 translate "This K1, Vintage N1 Light Red Wine has:"
 to german "Weinsorte K1, Ernte N1 heller Rotwein hat:"; 
 translate "This K1, Vintage N1 Dark Red Wine has:"
@@ -1114,46 +1108,46 @@ translate "Tannin N1.N2"
 to german "Tannin N1.N2";
 
 translate "Acid N1.N2"
-to german "Säure N1.N2";
+to german "Sï¿½ure N1.N2";
 
 translate "Projects/Wine Barrel"
-to german "Projekte/Böttcherei/Weinfass";
+to german "Projekte/Bï¿½ttcherei/Weinfass";
 
 translate "Bless for Old Ugly"
 to german "Erbitte eine Rebe Old Ugly";
 
 translate "Crush the grapes"
-to german "Zerdrücke die Weintrauben";
+to german "Zerdrï¿½cke die Weintrauben";
 
 translate "Write a set of labels for this barrel"
-to german "Schreibe ein Set Beschriftungen für dieses Fass";
+to german "Schreibe ein Set Beschriftungen fï¿½r dieses Fass";
 
 translate "To write a set of wine labels requires:"
-to german "Ein Set Weinbeschriftungen benötigt:";
+to german "Ein Set Weinbeschriftungen benï¿½tigt:";
 
 translate "There is no wine left to taste."
 to german "Es ist kein Wein mehr zum Probieren da.";
 
 translate "Begin bottling the wine"
-to german "Fülle Wein in Flaschen ab";
+to german "Fï¿½lle Wein in Flaschen ab";
 
 translate "Are you sure you want to begin bottling the wine?"
-to german "Bist du sicher, dass du Wein in Flaschen abfüllen willst?";
+to german "Bist du sicher, dass du Wein in Flaschen abfï¿½llen willst?";
 
 translate "You don't see a good spot to take a cutting. Give it at least K1 to grow."
 to german "Du kannst keine gute Stelle zum Beschneiden entdecken. Lasse die Reben noch K1 wachsen.";
 
 translate "Name of the special bottling? (You can leave this blank)"
-to german "Name der Spezialabfüllung? (Du kannst das freilassen)";
+to german "Name der Spezialabfï¿½llung? (Du kannst das freilassen)";
 
 translate "Fill a glass jar with Wine"
-to german "Fülle Wein in eine Glasflasche";
+to german "Fï¿½lle Wein in eine Glasflasche";
 
 translate "You need a glass jar to bottle the wine."
-to german "Du brauchst eine Glasflasche um Wein darin abzufüllen.";
+to german "Du brauchst eine Glasflasche um Wein darin abzufï¿½llen.";
 
 translate "There is not enough wine left to bottle."
-to german "Es ist nicht mehr genug Wein zum Abfüllen in Flaschen da.";
+to german "Es ist nicht mehr genug Wein zum Abfï¿½llen in Flaschen da.";
 
 translate "Grow"
 to german "Anpflanzen";
@@ -1162,7 +1156,7 @@ translate "Are you sure you're ready to harvest? The cutting will be lost at the
 to german "Bist du sicher, dass du jetzt ernten willst? Die Rebe wird im gleichen Moment verschwinden.";
 
 translate "Seal the barrel and begin fermenting"
-to german "Dichte das Weinfass ab und beginne die Gärung";
+to german "Dichte das Weinfass ab und beginne die Gï¿½rung";
 
 translate "Wine barrel has been sealed."
 to german "Das Weinfass wurde abgedichtet.";
@@ -1174,7 +1168,7 @@ translate "You empty the barrel onto the ground."
 to german "Du leerst das Fass aus.";
 
 translate "Grow K1"
-to german "Züchte K1";
+to german "Zï¿½chte K1";
 
 translate "Taste Vintage N1"
 to german "Probiere Weinlese N1";
@@ -1189,7 +1183,7 @@ translate "You detect: "
 to german "Du entdeckst: ";
 
 translate "Vintage would be: N1"
-to german "Die Ernte wäre: N1";
+to german "Die Ernte wï¿½re: N1";
 
 //texts
 translate "three"
@@ -1202,29 +1196,23 @@ to german "eins";
 translate "Taste Vintage "
 to german "Probiere Weinernte ";
 
-translate "Harvest the Grapes"
-to german "Ernte die Weintrauben";
-
 translate "Prune the vine"
 to german "Beschneide die Pflanze";
 
 translate "Water the vine"
-to german "Bewässere die Pflanze";
+to german "Bewï¿½ssere die Pflanze";
 
 translate "You don't have any water."
 to german "Du hast kein Wasser.";
 
 translate "Spray the vine"
-to german "Besprühe die Weinrebe";
+to german "Besprï¿½he die Weinrebe";
 
 translate "Growing: K1"
 to german "Wachstum: K1";
 
 translate "Take a vine cutting"
 to german "Nimm eine Weinrebe";
-
-translate "Grapes: N1"
-to german "Weintrauben: N1";
 
 translate "Concentration: N1"
 to german "Konzentration: N1";
@@ -1242,10 +1230,10 @@ translate "How many K1?"
 to german "Wieviele K1?";
 
 translate "Grapes must be crushed N1 more times."
-to german "Die Weintrauben müssen noch N1 mal zerdrückt werden.";
+to german "Die Weintrauben mï¿½ssen noch N1 mal zerdrï¿½ckt werden.";
 
 translate "Barrel contains juice from N1 bunches of grapes."
-to german "Das Weinfass enthält Saft von N1 Weintrauben.";
+to german "Das Weinfass enthï¿½lt Saft von N1 Weintrauben.";
 
 translate "Create Special Wine"
 to german "Erstelle einen speziellen Wein";

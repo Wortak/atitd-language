@@ -83,13 +83,13 @@ translate Firebuilding to german masculine
 }
 
 translate "Allows the ability to start fires where needed with flint and tinder."
-to german "Ermöglicht den Bau und das Anzünden von Feuern mittels Feuerstein und Zunder.";
+to german "Ermï¿½glicht den Bau und das Anzï¿½nden von Feuern mittels Feuerstein und Zunder.";
 
 translate "Firepit"
 to german "Feuergrube";
 
 translate "To build a Firepit, you need: "
-to german "Um eine Feuergrube zu bauen benötigst du: ";
+to german "Um eine Feuergrube zu bauen benï¿½tigst du: ";
 
 translate "Place Wood in Firepit"
 to german "Lege Holz in die Feuergrube";
@@ -104,19 +104,19 @@ translate "You must place tinder into the firepit to construct a proper fire."
 to german "Du musst Zunder in die Feuergrube legen um ein richtiges Feuer zu machen.";
 
 translate "Strike flint into the tinder and blow to start fire"
-to german "Entzünde mit Feuersteinen den Zunder und fache das Feuer an";
+to german "Entzï¿½nde mit Feuersteinen den Zunder und fache das Feuer an";
 
 translate "You must have a piece of flint to light the fire."
-to german "Du musst ein Stück Feuerstein haben um das Feuer zu entzünden.";
+to german "Du musst ein Stï¿½ck Feuerstein haben um das Feuer zu entzï¿½nden.";
 
 translate "The tinder catches the spark, and the fire flares into life."
 to german "Die Funken treffen den Zunder und das Feuer beginnt leise zu glimmen.";
 
 translate "The tinder catches the spark, and the fire flares into life. You learn a bit more about Firebuilding, as well."
-to german "Die Funken treffen den Zunder und das Feuer beginnt leise zu glimmen. Du lernst mehr über das Feuer machen, gut so.";
+to german "Die Funken treffen den Zunder und das Feuer beginnt leise zu glimmen. Du lernst mehr ï¿½ber das Feuer machen, gut so.";
 
 translate "The tinder catches the spark and burns up, but the fire doesn't catch. You will have to replace the tinder."
-to german "Die Funken treffen den Zunder und er verbrennt, aber das Feuer springt nicht über. Du musst neuen Zunder dazulegen.";
+to german "Die Funken treffen den Zunder und er verbrennt, aber das Feuer springt nicht ï¿½ber. Du musst neuen Zunder dazulegen.";
 
 translate "The spark lands on the tinder and it smoulders, but does not light.."
 to german "Die Funken treffen den Zunder und er glimmt, aber entflammt nicht das Holz..";
@@ -131,7 +131,7 @@ translate "Add some O1 to the fire."
 to german "Lege einige(n) O1(pn) in das Feuer."; 
 
 translate "Add how much O1 to the fire?"
-to german "Wieviel O1(pn) in das Feuer legen?";
+to german "Wie viel O1(pn) dem Feuer hinzugeben ?";
 
 translate "You can't put more than N1 of any item into the firepit."
 to german "Du kannst nicht mehr als N1 jeder Sorte in die Feuergrube legen.";
@@ -143,10 +143,10 @@ translate "Stoke the Fire with your Sharpened Stick"
 to german "Stochere mit deinem spitzen Stock im Feuer herum";
 
 translate "Stoke the Fire with your Iron Poker"
-to german "Stochere mit deinem Schürhaken im Feuer herum";
+to german "Stochere mit deinem Schï¿½rhaken im Feuer herum";
 
 translate "You stoke the fire with your Sharpened Stick, but it catches fire and burns up."
-to german "Du stocherst mit deinem spitzen Stock im Feuer herum, aber er fängt Feuer und brennt ab.";
+to german "Du stocherst mit deinem spitzen Stock im Feuer herum, aber er fï¿½ngt Feuer und brennt ab.";
 
 translate "You stoke the fire at the wrong time, and you ruin the fire prematurely."
 to german "Du stocherst zum falschen Zeitpunkt im Feuer und ruinierst vorzeitig das Feuer.";
@@ -156,9 +156,6 @@ to german "Deine Feuergrube schwelt aus.";
 
 translate "Grill O1 on the fire."
 to german "Grille O1(pn) im Feuer.";
-
-translate "Add how much O1 to the fire?"
-to german "Wieviel O1(pn) ins Feuer legen?";
 
 translate "You must place your food on a Sharpened Stick to cook it in the fire."
 to german "Du musst dein Essen auf einen spitzen Stock stecken um es im Feuer zu grillen.";

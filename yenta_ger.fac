@@ -33,38 +33,41 @@ translate EssenceOfHarmony to german feminine
 }
 
 translate "The Test of Marriage is perhaps the easiest challenge you will have. Be forwarned, however: A spouse can use and dispose of your goods as they see fit, and can even log in as you!"
-to german "Der Test der Ehe ist möglicherweise die einfachste Herausforderung. Sei trotzdem vorgewarnt: Ein Ehepartner kann deine Waren auf jede Art nutzen und kann mit deiner Spielfigur einloggen!";
+to german "Der Test der Ehe ist mï¿½glicherweise die einfachste Herausforderung. Sei trotzdem vorgewarnt: Ein Ehepartner kann deine Waren auf jede Art nutzen und kann mit deiner Spielfigur einloggen!";
 
 translate "Witness a Wedding"
 to german "Bezeuge eine Ehe";
 
 translate "Introduce yourself to a potential mate"
-to german "Stelle dich als zukünftigen Ehepartner vor";
+to german "Stelle dich als zukï¿½nftigen Ehepartner vor";
 
 translate "Have a potential mate introduce themselves"
-to german "Finde einen möglichen Ehepartner";
+to german "Finde einen mï¿½glichen Ehepartner";
 
 translate "You have completed Principles of Marriage."
-to german "Du hast die Prinzipien der Hochzeit vervollständigt.";
+to german "Du hast die Prinzipien der Hochzeit vervollstï¿½ndigt.";
 
 translate "Marriage in Egypt is a private affair. A man and woman, two women, or two men, each who has been in the land for at least 24 hours should find an altar. One spouse places a medium diamond on the left focus, the other places one on the right. Five close friends witness the marriage by meditating at the altar.Points for a marriage are the number of weeks of that marriage times the number of Tests that your spouse passed during the marriage. Your marriage score is the sum of points for such marriages."
-	to german "Die Ehe in Ägypten ist eine sehr private Sache. Ein Mann und eine Frau, zwei Frauen oder zwei Männer, alle, die 24 Stunden gespielt haben, können einen Altar aufsuchen. Ein Partner platziert einen mittleren Diamanten in die linke Schale, der andere Partner in die rechte Schale. Fünf enge Freunde bestätigen die Ehe, indem sie am Altar meditieren. Die Punkte für eine Ehe setzen sich zusammen aus der Wochenanzahl x mit der Anzahl der - während der Ehe - bestandenen Tests des Ehepartners. Deine Ehepunktzahl ist die Summe aller Punkte solcher Hochzeiten.";
+	to german "Die Ehe in ï¿½gypten ist eine sehr private Sache. Ein Mann und eine Frau, zwei Frauen oder zwei Mï¿½nner, alle, die 24 Stunden gespielt haben, kï¿½nnen einen Altar aufsuchen. Ein Partner platziert einen mittleren Diamanten in die linke Schale, der andere Partner in die rechte Schale. Fï¿½nf enge Freunde bestï¿½tigen die Ehe, indem sie am Altar meditieren. Die Punkte fï¿½r eine Ehe setzen sich zusammen aus der Wochenanzahl x mit der Anzahl der - wï¿½hrend der Ehe - bestandenen Tests des Ehepartners. Deine Ehepunktzahl ist die Summe aller Punkte solcher Hochzeiten.";
 
 translate "Couples are aware of each other's accomplishments, may use each other's possessions, AND MAY EVEN LOG IN AS ONE ANOTHER. Divorce in Egypt is quick and easy."
-to german "Paare unterstützen sich gegenseitig in ihren Fähigkeiten, dürfen gegenseitigen Eigentum nutzen und DÜRFEN MIT DER SPIELFIGUR DES ANDEREN EINLOGGEN. Scheidungen in Ägypten gehen schnell und einfach.";
+to german "Paare unterstï¿½tzen sich gegenseitig in ihren Fï¿½higkeiten, dï¿½rfen gegenseitigen Eigentum nutzen und Dï¿½RFEN MIT DER SPIELFIGUR DES ANDEREN EINLOGGEN. Scheidungen in ï¿½gypten gehen schnell und einfach.";
 
 translate "There is another way to pass the Test of Marriage: By being married many times, and having each spouse pass at least one Test for the Marriage to count. Passings using this method don't compete with those of the mainstream method."
-to german "Ein anderer Weg, den Test der Ehe zu bestehen: Man heiratet sooft als möglich, jeder Partner muss mindestens einen Test während der Ehe bestehen. Das Bestehen des Tests unterscheidet sich nicht von der grundsätzlichen Art dieses Tests.";
+to german "Ein anderer Weg, den Test der Ehe zu bestehen: Man heiratet sooft als mï¿½glich, jeder Partner muss mindestens einen Test wï¿½hrend der Ehe bestehen. Das Bestehen des Tests unterscheidet sich nicht von der grundsï¿½tzlichen Art dieses Tests.";
 
 translate "Test of Marriage"
 to german "Test der Ehe";
 
 translate "Introduce yourself as a single man"
-to german "Stelle dich als Singlemann vor";
+to german "Stelle dich als alleinstehenden Mann vor";
+translate "Introduce yourself as a single male"
+to german "Stelle dich als mï¿½nnlich alleinstehend vor";
+
 translate "Introduce yourself as a single woman"
-to german "Stelle Dich als Singlefrau vor";
+to german "Stelle dich als alleinstehende Frau vor";
 translate "Introduce yourself as a single female"
-to german "Stelle Dich als Singlefrau vor";
+to german "Stelle dich als weiblich alleinstehend vor";
 
 //translate "You may not introduce yourself to someone of the same sex."
 //to german "Du darfst dich niemanden gleichen Geschlechts vorstellen.";
@@ -76,7 +79,7 @@ translate "Alas, U1 is already married."
 to german "U1(name), ist leider schon verheiratet.";
 
 translate "Your gesture was kind, but U1 is not pursuing the Test of Marriage."
-to german "Eine freundliche Geste, aber U1(name) ist nicht für den Test der Ehe eingetragen.";
+to german "Eine freundliche Geste, aber U1(name) ist nicht fï¿½r den Test der Ehe eingetragen.";
 
 translate "You introduce yourself to U1."
 to german "Du stellst dich U1(name) vor.";
@@ -85,7 +88,7 @@ to german "Du stellst dich U1(name) vor.";
 //to german "
 
 translate "Forecast which Marriages will endure. A Marriage is only valid when both parties are active in Egypt."
-to german "Prognosen, welche Ehen Bestand haben werden. Eine Ehe ist nur gültig, wenn beide Partner in Ägypten aktiv spielen.";
+to german "Prognosen, welche Ehen Bestand haben werden. Eine Ehe ist nur gï¿½ltig, wenn beide Partner in ï¿½gypten aktiv spielen.";
 
 translate "Make your First Forecast"
 to german "Stelle deine erste Prognose";
@@ -94,7 +97,7 @@ translate "Make a Second Forecast"
 to german "Stelle deine zweite Prognose";
 
 translate "Review your Forecasts at the Essence of Harmony"
-to german "Prüfe deine Prognosen mithilfe der Essenz der Harmonie";
+to german "Prï¿½fe deine Prognosen mithilfe der Essenz der Harmonie";
 
 translate "Accumulate 2000 Soul Points"
 to german "Sammle 2000 Seelenpunkte an";
@@ -103,7 +106,7 @@ translate "Essence of Harmony"
 to german "Essenz der Harmonie";
 
 translate "To build the Essence of Harmony you need:"
-to german "Um eine Essenz der Harmonie zu bauen benötigst du:";
+to german "Um eine Essenz der Harmonie zu bauen benï¿½tigst du:";
 
 translate "Marriage: N1 Tests in N2 weeks, Score= N3 U1 & U2"
 to german "Ehe: N1 Tests in N2 Wochen, Punkte= N3 U1(name) & U2(name)";
@@ -112,22 +115,22 @@ translate "Fucked SpouseTime: U1"
 to german "Beschissene Ehezeit: U1(name)";
 
 translate "Review someone's Marriage(s)"
-to german "Andere Eherückblicke";
+to german "Andere Eherï¿½ckblicke";
 
 translate "Who's Marriage History?"
 to german "Wessen Ehehistorie?";
 
 translate "Review my Marriage(s)"
-to german "Eherückblick(e)";
+to german "Eherï¿½ckblick(e)";
 
 translate "Marriage history for U1:"
 to german "Ehehistorie von U1(name)";
 
 translate "    Was married to U1 for N1 weeks. The couple passed N2 tests for N3 points."
-to german "    War mit U1(name) für N1 Wochen verheiratet. Der Partner hat N2 Tests abgeschlossen mit N3 Punkten.";
+to german "    War mit U1(name) fï¿½r N1 Wochen verheiratet. Der Partner hat N2 Tests abgeschlossen mit N3 Punkten.";
 
 translate "   Now married to U1 for N1 weeks. Together N2* Tests for N3 points."
-to german "   Jetzt mit U1(name) seit N1 Wochen verheiratet. Gemeinsam wurden N2* Tests für N3 Punkte abgeschlossen.";
+to german "   Jetzt mit U1(name) seit N1 Wochen verheiratet. Gemeinsam wurden N2* Tests fï¿½r N3 Punkte abgeschlossen.";
 
 translate "   Now married to U1 for N1 weeks. Together you have passed N2 Tests for N3 points."
 to german "   Jetzt mit U1(name) seit N1 Wochen verheiratet. Gemeinsam wurden N2 Tests abgeschlossen mit N3 Punkten.";
@@ -136,10 +139,10 @@ translate "   Now married to U1 for N1 weeks. Together you have passed N2* Tests
 to german "   Jetzt mit U1(name) seit N1 Wochen verheiratet. Gemeinsam wurden N2* Tests abgeschlossen mit N3 Punkten.";
 
 translate "* indicates that U1's spouse failed to pass any Tests during the marriage."
-to german "* besagt, dass U1(name)'s Partner keinen Test während der Ehezeit bestanden hat.";
+to german "* besagt, dass U1(name)'s Partner keinen Test wï¿½hrend der Ehezeit bestanden hat.";
 
 translate "Total Marriage score for U1 is N1"
-to german "Ehepunkte insgesamt für U1(name): N1";
+to german "Ehepunkte insgesamt fï¿½r U1(name): N1";
 
 translate "Get Divorced"
 to german "Scheiden lassen";
@@ -157,19 +160,19 @@ translate "Make a Prophecy"
 to german "Mache eine Prophezeihung";
 
 translate "You have already made N1 Prophecies. Wait K1 to make your next."
-to german "Du hast bereits N1 Prophezeihungen gemacht. Warte K1 für die Nächste.";
+to german "Du hast bereits N1 Prophezeihungen gemacht. Warte K1 fï¿½r die Nï¿½chste.";
 
 translate "You have recently made a Prophecy. Wait K1 to make your next."
-to german "Du hast kürzlich eine Prophezeihung gemacht. Warte K1 für die Nächste.";
+to german "Du hast kï¿½rzlich eine Prophezeihung gemacht. Warte K1 fï¿½r die Nï¿½chste.";
 
 translate "Who do you see going on to pass many Tests?"
 to german "Wen siehst du, der viele Tests bestehen wird?";
 
 translate "You have already Prophecied U1. Select another."
-to german "Du hast über U1(name) bereits eine Prophezeihung gemacht. Wähle eine andere.";
+to german "Du hast ï¿½ber U1(name) bereits eine Prophezeihung gemacht. Wï¿½hle eine andere.";
 
 translate "You can not Prophexy on yourself."
-to german "Du kannst keine Prophezeihung über dich selbst machen.";
+to german "Du kannst keine Prophezeihung ï¿½ber dich selbst machen.";
 
 translate "Review my Prophecies"
 to german "Prophezeihungen erneut betrachten";
@@ -187,7 +190,7 @@ translate "Total of N1 Prophecy Points."
 to german "Prophezeihung: Insgesamt N1 Punkte";
 
 translate "Review my Forecasts"
-to german "Prognosenrückblick";
+to german "Prognosenrï¿½ckblick";
 
 translate "Compiling data..."
 to german "Datenabgleich...";
@@ -196,22 +199,22 @@ translate "Forecasts:"
 to german "Prognosen:";
 
 translate "In Egypt, only marriages between a man and a woman are considered holy."
-to german "In Ägypten ist nur die Ehe zwischen Mann und Frau heilig.";
+to german "In ï¿½gypten ist nur die Ehe zwischen Mann und Frau heilig.";
 
 translate "Both must visit the Great University of Harmony to become familiar with the customs of marriage."
-to german "Beide müssen die Uni der Harmonie besucht haben, um sich mit den Gebräuchen der Ehe vertraut zu machen.";
+to german "Beide mï¿½ssen die Uni der Harmonie besucht haben, um sich mit den Gebrï¿½uchen der Ehe vertraut zu machen.";
 
 translate "U1 does not have a paid account."
 to german "U1(name) hat keinen Zahlaccount.";
 
 translate "U1 is already married to U2. Divorces may be obtained at an Essence of Harmony."
-to german "U1(name) ist bereits mit U2(name) verheiratet. Scheidungen benötigen die Harmonieessenz.";
+to german "U1(name) ist bereits mit U2(name) verheiratet. Scheidungen benï¿½tigen die Harmonieessenz.";
 
 translate "Egypt recognizes K1 for specially passing the Test of Marriage based on number of Marriages."
-to german "Ägypten ehrt K1 für das Bestehen des Tests der Ehe bezogen auf die Anzahl der Ehen.";
+to german "ï¿½gypten ehrt K1 fï¿½r das Bestehen des Tests der Ehe bezogen auf die Anzahl der Ehen.";
 
 translate "Egypt recognizes K1 for passing the Test of Marriage."
-to german "Ägypten ehrt K1 für das Bestehen des Tests der Ehe.";
+to german "ï¿½gypten ehrt K1 fï¿½r das Bestehen des Tests der Ehe.";
 
 translate "No passes in the Test of Marriage."
 to german "Keine bestandenen Tests der Ehe.";
@@ -220,13 +223,13 @@ translate "Forecast a Marriage"
 to german "Eheprognose stellen";
 
 translate "Because scoring is paramutual (forecasts on a marriage dilute others' scores), Marriages may only be forecast when you have a paid account."
-to german "Weil die Punktvergabe sich unter allen Bewertern aufteilt (Prognosen einer Ehe schwächen andere Wertungen), dürfen Ehen nur von Zahlaccounts prognostiziert werden.";
+to german "Weil die Punktvergabe sich unter allen Bewertern aufteilt (Prognosen einer Ehe schwï¿½chen andere Wertungen), dï¿½rfen Ehen nur von Zahlaccounts prognostiziert werden.";
 
 translate "Wait K1 to make another forecast."
 to german "Warte K1, bevor du eine andere Prognose stellst.";
 
 translate "You have already forecast N1 marriages. You (and everyone else) can make the next forecast in K1."
-to german "Du hast bereits N1 Ehen prognostiziert. Du (und jeder Andere) kann die nächste Prognose in K1 stellen.";
+to german "Du hast bereits N1 Ehen prognostiziert. Du (und jeder Andere) kann die nï¿½chste Prognose in K1 stellen.";
 
 translate "Which Marriage do you forecast? (Either Spouse)"
 to german "Welche Ehe willst du prognostizieren? (Oder Partner)";
@@ -238,16 +241,16 @@ translate "You can not forecast your own marriage."
 to german "Du kannst nicht deine eigene Ehe prognostizieren.";
 
 translate "Forecast U1 & U2? Type FORECAST to confirm."
-to german "U1(name) & U2(name) prognostizieren? Schreibe FORECAST zur Bestätigung.";
+to german "U1(name) & U2(name) prognostizieren? Schreibe FORECAST zur Bestï¿½tigung.";
 
 translate "Forecast Cancelled."
-to german "Prognose gelöscht.";
+to german "Prognose gelï¿½scht.";
 
 translate "You have forecast U1 & U2 as a long-lasting marriage."
 to german "Du hast U1(name) & U2(name) eine lange Ehezeit vorhergesagt.";
 
 translate " Retaining N1 passes."
-to german "Speichere N1 Durchgänge.";
+to german "Speichere N1 Durchgï¿½nge.";
 
 translate "Travel to U1"
 to german "Reise zu U1(name)";
@@ -256,28 +259,28 @@ translate "U1's account is not currently in a Paid state."
 to german "Der Account von U1(name) ist momentan nicht im Bezahlstatus.";
 
 translate "Both you and your spouse must be on land."
-to german "Beide - du und dein Partner müssen an Land sein.";
+to german "Beide - du und dein Partner mï¿½ssen an Land sein.";
 
 translate "How strange - you are unsure how to get to U1."
-to german "Verrückt - Du bist unsicher, wie du zu U1(name) kommen kannst.";
+to german "Verrï¿½ckt - Du bist unsicher, wie du zu U1(name) kommen kannst.";
 
 translate "Really warp to your spouse in K1 N1 N2?"
 to german "Wirklich zum Ehepartner in K1 N1 N2 reisen?";
 
 translate "Forecast which Marriages will endure and prosper. A Marriage prospers when each party makes progress (gains a level or passes a Test) at least every two weeks."
-	to german "Sage voraus, welche Ehen Bestand haben werden und gedeihen. Eine Ehe wächst, wenn jeder der Partner Fortschritte macht (leveln oder Tests bestehen) innerhalb wenigstens zwei Wochen.";
+	to german "Sage voraus, welche Ehen Bestand haben werden und gedeihen. Eine Ehe wï¿½chst, wenn jeder der Partner Fortschritte macht (leveln oder Tests bestehen) innerhalb wenigstens zwei Wochen.";
 
 translate "If some marriage in your chain fails to make progress for N1 Chains advances, then your chain breaks. You may rebuild your chain, but may not reuse a person that you previously used.\n\n"
-	to german "Sollte eine Ehe in deiner Kette um N1 Kettenfortschritte versagen, wird deine Kette brechen. Du kannst sie wieder neu zusammensetzen, allerdings musst du neue Ehen wählen und niemanden, den du zuvor eingesetzt hattest.";
+	to german "Sollte eine Ehe in deiner Kette um N1 Kettenfortschritte versagen, wird deine Kette brechen. Du kannst sie wieder neu zusammensetzen, allerdings musst du neue Ehen wï¿½hlen und niemanden, den du zuvor eingesetzt hattest.";
 
 translate "You accumulate points each week equal to the number of active marriages on your chain that have made progress since you added them."
 	to german "Du sammelst Punkte in jeder Woche gleichwertig mit der Anzahl der aktiven Ehen deiner Kette, die Fortschritte gemacht haben, seit du sie eingesetzt hast.";
 
 translate "Add a Link - Forecast a Marriage"
-	to german "Füge ein Glied hinzu - Prognosiziere eine Ehe";
+	to german "Fï¿½ge ein Glied hinzu - Prognosiziere eine Ehe";
 
 translate "You have already added N1 links this week."
-	to german "Du hast diese Woche bereits N1 Glieder hinzugefügt.";
+	to german "Du hast diese Woche bereits N1 Glieder hinzugefï¿½gt.";
 
 translate "Enter either spouse's name:"
 	to german "Gib einen anderen Partnernamen ein:";
@@ -286,37 +289,37 @@ translate "U1 is not married."
 	to german "U1(name) ist nicht verheiratet.";
 
 translate "You have already included U1 in a previous forecast."
-to german "Du hast bereits in einer vorherigen Prognose U1(name) eingefügt.";
+to german "Du hast bereits in einer vorherigen Prognose U1(name) eingefï¿½gt.";
 
 translate "You have already included U1's spouse U2 in a previous forecast."
-	to german "Du hast bereits in einer vorherigen Prognose U2(name) als Partner von U1(name) eingefügt.";
+	to german "Du hast bereits in einer vorherigen Prognose U2(name) als Partner von U1(name) eingefï¿½gt.";
 
 translate "You have already included U1 or someone with a similar signature in a prior forecast."
-	to german "Du hast bereits U1(name) oder jemand mit einer ähnlichen Signatur in einer vorherigen Prognose eingefügt.";
+	to german "Du hast bereits U1(name) oder jemand mit einer ï¿½hnlichen Signatur in einer vorherigen Prognose eingefï¿½gt.";
 
 translate "You have already included U1's spouse U2 or someone with a similar signature in a prior forecast."
-	to german "Du hast bereits in einer vorherigen Prognose U2(name) - oder jemand mit einer ähnlichen Signatur - als Partner von U1(name) eingefügt.";
+	to german "Du hast bereits in einer vorherigen Prognose U2(name) - oder jemand mit einer ï¿½hnlichen Signatur - als Partner von U1(name) eingefï¿½gt.";
 
 translate "You now have N1 links in your chain."
 	to german "Du hast nun N1 Glieder in deiner Kette.";
 
 translate "No passes in the Test of Chains. Retaining N1 passes."
-	to german "Niemand hat den Test der Ketten bestanden. Beibehaltung von N1 Durchgängen.";
+	to german "Niemand hat den Test der Ketten bestanden. Beibehaltung von N1 Durchgï¿½ngen.";
 
 translate "Egypt recognizes K1 for passing the Test of Chains. "
-	to german "Ägypten ehrt K1 für das Bestehen des Tests der Ketten.";
+	to german "ï¿½gypten ehrt K1 fï¿½r das Bestehen des Tests der Ketten.";
 
 translate "Retaining N1 passes."
-	to german "Beibehaltung von N1 Durchgängen.";
+	to german "Beibehaltung von N1 Durchgï¿½ngen.";
 
 translate "Chains score of N1 for U1"
-	to german "Kettenwertung von N1 für U1(name)";
+	to german "Kettenwertung von N1 fï¿½r U1(name)";
 
 translate "Chain Broken because the marriage of U1 and U2 (and possibly others) failed to progress."
-	to german "Die Kette brach. Es gab keine Fortschritte bei U1(name) und U2(name) (und möglicherweise anderen).";
+	to german "Die Kette brach. Es gab keine Fortschritte bei U1(name) und U2(name) (und mï¿½glicherweise anderen).";
 
 translate "Chain Extended"
 	to german "Kette erweitert";
 
 translate "Chain Length: N1 U1"
-	to german "Kettenlänge: N1 U1(name)";
+	to german "Kettenlï¿½nge: N1 U1(name)";

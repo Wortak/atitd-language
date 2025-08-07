@@ -52,22 +52,22 @@ translate Scrying to german neuter
 	}
 	
 translate "Allows the formulation of complex alchemical agents with a cornucopia of properties."
-to german "Erlaubt das Zusammenstellen von Rezepturen aus komplexen alchemistischen Zutaten in einer Fülle von Möglichkeiten.";
+to german "Erlaubt das Zusammenstellen von Rezepturen aus komplexen alchemistischen Zutaten in einer Fï¿½lle von Mï¿½glichkeiten.";
 
 translate "Iron Cook Pots"
-to german "Eisenkochtöpfe";
+to german "Eisenkochtï¿½pfe";
 
 translate "Thermometers"
 to german "Thermometer";
 
 translate "Papyrus Paper (for Fume Hoods)"
-to german "Papyruspapier (für Feuerkegel)";
+to german "Papyruspapier (fï¿½r Feuerkegel)";
 
 translate "Glass Jars (pre-mix)"
-to german "Gläser (Anmischen)";
+to german "Glï¿½ser (Anmischen)";
 
 translate "You learn to build and operate an Alchemist's Bench, and understand techniques for peering into an alchemical solution to discern it's components. You also learn recipes and techniques for using Reducting Agent to purify and isolate components of the alchemical solution."
-to german "Du lernst Bau und Betrieb eine Alchemistenlabors und verstehst Techniken, um alchemistische Lösungen und ihre Unterschiede zu erkunden. Außerdem erlernst du Techniken und Rezepte, um alchemistische Reduktionsmittel zu extrahieren.";
+to german "Du lernst Bau und Betrieb eine Alchemistenlabors und verstehst Techniken, um alchemistische Lï¿½sungen und ihre Unterschiede zu erkunden. Auï¿½erdem erlernst du Techniken und Rezepte, um alchemistische Reduktionsmittel zu extrahieren.";
 
 translate "Basic Tincture "
 to german "Basistinktur";
@@ -79,16 +79,16 @@ translate "Alchemist's Bench"
 to german "Alchmistenlabor";
 
 translate "To build an Alchemist's Bench you need:"
-to german "Um ein Alchemistenlabor zu bauen benötigst du:";
+to german "Um ein Alchemistenlabor zu bauen benï¿½tigst du:";
 
 translate "Warning: Alchemists benches can be destroyed if misused. Consult an experienced alchemist to learn how to avoid this."
-to german "Warnung: Alchemistenlabore können zerstört werden, wenn sie falsch bedient werden. Konsultiere einen erfahrenen Alchemisten um zu lernen, wie dies verhindert werden kann.";
+to german "Warnung: Alchemistenlabore kï¿½nnen zerstï¿½rt werden, wenn sie falsch bedient werden. Konsultiere einen erfahrenen Alchemisten um zu lernen, wie dies verhindert werden kann.";
 
 translate "Mix a batch of Reducing Agent"
 to german "Mische eine Ladung Reduktionsmittel";
 
 translate "For a batch of Reducing Agent, you need: "
-to german "Für eine Ladung Reduktionsmittel benötigst du: ";
+to german "Fï¿½r eine Ladung Reduktionsmittel benï¿½tigst du: ";
 
 translate "Mix Cheat"
 to german "Mischen Spickzettel";
@@ -111,14 +111,12 @@ to german "Wieviel K1*O1(pn)?";
 translate "You don't have enough Tincture "
 to german "Du hast nicht genug Tinktur ";
 
+// duplicate
 translate "Inject Reducing Agent from the bottom"
-to german "Injiziere Reduktionsmittel vom Grund";
+to german "Injiziere Reduktionsmittel von unten";
 
 translate "You don't have any reducing agent"
 to german "Du hast kein Reduktionsmittel";
-
-translate "Inject Reducing Agent from the bottom"
-to german "Füge Reduktionsmittel hinzu";
 
 translate "You don't have any reducing agent"
 to german "Du hast kein Reduktionsmittel";
@@ -139,7 +137,7 @@ translate "The precipitate is mottled in color, indicating impurities."
 to german "Die Ablagerung ist von fleckiger Farbe, Zeichen von Unreinheiten.";
 
 translate "Sprinkle Reducing Agent on the surface"
-to german "Verteile Reduktionsmittel auf der Oberfläche";
+to german "Verteile Reduktionsmittel auf der Oberflï¿½che";
 
 translate "Load the Alchemist's Bench with Petroleum"
 to german "Belade das Alchemisten-Labor mit Petroleum";
@@ -148,7 +146,7 @@ translate "Load how much petroleum? (Max N1)"
 to german "Wieviel Petroleum? (Max N1)";
 
 translate "Stir the solution"
-to german "Rühre die Lösung um";
+to german "Rï¿½hre die Lï¿½sung um";
 
 translate "Your Alchemist's Bench has no fuel."
 to german "Dein Alchemistenlabor hat keinen Brennstoff.";
@@ -160,7 +158,7 @@ translate "Alchemy Control Panels not initialized. Call a developer."
 to german "Das Alchemiekontroller ist nicht initialisiert. Rufe einen Entwickler.";
 
 translate "Injected property N1 in position N2 of panel N3"
-to german "Eingefügte Eigenschaft N1 in Position N2 auf dem Kontrollpanel N3";
+to german "Eingefï¿½gte Eigenschaft N1 in Position N2 auf dem Kontrollpanel N3";
 
 translate "Surgical Removal"
 to german "Abtragen";
@@ -194,19 +192,19 @@ translate "* : N1 Gravity Three : "
 to german "* : N1 Gravitation 3: ";
 
 translate "Inject Gravity 1 Discovery (Immediate)/N1 (K1)"
-to german "Füge Gravitationsentdeckung 1 ein (direkt)/N1 (K1)";
+to german "Fï¿½ge Gravitationsentdeckung 1 ein (direkt)/N1 (K1)";
 
 translate "Inject Gravity 2 Discovery (Immediate)/N1 (K1)"
-to german "Füge Gravitationsentdeckung 2 ein (direkt)/N1 (K1)";
+to german "Fï¿½ge Gravitationsentdeckung 2 ein (direkt)/N1 (K1)";
 
 translate "Inject Gravity 3 Discovery (Immediate)/N1 (K1)"
-to german "Füge Gravitationsentdeckung 3 ein (direkt)/N1 (K1)";
+to german "Fï¿½ge Gravitationsentdeckung 3 ein (direkt)/N1 (K1)";
 
 translate "Inject K1 about how many discoveries from now?"
-to german "K1 hinzufügen, wieviele Entdeckungen?";
+to german "K1 hinzufï¿½gen, wieviele Entdeckungen?";
 
 translate "Scry of N1 discovered property, N2"
-to german "Analyse von N1 entdeckten Möglichkeiten, N2";
+to german "Analyse von N1 entdeckten Mï¿½glichkeiten, N2";
 
 translate "Scry of N1 did not discover anything."
 to german "Analyse von N1 entdeckte nichts Neues.";
@@ -227,13 +225,13 @@ translate "Flush the Chamber"
 to german "Leere die Kammer";
 
 translate "Are you sure you want to flush the chamber, losing the contents?"
-to german "Bist du sicher, dass du die Kammer leeren und alle Inhalte verlieren möchtest?";
+to german "Bist du sicher, dass du die Kammer leeren und alle Inhalte verlieren mï¿½chtest?";
 
 translate "Chamber Contains N1 O1"
-to german "Die Kammer enthält N1 O1(N1?pa:sa)";
+to german "Die Kammer enthï¿½lt N1 O1(N1?pa:sa)";
 
 translate "Infusion Requires Tincture K1"
-to german "Befüllung benötigt Tinktur K1";
+to german "Befï¿½llung benï¿½tigt Tinktur K1";
  
 translate "Infuse the Chamber with K1"
 to german "Flute die Kammer mit K1";
@@ -242,43 +240,43 @@ translate "You don't have enough Tinkture K1"
 to german "Du hast nicht genug K1 Tinktur";
 
 translate "Meld Large Diamonds"
-to german "Verbinde Große Diamanten";
+to german "Verbinde Groï¿½e Diamanten";
 
 translate "Meld Large Quartz"
-to german "Verbinde Große Quarze";
+to german "Verbinde Groï¿½e Quarze";
 
 translate "Meld Large Rubies"
-to german "Verbinde Große Rubine";
+to german "Verbinde Groï¿½e Rubine";
 
 translate "Meld Large Topaz"
-to german "Verbinde Große Topase";
+to german "Verbinde Groï¿½e Topase";
 
 translate "Meld Large Emerald"
-to german "Verbinde Große Smaragde";
+to german "Verbinde Groï¿½e Smaragde";
 
 translate "Meld Large Sapphire"
-to german "Verbinde Große Saphire";
+to german "Verbinde Groï¿½e Saphire";
 
 translate "Meld"
 to german "Verbinden";
 
 translate "Large Diamonds"
-to german "Große Diamanten";
+to german "Groï¿½e Diamanten";
 
 translate "Large Quartz"
-to german "Große Quarze";
+to german "Groï¿½e Quarze";
 
 translate "Large Rubies"
-to german "Große Rubine";
+to german "Groï¿½e Rubine";
 
 translate "Large Topaz"
-to german "Große Topase";
+to german "Groï¿½e Topase";
 
 translate "Large Emerald"
-to german "Große Smaragde";
+to german "Groï¿½e Smaragde";
 
 translate "Large Sapphire"
-to german "Große Saphire";
+to german "Groï¿½e Saphire";
 
 translate "Transmute Ash"
 to german "Asche verwandeln";
@@ -299,4 +297,4 @@ translate "Limestone to Lime"
 to german "Kalkstein zu Kalk";
 
 translate "You Scry: The chamber must be infused with K1"
-to german "Du analysierst: die Kammer muss mit K1 gefüllt werden";
+to german "Du analysierst: die Kammer muss mit K1 gefï¿½llt werden";

@@ -14,20 +14,20 @@ swa "Spezielle Rosen"; sn "Spezielle Rosen"; pn "Spezielle Rosen";
 }
 translate Apple to german masculine
 {
-swa "Apfel"; sn "Apfel"; pn "Äpfel";
+swa "Apfel"; sn "Apfel"; pn "ï¿½pfel";
 }
 
 translate "See Inventory"
 to german "Zeige das Inventar";
 
 translate "Steal how many?"
-to german "Wieviel stehlen?";
+to german "Wie viel stehlen ?";
 
 translate "Max"
 to german "Max";
 
 translate "Complex Items"
-to german "Komplexe Gegenstände";
+to german "Komplexe Gegenstï¿½nde";
 
 translate "Searching..."
 to german "Suche...";
@@ -36,13 +36,10 @@ to german "Suche...";
 //to german 
 
 translate "No complex items."
-to german "Keine komplexen Gegenstände.";
+to german "Keine komplexen Gegenstï¿½nde.";
 
 translate "Reposition this O1"
-to german "Neuer Standort für O1(sn)";
-
-translate "Steal how many?"
-to german "Wieviel stehlen?";
+to german "Neuer Standort fï¿½r O1(sn)";
 
 translate "Follow U1"
 to german "Folge U1(name)";
@@ -51,13 +48,13 @@ translate "Stop following!"
 to german "Nicht mehr folgen!";
 
 translate "Assume ownership of this O1"
-to german "Übernehme Eigentum von: O1(sn)";
+to german "ï¿½bernehme Eigentum von: O1(sn)";
 
 translate "Allow Reposition"
 to german "Erlaube Neuausrichtung";
 
 translate "You can't move buildings that far."
-to german "Du kannst Gebäude nicht so weit bewegen.";
+to german "Du kannst Gebï¿½ude nicht so weit bewegen.";
 
 translate "Build a LagMonster"
 to german "Baue ein Lagmonster";
@@ -70,7 +67,7 @@ to german "Baue ein Lagmonster";
 //"\nRealtime Lag: ",Place.RTLag/100,".",ZeroPad2(Mod(Place.RTLag,100))));
 
 translate "Attach"
-to german "Anfügen";
+to german "Anfï¿½gen";
 
 translate "Nobody"
 to german "Niemand";
@@ -79,37 +76,37 @@ translate "Examine the tent for pages of the scientists' books"
 to german "Untersuche das Zelt nach Seiten des Wissenschaftlerbuches";
 
 translate "You find page N1 of Unusual Minerals, Volume 1, and copy the text to your notebook. (See Special menu)"
-to german "Du findest Seite N1 des Buches 'Ungewöhnliche Mineralien, Band 1 und kopierst den Text in Dein Notizbuch. (Prüfe Dein Spezial Menü)";
+to german "Du findest Seite N1 des Buches 'Ungewï¿½hnliche Mineralien, Band 1 und kopierst den Text in Dein Notizbuch. (Prï¿½fe Dein Spezial Menï¿½)";
 
 translate "You find page N1 of Unusual Minerals, Volume 2, and copy the text to your notebook. (See Special menu)"
-to german "Du findest Seite N1 des Buches 'Ungewöhnliche Mineralien, Band 2 und kopierst den Text in Dein Notizbuch. (Prüfe Dein Spezial Menü)";
+to german "Du findest Seite N1 des Buches 'Ungewï¿½hnliche Mineralien, Band 2 und kopierst den Text in Dein Notizbuch. (Prï¿½fe Dein Spezial Menï¿½)";
 
 translate "Give notes on Unusual Minerals, Volume 1"
-to german "Gebe Seiten der 'Ungewöhnliche Mineralien, Band 1";
+to german "Gebe Seiten der 'Ungewï¿½hnliche Mineralien, Band 1";
 
 translate "You share pages of Unusual Minerals, Volume 1 with U1"
-to german "Du teilst Seiten der 'Ungewöhnliche Mineralien, Band 1 mit U1(name)";
+to german "Du teilst Seiten der 'Ungewï¿½hnliche Mineralien, Band 1 mit U1(name)";
 
 translate "U1 shares pages of Unusual Minerals, Volume 1 with you."
-to german "U1(name) teilt Seiten der 'Ungewöhnliche Mineralien, Band 1 mit Dir.";
+to german "U1(name) teilt Seiten der 'Ungewï¿½hnliche Mineralien, Band 1 mit Dir.";
 
 translate "Give notes on Unusual Minerals, Volume 2"
-to german "Gebe Seiten der 'Ungewöhnliche Mineralien, Band 2";
+to german "Gebe Seiten der 'Ungewï¿½hnliche Mineralien, Band 2";
 
 translate "You share pages of Unusual Minerals, Volume 2 with U1"
-to german "Du teilst Seiten der 'Ungewöhnliche Mineralien, Band 2 mit U1(name)";
+to german "Du teilst Seiten der 'Ungewï¿½hnliche Mineralien, Band 2 mit U1(name)";
 
 translate "U1 shares pages of Unusual Minerals, Volume 2 with you."
-to german "U1(name) teilt Seiten der 'Ungewöhnliche Mineralien, Band 2 mit Dir.";
+to german "U1(name) teilt Seiten der 'Ungewï¿½hnliche Mineralien, Band 2 mit Dir.";
 
 translate "Examine notes on Unusual Minerals, Volume 1"
-to german "Untesuche Seiten der'Ungewöhnliche Mineralien, Band 1";
+to german "Untesuche Seiten der'Ungewï¿½hnliche Mineralien, Band 1";
 
 translate "Examine notes on Unusual Minerals, Volume 2"
-to german "Untesuche Seiten der'Ungewöhnliche Mineralien, Band 2";
+to german "Untesuche Seiten der'Ungewï¿½hnliche Mineralien, Band 2";
 
 translate "You assemble a full copy of the book! Check your inventory."
-to german "Du stellst eine komplette Kopie des Buches zusammen! Prüfe Dein Inventar.";
+to german "Du stellst eine komplette Kopie des Buches zusammen! Prï¿½fe Dein Inventar.";
 
 translate "You have the following pages of Volume 1:"
 to german "Du hast folgende Seiten des Bandes 1:";
@@ -118,7 +115,7 @@ translate "You have the following pages of Volume 2:"
 to german "Du hast folgende Seiten des Bandes 2:";
 
 translate "Evil"
-to german "Böse";
+to german "Bï¿½se";
 
 translate "Become the devil's spawn"
 to german "Mutiere zur teuflischen Ausgeburt";
@@ -130,4 +127,4 @@ translate "Ask for a care package"
 to german "Frage nach einer Hilfsspende";
 
 translate "Sorry, we can only give you this after you become a citizen. Come back once you've completed citizenship."
-to german "Entschuldige, aber wir können dies Dir erst dann geben, wenn Du ein Bürger geworden bist. Komme wieder, wenn Du Deine Bürgerschaft absolviert hast.";
+to german "Entschuldige, aber wir kï¿½nnen dies Dir erst dann geben, wenn Du ein Bï¿½rger geworden bist. Komme wieder, wenn Du Deine Bï¿½rgerschaft absolviert hast.";

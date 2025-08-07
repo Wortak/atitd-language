@@ -16,7 +16,7 @@ translate "Picked up O1:K1."
 to german "O1(sn):K1 aufgehoben.";
 
 translate "This is a O1 belonging to U1"
-to german "O1(^tsn) O1(sn) gehört U1(name)";
+to german "O1(^tsn) O1(sn) gehï¿½rt U1(name)";
 
 translate "[Extra]"
 to german "[Extra]";
@@ -37,17 +37,16 @@ translate "Debug"
 to german "Debug";
 
 translate "This is a O1: K1 belonging to U1"
-to german "O1(^tsn) O1(sn) : K1 gehört U1(name)";
+to german "O1(^tsn) O1(sn) : K1 gehï¿½rt U1(name)";
 
 translate "The O1 moved. Try again."
 to german "O1(^tsn) O1(sn) hat sich bewegt. Versuche es erneut.";
 
 translate "You no longer have ownership."
-to german "Du bist nicht länger der Eigentümer.";
+to german "Du bist nicht lï¿½nger der Eigentï¿½mer.";
 
 translate "Picked up N1: O1"
 to german "N1 O1(N1?pn:sn) aufgehoben";
-
 translate "Picked up N1 O1:"
 to german "N1 O1(N1?pn:sn) aufgehoben";
 
@@ -57,7 +56,7 @@ translate "Pick up the O1:K1"
 to german "Hebe O1(tsa) O1(sa):K1 auf";
 
 translate "The O1 is busy"
-to german "O1(^tsn) O1(sn) ist beschäftigt";
+to german "O1(^tsn) O1(sn) ist beschï¿½ftigt";
 
 //translate "Drop/",T,"/\k",ComplexName(unique)!="" ? ComplexName(unique) : "No Name","\k")
 //to german 
@@ -75,20 +74,17 @@ translate "Stash how many O1? (Max N1)"
 to german "Wieviel O1(pn) verstauen? (Max N1)";
 
 translate "You're carrying too much - drop some stuff before picking up any O1."
-to german "Du trägst zuviel - lege etwas ab, bevor Du O1(pn) aufnimmst.";
+to german "Du trï¿½gst zuviel - lege etwas ab, bevor Du O1(pn) aufnimmst.";
 
 translate "Picked up N1 O1:K1."
 to german "N1 O1(N1?pn:sn):K1 aufgehoben.";
 
 
 translate "Change Ownership to Named Player"
-to german "Übergebe das Eigentum an folgenden Spieler";
+to german "ï¿½ndere das Eigentum zu einem Spielernamen";
 
 translate "Transfer Ownership to..."
-to german "Übergebe Eigentum an...";
-
-translate "Pick up the O1"
-to german "Hebe O1(dsn) O1(sn) auf";
+to german "ï¿½bergebe Eigentum an...";
 
 translate "This pile has N1 O1:"
 to german "Dieser Stapel hat N1 O1(N1?pn:sn):";
@@ -103,4 +99,4 @@ translate "Complex Data error in secret entity compare. Report this to eGenesis.
 to german "Schwieriger Datenfehler beim Datenvergleich aufgetreten. Benachrichtige eGenesis.";
 
 translate "ComplexConsumeAny done without verifying count. You may have lost materials. Report this as a bug."
-to german "Schwieriger Fehler beim Vergleichen der Menge. Möglicherweise hast Du Material verloren. Meldes dies als Bug.";
+to german "Schwieriger Fehler beim Vergleichen der Menge. Mï¿½glicherweise hast Du Material verloren. Meldes dies als Bug.";

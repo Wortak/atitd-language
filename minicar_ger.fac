@@ -11,36 +11,36 @@ module minicar_ger;
 
 translate MinicarDesk to german neuter
 {
-swa "Grab der Unvergänglichen";
-  sn "Grab der Unvergänglichen"; sg "Grab der Unvergänglichen"; sd "Grab der Unvergänglichen"; sa "Grab der Unvergänglichen";
-  pn "Grab der Unvergänglichen"; pg "Grab der Unvergänglichen"; pd "Grab der Unvergänglichen"; pa "Grab der Unvergänglichen";
+swa "Grab der Unvergï¿½nglichen";
+  sn "Grab der Unvergï¿½nglichen"; sg "Grab der Unvergï¿½nglichen"; sd "Grab der Unvergï¿½nglichen"; sa "Grab der Unvergï¿½nglichen";
+  pn "Grab der Unvergï¿½nglichen"; pg "Grab der Unvergï¿½nglichen"; pd "Grab der Unvergï¿½nglichen"; pa "Grab der Unvergï¿½nglichen";
 }
 translate Tomb to german masculine
 {
-swa "Test des Grabs der Unvergänglichen";
-  sn "Test des Grabs der Unvergänglichen"; sg "Test des Grabs der Unvergänglichen"; sd "Test des Grabs der Unvergänglichen"; sa "Test des Grabs der Unvergänglichen";
-  pn "Test des Grabs der Unvergänglichen"; pg "Test des Grabs der Unvergänglichen"; pd "Test des Grabs der Unvergänglichen"; pa "Test des Grabs der Unvergänglichen";
+swa "Test des Grabs der Unvergï¿½nglichen";
+  sn "Test des Grabs der Unvergï¿½nglichen"; sg "Test des Grabs der Unvergï¿½nglichen"; sd "Test des Grabs der Unvergï¿½nglichen"; sa "Test des Grabs der Unvergï¿½nglichen";
+  pn "Test des Grabs der Unvergï¿½nglichen"; pg "Test des Grabs der Unvergï¿½nglichen"; pd "Test des Grabs der Unvergï¿½nglichen"; pa "Test des Grabs der Unvergï¿½nglichen";
 }
 
 translate "Test of the Tomb of the Immortal"
-to german "Test des Grabs der Unvergänglichen";
+to german "Test des Grabs der Unvergï¿½nglichen";
 
 translate "Principles of Tomb of the Immortal guides you through the creation of your Tomb, until you open it for judging."
-to german "Die Prinzipien des Grabs der Unvergänglichen führen Dich bis zum Bau deines Grabes, bis Du es zur Bewertung eröffnest.";
+to german "Die Prinzipien des Grabs der Unvergï¿½nglichen fï¿½hren Dich bis zum Bau deines Grabes, bis Du es zur Bewertung erï¿½ffnest.";
 
 translate "Design and Open a Tomb for Judging"
-to german "Baue ein Grab der Unvergänglichen";
+to german "Baue ein Grab der Unvergï¿½nglichen";
 translate "Open the Tomb for Judging"
-to german "Öffne ein Grab der Unvergänglichen";
+to german "ï¿½ffne ein Grab der Unvergï¿½nglichen";
 translate "Have Seven Judges solve and rate the puzzle"
-to german "Finde sieben Richter, die dein Puzzle lösen und bewerten";
+to german "Finde sieben Richter, die dein Puzzle lï¿½sen und bewerten";
 
 translate "Limestone for outer block shells"
-to german "Kalkstein für die äußeren Gehäuseblöcke";
+to german "Kalkstein fï¿½r die ï¿½uï¿½eren Gehï¿½useblï¿½cke";
 translate "Gold Foil (Gilding the Sarcophagi)"
 to german "Goldfolie (Vergolden der Sarkophage)";
 translate "Gold Wire for Framing the outside supports"
-to german "Golddraht für die Umrandung der äußeren Stützen";
+to german "Golddraht fï¿½r die Umrandung der ï¿½uï¿½eren Stï¿½tzen";
 //"Concrete for the Foundation Base",
 //"Light Steel Blue Raeli Tiles",
 translate "Gold Paint"
@@ -54,23 +54,23 @@ to german "Farbe: Himmelblau";
 translate "Midnight Blue Paint"
 to german "Farbe: Mitternachtsblau";
 translate "Boards for Coffin Collection"
-to german "Bretter für die Sargsammlung";
+to german "Bretter fï¿½r die Sargsammlung";
 translate "Nails for Coffins"
-to german "Nägel für die Särge";
+to german "Nï¿½gel fï¿½r die Sï¿½rge";
 translate "Papyrus Paper for retractable walls"
-to german "Papyruspapier für die beweglichen Wände";
+to german "Papyruspapier fï¿½r die beweglichen Wï¿½nde";
 
 translate "You learn to construct Tombs of the Immortal, puzzles designed to thwart future generation grave robbers from plundering our treasures and secrets. By honing our skills, by challenging each other to solve and fortify these puzzles, our legacy may live."
-to german "Du lernst ein Grab der Unvergänglichen zu bauen und Geheimgänge zu entwerfen, um die zukünftige Generation von Grabräubern vom Plündern unserer Schätze und Geheimnisse abzuhalten. Löse und verbessere diese Geheimgänge, möge unser Vermächtnis fortbestehen.";
+to german "Du lernst ein Grab der Unvergï¿½nglichen zu bauen und Geheimgï¿½nge zu entwerfen, um die zukï¿½nftige Generation von Grabrï¿½ubern vom Plï¿½ndern unserer Schï¿½tze und Geheimnisse abzuhalten. Lï¿½se und verbessere diese Geheimgï¿½nge, mï¿½ge unser Vermï¿½chtnis fortbestehen.";
 
 translate "You have completed Principles of the Immortal."
-to german "Du hast die Prinzipien der Unvergänglichen gemeistert.";
+to german "Du hast die Prinzipien der Unvergï¿½nglichen gemeistert.";
 
 translate "Tomb of the Immortal"
-to german "Grab der Unvergänglichen";
+to german "Grab der Unvergï¿½nglichen";
 
 translate "To build a Tomb of the Immortal you need:"
-to german "Um ein Grab der Unvergänglichen zu bauen benötigst du:";
+to german "Um ein Grab der Unvergï¿½nglichen zu bauen benï¿½tigst du:";
 
 translate "Designer: "
 to german "Designer: ";
@@ -82,28 +82,28 @@ translate "Done Playing, let someone else play"
 to german "Beende das Spiel, lasse andere spielen";
 
 translate "Play Tomb of the Immortal"
-to german "Spiele 'Grab der Unvergänglichen'";
+to german "Spiele 'Grab der Unvergï¿½nglichen'";
 
 translate "Start a new Design"
 to german "Starte ein neues Design";
 
 translate "You are not signed up for the Test of the Tomb of the Immortal"
-to german "Du bist nicht für den Test der 'Gräber der Unvergänglichen' registriert";
+to german "Du bist nicht fï¿½r den Test der 'Grï¿½ber der Unvergï¿½nglichen' registriert";
 
 translate "Are you sure you wish to erase the old Design?"
-to german "Bist du sicher, das du Dein altes Design löschen möchtest?";
+to german "Bist du sicher, das du Dein altes Design lï¿½schen mï¿½chtest?";
 
 translate "Old design preserved."
 to german "Altes Design gesichert";
 
 translate "How big should the grid be?"
-to german "Wie groß soll das Gitter sein?";
+to german "Wie groï¿½ soll das Gitter sein?";
 
 translate "Size specified is outside of bounds."
-to german "Spezifizierte Größe ist ausserhalb der Begrenzung.";
+to german "Spezifizierte Grï¿½ï¿½e ist ausserhalb der Begrenzung.";
 
 translate "Coffins and/or Sarcophagi are overlapping."
-to german "Sarg oder Sakrophage überschneiden sich";
+to german "Sarg oder Sakrophage ï¿½berschneiden sich";
 
 translate "There are no Sarcophagi."
 to german "Da sind keine Sakrophage.";
@@ -112,22 +112,22 @@ translate "Move this Direction"
 to german "Bewege in diese Richtung";
 
 translate "All Sarcophagi are gone: you win! You may now be able to judge this Tomb. Judging should be based on how 'pleasantly challenging' the puzzle is. You have three minutes to judge."
-to german "Alle Sakrophage sind weg: Du hast gewonnen! Du kannst nun dieses Grab bewerten. Die Bewertung sollte darauf basieren, wie schwer die Lösung des Rätsels für Dich war. Du hast 3 Minuten zum Bewerten.";
+to german "Alle Sakrophage sind weg: Du hast gewonnen! Du kannst nun dieses Grab bewerten. Die Bewertung sollte darauf basieren, wie schwer die Lï¿½sung des Rï¿½tsels fï¿½r Dich war. Du hast 3 Minuten zum Bewerten.";
 
 translate "Take over Design"
-to german "Übernehme das Design";
+to german "ï¿½bernehme das Design";
 
 translate "Are you sure you want to take over the design? This will clear any judging points."
-to german "Bist du sicher, dass du das Design übernehmen willst? Dies wird alle Bewertungen löschen.";
+to german "Bist du sicher, dass du das Design ï¿½bernehmen willst? Dies wird alle Bewertungen lï¿½schen.";
 
 translate "U1 has taken over your Tomb design."
-to german "U1(name) hat das Design deines Grabes übernommen.";
+to german "U1(name) hat das Design deines Grabes ï¿½bernommen.";
 
 translate "Activate Play Mode"
 to german "Aktiviere Spiel-Modus";
 
 translate " You cannot activate play mode until this problem is resolved."
-to german " Du kannst den Spiel-Modus nicht aktivieren ehe das Problem gelöst ist.";
+to german " Du kannst den Spiel-Modus nicht aktivieren ehe das Problem gelï¿½st ist.";
 
 translate "Play Mode Activated."
 to german "Spiel-Modus Aktiviert.";
@@ -136,28 +136,25 @@ translate "Reset to Design Mode"
 to german "Wechsel in den Designer-Modus";
 
 translate "N1 judges have already scored this Tomb. Going to design mode will wipe their scores. Proceed?"
-to german "N1 Richter haben das Grab schon bewertet. Das Wechseln in den Designer-Modus wird alle Punkte löschen. Ausführen?";
+to german "N1 Richter haben das Grab schon bewertet. Das Wechseln in den Designer-Modus wird alle Punkte lï¿½schen. Ausfï¿½hren?";
 
 translate "Toggle this Wall"
 to german "Schalte diese Wand um";
-
-translate "You are not signed up for the Test of the Tomb of the Immortal"
-to german "Du bist nicht für den Test des 'Grabs der Unvergänglichen' eingetragen";
 
 translate "Only 26 Coffins plus Sarcophagi allowed."
 to german "Es sind nur 26 Sarkophage erlaubt.";
 
 translate "Add a small Coffin"
-to german "Kleinen Sarg hinzufügen";
+to german "Kleinen Sarg hinzufï¿½gen";
 
 translate "Add a large Coffin"
-to german "Großen Sarg hinzufügen";
+to german "Groï¿½en Sarg hinzufï¿½gen";
 
 translate "Add a small Sarcophagus"
-to german "Kleinen Sakrophag hinzufügen";
+to german "Kleinen Sakrophag hinzufï¿½gen";
 
 translate "Add a large Sarcophagus"
-to german "Großen Sakrophag hinzufügen";
+to german "Groï¿½en Sakrophag hinzufï¿½gen";
 
 translate "There are no Sarcophagi. You cannot activate play mode until this problem is resolved"
 to german "Da sind keine Sakrophage. Du kannst den Spiel-Modus nicht eher aktivieren bis das Problem beseitigt wurde.";

@@ -13,8 +13,8 @@ module alchemuses_ger;
 translate OddPapyrusSeeds to german feminine
 {
 swa "seltsame Papyrussaat";
-sn "seltsame Papyrussaat"; sg "seltsamen Papyrussaat"; sd "seltsame Papyrussaat"; sa "merkwürdige Papyrussaat";
-pn "seltsame Papyrussaaten"; pg "seltsame Papyrussaaten"; pd "seltsamen Papyrussaaten"; pa "merkwürdige Papyrussaaten";
+sn "seltsame Papyrussaat"; sg "seltsamen Papyrussaat"; sd "seltsame Papyrussaat"; sa "merkwï¿½rdige Papyrussaat";
+pn "seltsame Papyrussaaten"; pg "seltsame Papyrussaaten"; pd "seltsamen Papyrussaaten"; pa "merkwï¿½rdige Papyrussaaten";
 }
 
 translate StrangePapyrusSeeds to german feminine
@@ -48,7 +48,7 @@ translate "Use Tincture"
 to german "Benutze Tinktur";
 
 translate "There is no known use for Tincture K1. If you believe you have a novel invention, you should first scry the tincture before using it."
-to german "Es gibt keine bekannte Anwendung für die Tinktur K1. Wenn du glaubst, eine Neuentdeckung gemacht zu haben, solltest du erst die Tinktur überprüfen, bevor du sie anwendest.";
+to german "Es gibt keine bekannte Anwendung fï¿½r die Tinktur K1. Wenn du glaubst, eine Neuentdeckung gemacht zu haben, solltest du erst die Tinktur ï¿½berprï¿½fen, bevor du sie anwendest.";
 
 translate "You don't have N1 K1."
 to german "Dir fehlen N1 K1.";
@@ -63,13 +63,13 @@ translate "Transmute Metal: Gold to Lead (1)"
 to german "Verwandle Gold zu Blei (1)";
 
 translate "Transmute Glowers: Yellow to Green (90)"
-to german "Verwandle Gelb zu Grün (90)";
+to german "Verwandle Gelb zu Grï¿½n (90)";
 
 translate "Transmute Glowers: Green to Yellow (100)"
-to german "Verwandle Grün zu Gelb (100)";
+to german "Verwandle Grï¿½n zu Gelb (100)";
 
 translate "Transmute Glowers: Green to Red (60)"
-to german "Verwandle Grün zu Rot (60)";
+to german "Verwandle Grï¿½n zu Rot (60)";
 
 translate "Transmute Glowers: Red to Blue (40)"
 to german "Verwandle Rot zu Blau (40)";
@@ -78,22 +78,22 @@ translate "Transmute Glowers: Red to Orange (40)"
 to german "Verwandle Rot zu Orange (40)";
 
 translate "Enrich Flower Fertilizer (100)"
-to german "Blumendünger anreichern (100)";
+to german "Blumendï¿½nger anreichern (100)";
 
 translate "Enrich Flower Fertilizer (300)"
-to german "Blumendünger anreichern (300)";
+to german "Blumendï¿½nger anreichern (300)";
 
 translate "Enrich Flower Fertilizer (500)"
-to german "Blumendünger anreichern (500)";
+to german "Blumendï¿½nger anreichern (500)";
 
 translate "Deep Enrich Flower Fertilizer (100)"
-to german "Blumendünger anreichern - hochgezüchtet (100)";
+to german "Blumendï¿½nger anreichern - hochgezï¿½chtet (100)";
 
 translate "Deep Enrich Flower Fertilizer (300)"
-to german "Blumendünger anreichern - hochgezüchtet (300)";
+to german "Blumendï¿½nger anreichern - hochgezï¿½chtet (300)";
 
 translate "Deep Enrich Flower Fertilizer (500)"
-to german "Blumendünger anreichern - hochgezüchtet (500)";
+to german "Blumendï¿½nger anreichern - hochgezï¿½chtet (500)";
 
 translate "Transmute Ash to Potash (1)"
 to german "Verwandle Asche zu Pottasche (1)";
@@ -117,37 +117,37 @@ translate "Wierd Papyrus Seeds"
 to german "Bizarre Papyrussaaten";
 
 translate "Sapphire Fracture"
-to german "Saphirbruchstück";
+to german "Saphirbruchstï¿½ck";
 
 translate "Sapphire Glue"
 to german "Saphirkleber";
 
 translate "Quartz Fracture"
-to german "Quarzbruchstück";
+to german "Quarzbruchstï¿½ck";
 
 translate "Quartz Glue"
 to german "Quarzkleber";
 
 translate "Diamond Fracture"
-to german "Diamantbruchstück";
+to german "Diamantbruchstï¿½ck";
 
 translate "Diamond Glue"
 to german "Diamantkleber";
 
 translate "Ruby Fracture"
-to german "Rubinbruchstück";
+to german "Rubinbruchstï¿½ck";
 
 translate "Ruby Glue"
 to german "Rubinkleber";
 
 translate "Topaz Fracture"
-to german "Topazbruchstück";
+to german "Topazbruchstï¿½ck";
 
 translate "Topaz Glue"
 to german "Topazkleber";
 
 translate "Emerald Fracture"
-to german "Smaragdbruchstück";
+to german "Smaragdbruchstï¿½ck";
 
 translate "Emerald Glue"
 to german "Smaragdkleber";
@@ -195,25 +195,22 @@ translate "You don't have N1 vials of Tincture O1"
 to german "Du hast keine N1 Phiolen der Tinktur O1(sn).";
 
 translate "Fracture Gems/Tincture O1: One O2 into five O3"
-to german "Zerteile Edelsteine/Tinktur O1(sn): Ein O2(sn) in fünf O3(pn) ";
+to german "Zerteile Edelsteine/Tinktur O1(sn): Ein O2(sn) in fï¿½nf O3(pn) ";
 
 translate "Fuse Gems/Tincture O1: Nine O2 into one O3"
 to german "Verschmelze Edelsteine/Tinktur O1(sn) : Neun O2(pn) zu einem O3(sn) ";
 
 translate "This tincture required a technology that you do not have."
-to german "Diese Tinktur benötigt eine Technologie, die du nicht besitzt.";
+to german "Diese Tinktur benï¿½tigt eine Technologie, die du nicht besitzt.";
 
 translate "This tincture should be used at a Gem Cutting Table."
 to german "Diese Tinktur sollte in einer Edelsteinschleiferei verwendet werden.";
 
-translate "This must be used in a Detonation Chamber, the technology for which which can be researched at all Universities of The Human Body."
-to german "Dies muß in einem Detonationraum verwendet werden, eine Technologie, die an allen Universitäten des menschlichen Körpers erforscht werden kann.";
-
 translate "This must be used in a Detonation Chamber, the technology for which can be researched at all Universities of The Human Body."
-to german "Dies muß in einem Detonationraum verwendet werden, eine Technologie, die an allen Universitäten des menschlichen Körpers erforscht werden kann.";
+to german "Dies muï¿½ in einem Detonationraum verwendet werden, eine Technologie, die an allen Universitï¿½ten des menschlichen Kï¿½rpers erforscht werden kann.";
 
 translate "This must be dribbled into a kettle before starting a recipe."
-to german "Dies muß in einen Kessel getröpfelt werden, bevor man ein Rezept beginnt.";
+to german "Dies muï¿½ in einen Kessel getrï¿½pfelt werden, bevor man ein Rezept beginnt.";
 
 translate "Titrate Tincture/"
 to german "Konzentriere die Tinktur/";

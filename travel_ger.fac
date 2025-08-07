@@ -10,35 +10,53 @@ module travel_ger;
 
 translate ScrollOfWings to german feminine
 {
-swa "Flügelrolle";
-sn "Flügelrolle"; sg "Flügelrolle"; sd "Flügelrolle"; sa "Flügelrolle";
-pn "Flügelrollen"; pg "Flügelrollen"; pd "Flügelrollen"; pa "Flügelrollen";
+swa "Flï¿½gelrolle";
+	sn "Flï¿½gelrolle"; sg "Flï¿½gelrolle"; sd "Flï¿½gelrolle"; sa "Flï¿½gelrolle";
+	pn "Flï¿½gelrollen"; pg "Flï¿½gelrollen"; pd "Flï¿½gelrollen"; pa "Flï¿½gelrollen";
 }
-
-
 translate WingsOfHorus to german feminine
 {
-swa "Flügel des Horus (leer)";
-sn "Flügel des Horus (leer)"; sg "Flügels des Horus (leer)"; sd "Flügel des Horus (leer)"; sa "Flügel des Horus (leer)";
-pn "Flügel des Horus (leer)"; pg "Flügel des Horus (leer)"; pd "Flügeln des Horus (leer)"; pa "Flügel des Horus (leer)";
+swa "Flï¿½gel des Horus (leer)";
+	sn "Flï¿½gel des Horus (leer)"; sg "Flï¿½gels des Horus (leer)"; sd "Flï¿½gel des Horus (leer)"; sa "Flï¿½gel des Horus (leer)";
+	pn "Flï¿½gel des Horus (leer)"; pg "Flï¿½gel des Horus (leer)"; pd "Flï¿½geln des Horus (leer)"; pa "Flï¿½gel des Horus (leer)";
 }
-
 translate WingsOfHorusT to german feminine
 {
-swa "Flügel des Horus";
-sn "Flügel des Horus"; sg "Flügels des Horus"; sd "Flügel des Horus"; sa "Flügel des Horus";
-pn "Flügel des Horus"; pg "Flügel des Horus"; pd "Flügeln des Horus"; pa "Flügel des Horus";
+swa "Flï¿½gel des Horus";
+	sn "Flï¿½gel des Horus"; sg "Flï¿½gels des Horus"; sd "Flï¿½gel des Horus"; sa "Flï¿½gel des Horus";
+	pn "Flï¿½gel des Horus"; pg "Flï¿½gel des Horus"; pd "Flï¿½geln des Horus"; pa "Flï¿½gel des Horus";
 }
-
 translate FlightOfFancy to german feminine
 {
 swa "Fantasiereise";
-sn "Fantasiereise"; sg "Fantasiereise"; sd "Fantasiereise"; sa "Fantasiereise";
-pn "Fantasiereisen"; pg "Fantasiereisen"; pd "Fantasiereisen"; pa "Fantasiereisen";
+	sn "Fantasiereise"; sg "Fantasiereise"; sd "Fantasiereise"; sa "Fantasiereise";
+	pn "Fantasiereisen"; pg "Fantasiereisen"; pd "Fantasiereisen"; pa "Fantasiereisen";
+}
+translate ExpeditionSite to german masculine
+{
+swa "Expeditionspunkt";
+	sn "Expeditionspunkt"; sg "Expeditionspunkts";  sd "Expeditionspunkt"; sa "Expeditionspunkt";
+	pn "Expeditionspunkte"; pg "Expeditionspunkte"; pd "Expeditionspunkten"; pa "Expeditionspunkte";
 }
 
+translate ExplorationTravel to german feminine
+{
+swa "Expeditionsreise";
+	sn "Expeditionsreise"; sg "Expeditionsreise"; sd "Expeditionsreise";sa "Expeditionsreise";
+	pn "Expeditionsreisen"; pg "Expeditionsreisen"; pd "Expeditionsreisen"; pa "Expeditionsreisen";
+}
+translate Homemarker to german masculine
+{
+swa "Heimatpunkt";
+	sn "Heimatpunkt"; pn "Heimatpunkt";
+}
+translate FindingStone to german masculine
+{
+swa "Findelstein";
+	sn "Findelstein"; pn "Findelstein";
+}
 translate "Increase my Waypoints with a Scroll of Wings"
-	to german "Nutze eine Flügelrolle und erweitere meine Wegpunkte";
+	to german "Nutze eine Flï¿½gelrolle und erweitere meine Wegpunkte";
 
 translate "Waypoint Control"
 to german "Wegpunkte";
@@ -47,7 +65,7 @@ translate "Add a Waypoint"
 to german "Wegpunkt setzen";
 
 translate "You don't have any waypoints free."
-to german "Du hast keine Wegpunkte übrig.";
+to german "Du hast keine Wegpunkte ï¿½brig.";
 
 translate "Name of new Waypoint:"
 to german "Name des neuen Wegpunktes:";
@@ -59,7 +77,7 @@ translate "Remove: N1"
 	to german "Entferne: N1";
 
 translate "Are you sure you want to remove the waypoint N1?"
-	to german "Willst du den Wegpunkt N1 wirklich löschen?";
+	to german "Willst du den Wegpunkt N1 wirklich lï¿½schen?";
 
 translate "N1: K1 - K2"
 	to german "N1: K1 - K2";
@@ -71,13 +89,13 @@ translate "Travel: N1"
 	to german "Reise nach: N1";
 
 translate "This trip requires K1 of waypoint time."
-	to german "Diese Reise benötigt K1 deiner Wegpunktzeit.";
+	to german "Diese Reise benï¿½tigt K1 Reisezeit.";
 
 translate "You can't travel from here to there."
 	to german "Du kannst nicht von hier nach dort reisen.";
 
 translate "Use K1 of waypoint time to travel to K2?"
-	to german "Nutze K1 der Wegpunktzeit, um nach K2 zu reisen?";
+	to german "Nutze K1 der Reisezeit, um nach K2 zu reisen?";
 
 translate "Travel is free. Proceed?"
 	to german "Die Reise ist kostenfrei. Willst du?";
@@ -89,46 +107,37 @@ translate "Waypoints:"
 	to german "Wegpunkte:";
 
 translate "Are you sure you want to delete K1?"
-	to german "Willst du K1 wirklich löschen?";
+	to german "Willst du K1 wirklich lï¿½schen?";
 
 translate "Are you sure you want to delete ALL of your waypoints?"
-	to german "Willst du wirklich alle deine Wegpunkte löschen?";
+	to german "Willst du wirklich alle deine Wegpunkte lï¿½schen?";
 
 translate "You do not have a waypoint called "
 	to german "Du hast keinen Wegpunkt mit dem Namen ";
-
-translate "This trip requires K1 of waypoint time."
-	to german "Diese Reise benötigt K1 Reisezeit.";
-
-translate "You can't travel from here to there."
-	to german "Du kannst nicht von hier nach dort reisen.";
-
-translate "Use K1 of waypoint time to travel to K2?"
-	to german "Willst du K1 deiner Reisezeit verwenden, um nach K2 zu reisen?";
 
 translate "You can't waypoint-travel if you can't walk!"
 	to german "Du kannst nicht reisen, wenn du nicht laufen kannst!";
 
 translate "You can't waypoint travel while doing Principles of the Human Body."
-	to german "Du kannst nicht reisen, während du die Prinzipien des Menschlichen Körpers machst.";
+	to german "Du kannst nicht reisen, wï¿½hrend du die Prinzipien des Menschlichen Kï¿½rpers machst.";
 
 translate "Checking your ritual..."
-	to german "Ritual prüfen...";
+	to german "Ritual prï¿½fen...";
 
 translate "You can't waypoint-travel during a ritual."
-	to german "Du kannst während eines Rituals nicht reise.";
+	to german "Du kannst wï¿½hrend eines Rituals keine Wegpunktreise unternehmen.";
 
 translate "You can't waypoint from a spirit arena.  Return home using a Shrine of Conflict."
-	to german "Du kannst aus einer Spirit Arena heraus nicht reisen. Nutze einen Konfliktschrein für die Heimreise.";
+	to german "Du kannst aus einer Spirit Arena heraus nicht reisen. Nutze einen Konfliktschrein fï¿½r die Heimreise.";
 
 translate "Waypoints disabled when in GM jail"
-	to german "Du willst aus dem Gefängnis heraus eine Reise unternehmen? Träume weiter...";
+	to german "Du willst aus dem Gefï¿½ngnis heraus eine Reise unternehmen? Trï¿½ume weiter...";
 
 translate "Offline Chores"
-	to german "Offline-Aufgaben";
+	to german "Offline-Arbeiten";
 
 translate "Offline Options"
-	to german "Offline-Aufgaben";
+	to german "Offline-Optionen";
 
 translate "Accumulate travel time, as if you were running"
 	to german "Sammle Reisezeit";
@@ -140,7 +149,7 @@ translate "Grow onions"
 	to german "Zwiebeln ernten";
 
 translate "Pick grass - pick N1 more manually."
-	to german "Gras sammeln - pflücke weitere N1 mit der Hand";
+	to german "Gras sammeln - pflï¿½cke weitere N1 mit der Hand";
 
 translate "Pick grass"
 	to german "Gras sammeln";
@@ -215,7 +224,7 @@ translate "You gan't get there!"
 	to german "Dorthin kannst du nicht gelangen!";
 
 translate "Return from the Event"
-	to german "Kehre von einer Veranstaltung zurück";
+	to german "Kehre von einer Veranstaltung zurï¿½ck";
 
 translate "Set the Event Waypoint"
 	to german "Setze einen Veranstaltungwegpunkt";
@@ -224,34 +233,34 @@ translate "Event Name:"
 	to german "Event Name: ";
 
 translate "For how many minutes?"
-	to german "Für wieviele Minuten?";
+	to german "Fï¿½r wieviele Minuten?";
 
 translate "Travel on Wings of Horus"
-	to german "Reise auf den Flügeln des Horus";
+	to german "Reise auf den Flï¿½geln des Horus";
 
 translate "Traveling on Wings of Horus..."
-	to german "Reise auf den Flügeln des Horus...";
+	to german "Reise auf den Flï¿½geln des Horus...";
 
 translate "You can not focus your mind."
 	to german "Du kannst dich nicht konzentrieren.";
 
 translate "Travel to N1 N2 N3 on Wings of Horus?"
-	to german "Reise mit den Flügeln des Horus nach N1 N2 N3?";
+	to german "Reise mit den Flï¿½geln des Horus nach N1 N2 N3?";
 
 translate "Tune Wings of Horus"
-	to german "Justiere die Flügel des Horus";
+	to german "Justiere die Flï¿½gel des Horus";
 
 translate "Tune how many Wings of Horus?"
-	to german "Wieviele Flügel des Horus justieren?";
+	to german "Wieviele Flï¿½gel des Horus justieren?";
 
 translate "Name these Wings of Horus:"
-	to german "Benenne diese Flügel des Horus:";
+	to german "Benenne diese Flï¿½gel des Horus:";
 
 translate "When you use an identical name to that of a Wings of Horus in inventory, you must be standing near those Wings' location: In this case N1 N2 N3."
-	to german "Wenn Du hierfür den gleichen Namen eines Flügels des Horus in deinem Inventar benutzen möchste, musst Du in der Nähe seines Flügelplatzes stehen. In diesem Fall N1 N2 N3.";
+	to german "Wenn Du hierfï¿½r den gleichen Namen eines Flï¿½gels des Horus in deinem Inventar benutzen mï¿½chste, musst Du in der Nï¿½he seines Flï¿½gelplatzes stehen. In diesem Fall N1 N2 N3.";
 
 //translate "Towns are too busy to waypoint travel in. Be sure you are at least 250 coordinates from a Chariot Stop."
-//to german "Städte sind zu überfüllt, um mit einem Wegpunkt dorthin zu reisen. Stelle sicher, dass du 250 Koordinaten von einer Streitwagen-Haltebucht entfernt bist.";
+//to german "Stï¿½dte sind zu ï¿½berfï¿½llt, um mit einem Wegpunkt dorthin zu reisen. Stelle sicher, dass du 250 Koordinaten von einer Streitwagen-Haltebucht entfernt bist.";
 
 
 translate "Throw a Flight of Fancy into the air"
@@ -264,28 +273,10 @@ translate "Travel to Builder Island"
 	to german "Reise zur Entwicklerinsel";
 
 translate "Travel back to "
-	to german "Reise zurück nach ";
+	to german "Reise zurï¿½ck nach ";
 
 translate "Travel to Pandora Island"
 	to german "Reise zur Insel Pandora";
-
-
-translate "N1: K1 - K2"
-to german "N1: K1 - K2";
-
-translate ExpeditionSite to german masculine
-{
-swa "Expeditionspunkt";
-sn "Expeditionspunkt"; sg "Expeditionspunkts";  sd "Expeditionspunkt"; sa "Expeditionspunkt";
-pn "Expeditionspunkte"; pg "Expeditionspunkte"; pd "Expeditionspunkten"; pa "Expeditionspunkte";
-  }
-  
-translate ExplorationTravel to german feminine
-{
-swa "Expeditionsreise";
-sn "Expeditionsreise"; sg "Expeditionsreise"; sd "Expeditionsreise";sa "Expeditionsreise";
-pn "Expeditionsreisen"; pg "Expeditionsreisen"; pd "Expeditionsreisen"; pa "Expeditionsreisen";
-  }
   
 translate "Make this my Expedition Site"
 to german "Bestimme dies zu meinem Expeditionspunkt";
@@ -294,19 +285,19 @@ translate "Make this your Expedition Site? It will become active in about 2 hour
 to german "Dies zu Deinem Expeditionspunkt bestimmen? Er wird in etwa 2 Stunden aktiviert sein";
 
 translate "Make this your Expedition Site? Since this is the first time you are setting a Expedition Site, it will become active immediately. In the future there will be a 2 hour delay."
-to german "Dies zu Deinem Expeditionspunkt bestimmen? Da dies das erste Mal ist, an dem Du einen Expeditionspunkt festlegst, wird er sofort zur Verfügung stehen. In der Zukunft wird dies 2 Stunden Bearbeitungszeit benötigen";
+to german "Dies zu Deinem Expeditionspunkt bestimmen? Da dies das erste Mal ist, an dem Du einen Expeditionspunkt festlegst, wird er sofort zur Verfï¿½gung stehen. In der Zukunft wird dies 2 Stunden Bearbeitungszeit benï¿½tigen";
 
 translate "Travel back to my home"
-to german "Reise zurück nach Hause";
+to german "Reise zurï¿½ck nach Hause";
 
 translate "Travel not permitted from GM Jail.  Please contact a GM."
-to german "Im GM Gefängnis ist das Reisen verboten. Rufe bitte einen GM.";
+to german "Im GM Gefï¿½ngnis ist das Reisen verboten. Rufe bitte einen GM.";
 
 translate "You must first set both your designated Expedition Site."
-to german "Du mußt zuerst beide Expeditionspunkte festlegen.";
+to german "Du muï¿½t zuerst beide Expeditionspunkte festlegen.";
 
 translate "You may only travel from your designated Expedition Site."
-to german "Du darfst nur von Deinem ausgewählten Expeditionspunkt aus reisen.";
+to german "Du darfst nur von Deinem ausgewï¿½hlten Expeditionspunkt aus reisen.";
 
 translate "You can't travel home for another K1."
 to german "Du kannst erst nach weiteren K1 nach Hause reisen.";
@@ -318,19 +309,19 @@ translate "Your home is far, far away."
 to german "Deine Heimat ist weit, weit entfernt.";
 
 translate "Check for travel time"
-to german "Prüfe meine Reisezeit";
+to german "Prï¿½fe meine Reisezeit";
 
 translate "You don't have enough travel time accumulated. This trip requires K1."
-to german "Du hast nicht genügend Reisezeit angesammelt. Diese Reise benötigt K1.";
+to german "Du hast nicht genï¿½gend Reisezeit angesammelt. Diese Reise benï¿½tigt K1.";
 
 translate "Use N1  hours N2 minutes  N3 seconds of travel back home?"
 to german "Verwende N1 Stunden N2 Minuten N3 Sekunden, um nach Hause zu reisen?";
 
 translate "Check my available travel time"
-to german "Prüfe, wieviel Reisezeit noch verfügbar ist";
+to german "Prï¿½fe, wieviel Reisezeit noch verfï¿½gbar ist";
 
 translate "You have K1 of travel time left."
-to german "Du hast K1 Reisezeit übrig.";
+to german "Du hast K1 Reisezeit ï¿½brig.";
 
 translate "Visit my Expedition Site"
 to german "Reise zu meinem Expeditionspunkt";
@@ -350,11 +341,8 @@ to german "-";
 translate "*"
 to german "*";
 
-translate "Visit my Expedition Site"
-to german "Reise zu meinem Expeditionspunkt";
-
 translate "You must first set both your Home Location and designated Expedition Site."
-to german "Du mußt zuerst Deinen Heimatpunkt und Deinen Expeditionspunkt festlegen.";
+to german "Du muï¿½t zuerst Deinen Heimatpunkt und Deinen Expeditionspunkt festlegen.";
 
 translate "You can't do this for another K1."
 to german "Du kannst dies weiter K1 nicht tun.";
@@ -366,34 +354,19 @@ translate "You don't seem to remember the spot!"
 to german "Du scheinst Dich nicht an diesen Punkt zu erinnern!";
 
 translate "You have no available travel time."
-to german "Du hast keine Reisezeit zur Verfügung.";
+to german "Du hast keine Reisezeit zur Verfï¿½gung.";
 
 translate "This is already your Expedition Site."
 to german "Dies ist bereits Dein Expeditionspunkt.";
 
 translate "You can't travel from jail!"
-to german "Du kannst aus dem Gefängnis heraus nicht reisen!";
+to german "Du kannst aus dem Gefï¿½ngnis heraus nicht reisen!";
 
 translate "You can't waypoint travel while doing the Initiation into the Discipline of the Human Body."
-to german "Du kannst keine Wegpunktreisen unternehmen, wärhrend Du den Einführungstest in die Disziplin des Menschlichen Körpers machst.";
-
-translate "You can't waypoint-travel during a ritual."
-to german "Du kannst während eines Rituals keine Wegpunktreisen unternehmen.";
+to german "Du kannst keine Wegpunktreisen unternehmen, wï¿½rhrend Du den Einfï¿½hrungstest in die Disziplin des Menschlichen Kï¿½rpers machst.";
 
 translate "Calculating time..."
 to german "Berechne die Zeit...";
-
-
-translate Homemarker to german masculine
-{
-swa "Heimatpunkt";
-sn "Heimatpunkt"; pn "Heimatpunkt";
-}
-translate FindingStone to german masculine
-{
-swa "Findelstein";
-sn "Findelstein"; pn "Findelstein";
-}
 
 translate "This marks the home location of U1"
 to german "Dies legt den Heimatort von U1(name) fest";
@@ -402,28 +375,28 @@ translate "Set my home location"
 to german "Setze meinen Heimatort";
 
 translate "Abandon all hope.  This is not home.  Contact a GM"
-to german "Laß' alle Hoffnung fahren. Dies ist nicht die Heimat. Rufe einen GM";
+to german "Laï¿½' alle Hoffnung fahren. Dies ist nicht die Heimat. Rufe einen GM";
 
 translate "Are you sure you want to set your current spot as your home location?"
 to german "Bist du sicher, dass du deinen jetzigen Aufenthaltsort als Heimatort setzen willst?";
 
 translate "You change your home location. You will be able to travel from your designated Expedition Site to here, starting in about two hours."
-to german "Du hast deinen Heimatort gewechselt. Du kannst in ungefähr 2 Stunden von deinem Expeditionspunkt aus hierher reisen.";
+to german "Du hast deinen Heimatort gewechselt. Du kannst in ungefï¿½hr 2 Stunden von deinem Expeditionspunkt aus hierher reisen.";
 
 translate "You change your home location. Normally it would take two hours for Exploration Travel to become active, but, because this is the first time you have set a home location after learning Exploration Travel, it becomes active immediately."
-to german "Du hast deinen Heimatort gewechselt. Normalerweise braucht es ungefähr 2 Stunden, bis die Möglichkeit einer Expeditionsreise aktiviert sein wird. Da du aber die Expeditionsreise erlernt hast und du das erste Mal deinen Heimatpunkt gesetzt hast, kannst du ab sofort reisen.";
+to german "Du hast deinen Heimatort gewechselt. Normalerweise braucht es ungefï¿½hr 2 Stunden, bis die Mï¿½glichkeit einer Expeditionsreise aktiviert sein wird. Da du aber die Expeditionsreise erlernt hast und du das erste Mal deinen Heimatpunkt gesetzt hast, kannst du ab sofort reisen.";
 
 translate "Pray for guidance home"
 to german "Bete um Hilfe beim Heimweg";
 
 translate "Abandon all hope.  Contact a GM"
-to german "Laß' alle Hoffnung fahren.  Rufe einen GM";
+to german "Laï¿½' alle Hoffnung fahren.  Rufe einen GM";
 
 translate "You have not set your home location."
 to german "Du hast keinen Heimatpunkt gesetzt.";
 
 translate "Pray for guidance towards: N1 N2"
-to german "Bete für Hilfe beim Heimweg  nach: N1 N2";
+to german "Bete fï¿½r Hilfe beim Heimweg  nach: N1 N2";
 
 translate "You seem to be lost."
 to german "Du scheinst dich verirrt zu haben.";

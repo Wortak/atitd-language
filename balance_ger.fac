@@ -10,95 +10,92 @@ module Balance_ger;
 
 translate OfferingVault to german neuter 
 {
-swa "Handelsgewölbe"; 
-  sn "Handelsgewölbe"; sg "Handelsgewölbes"; sd "Handelsgewölbe"; sa "Handelsgewölbe";
-  pn "Handelsgewölbe"; pg "Handelsgewölbe"; pd "Handelsgewölben"; pa "Handelsgewölbe";
+swa "Handelsgewï¿½lbe"; 
+  sn "Handelsgewï¿½lbe"; sg "Handelsgewï¿½lbes"; sd "Handelsgewï¿½lbe"; sa "Handelsgewï¿½lbe";
+  pn "Handelsgewï¿½lbe"; pg "Handelsgewï¿½lbe"; pd "Handelsgewï¿½lben"; pa "Handelsgewï¿½lbe";
 }
 
-translate HonorVault to german masculine //chest
+translate HonorVault to german masculine //chest - maybe "Ehrentreseor"? - its now victomstock
 {
 swa "Opferstock"; 
   sn "Opferstock"; sg "Opferstocks"; sd "Opferstock"; sa "Opferstock";
-  pn "Opferstöcke"; pg "Opferstöcke"; pd "Opferstöcken"; pa "Opferstöcke";
+  pn "Opferstï¿½cke"; pg "Opferstï¿½cke"; pd "Opferstï¿½cken"; pa "Opferstï¿½cke";
 }
 
 translate "Offering Vault Construction"
-  to german "Baustelle Handelsgewölbe";
+  to german "Baustelle Handelsgewï¿½lbe";
 
 translate "Allows construction of Offering Vaults by those that are pursuing the Balance of Goods."
-  to german "Ermöglicht den Bau von Handelsgewölben für jene, die das Warengleichgewicht wahren wollen";
+  to german "Ermï¿½glicht den Bau von Handelsgewï¿½lben fï¿½r jene, die das Warengleichgewicht wahren wollen";
 
 translate "Open the Vault (begin filling it)"
-  to german "Schließe das Gewölbe auf (beginne es zu füllen)";
+  to german "Schlieï¿½e das Gewï¿½lbe auf (beginne es zu fï¿½llen)";
 
 translate "Balance of Goods"
-  to german "Warengleichgewicht";
+  to german "Warenbilanz";
 
 translate "You have completed Principles of the Balance of Goods."
   to german "Du hast die Prinzipien des Warengleichgewichts gemeistert.";
 
-translate "Balance of Goods"
-  to german "Test des Warengleichgewichts";
-
 translate "Build an Offering Vault and fill it with those goods that few others have offered."
-  to german "Baue ein Handelsgewölbe und fülle es mit jenen Waren, die bislang nur wenige andere angeboten haben.";
+  to german "Baue ein Handelsgewï¿½lbe und fï¿½lle es mit jenen Waren, die bislang nur wenige andere angeboten haben.";
 
 translate "Build an Offering Vault"
-  to german "Baue ein Handelsgewölbe";
+  to german "Baue ein Handelsgewï¿½lbe";
 
 translate "Place an item in the Vault"
-  to german "Bestücke es mit einer Ware";
+  to german "Bestï¿½cke es mit einer Ware";
 
 translate "Place a second item in the Vault"
-  to german "Bestücke es mit einer zweiten Ware";
+  to german "Bestï¿½cke es mit einer zweiten Ware";
 
 translate "Check your Vault's contents"
-  to german "Prüfe den Lagerbestand deines Gewölbes";
+  to german "Prï¿½fe den Lagerbestand deines Gewï¿½lbes";
 
 translate "Score at least one point"
   to german "Sammle mind. 1 Punkt an";
 
 translate "Check Score Details"
-  to german "Prüfe Auswertungsdetails";
+  to german "Prï¿½fe Auswertungsdetails";
 
 translate "You start the Balance of Goods. Build an Offering Vault and fill it with rare goods. The fewer other people use the same "
-  to german "Du hast den Test des Warengleichgewichts begonnen. Baue ein Handelsgewölbe und fülle es mit seltenen Waren. Je weniger anderer";
+  to german "Du hast den Test des Warengleichgewichts begonnen. Baue ein Handelsgewï¿½lbe und fï¿½lle es mit seltenen Waren. Je weniger anderer";
 
 translate "goods, the higher your score. Each week, N1 advance."
-  to german "Leute dieselben Waren anbieten, desto höher deine Wertung. Jede Woche gibt es N1 Fortschrittspunkte.";
+  to german "Leute dieselben Waren anbieten, desto hï¿½her deine Wertung. Jede Woche gibt es N1 Fortschrittspunkte.";
 
 translate "Offering Vault"
-  to german "Handelsgewölbe";
+  to german "Handelsgewï¿½lbe";
 
 translate "You already have an Offering Vault at N1 N2."
-  to german "Du hast bereits bei N1 N2 ein Handelsgewölbe.";
+  to german "Du hast bereits bei N1 N2 ein Handelsgewï¿½lbe.";
 
 translate "You already have an Offering Vault at K1."
-  to german "Du hast bereits bei K1 ein Handelsgewölbe.";
+  to german "Du hast bereits bei K1 ein Handelsgewï¿½lbe.";
 
 translate "To build an Offering Vault you need:"
-  to german "Um ein Handelsgewölbe zu bauen, benötigst du:";
+  to german "Um ein Handelsgewï¿½lbe zu bauen, benï¿½tigst du:";
 
 translate "Add to Vault"
-  to german "Im Gewölbe einbringen";
+  to german "Im Gewï¿½lbe einbringen";
 
 translate "Your vault already contains N1 items."
-  to german "Dein Gewölbe enthält bereits N1 Dinge.";
+  to german "Dein Gewï¿½lbe enthï¿½lt bereits N1 Dinge.";
 
 translate "You have already offered a O1."
   to german "Du bietest bereits O1(pn) an.";
 
 translate "Really add a O1 to your vault?"
-  to german "Wirklich O1(pn) in das Gewölbe einbringen?";
+  to german "Wirklich O1(pn) in das Gewï¿½lbe einbringen?";
 
 translate "You place in the vault: O1."
-  to german "Du lagerst in deinem Gewölbe ein: O1(pn)";
+  to german "Du lagerst in deinem Gewï¿½lbe ein: O1(pn)";
 
 translate "Check the Vault Contents"
-  to german "Prüfe das Gewölbelager";
+  to german "Prï¿½fe das Gewï¿½lbelager";
 
 translate "Vault contains:"
-  to german "Gewölbeinhalt:";
+  to german "Gewï¿½lbeinhalt:";
 
 translate "Most Recent Score Detail:"
   to german "Aktuellstes Wertungsdetail:";
@@ -113,7 +110,7 @@ translate "Total Score: "
   to german "Gesamtpunktzahl:";
 
 translate "Egypt recognizes K1 for passing the Balance of Goods."
-  to german "Ägypten ehrt K1. Sie haben den Test des Warengleichgewichts bestanden.";
+  to german "ï¿½gypten ehrt K1. Sie haben den Test des Warengleichgewichts bestanden.";
 
 translate "Egypt recognizes U1, U2, U3 for passing the Balance of Goods."
-  to german "Ägypten ehrt U1(name), U2(name) und U3(name). Sie haben den Test des Warengleichgewichts bestanden.";
+  to german "ï¿½gypten ehrt U1(name), U2(name) und U3(name). Sie haben den Test des Warengleichgewichts bestanden.";

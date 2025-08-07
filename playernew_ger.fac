@@ -9,7 +9,7 @@ module playernew_ger;
 //***************************************************************************
 
 translate "Guild Affiliations"
-	to german "Gildenzugehörigkeit";
+	to german "Gildenzugehï¿½rigkeit";
 
 translate "GAME DEVELOPER"
 	to german "SPIELENTWICKLER";
@@ -24,7 +24,7 @@ translate "Cheat"
 	to german "Cheat";
 
 translate "Curses"
-	to german "Flüche";
+	to german "Flï¿½che";
 
 translate "Discipline"
 	to german "Disziplin";
@@ -60,7 +60,7 @@ translate "Player Options"
 	to german "Spieleroptionen";
 
 translate "Change Password"
-	to german "Passwort ändern";
+	to german "Passwort ï¿½ndern";
 
 translate "Chat Tabs"
 	to german "Chattabs";
@@ -69,7 +69,7 @@ translate "Little Window"
 	to german "Kleines Fenster";
 
 translate "Toggle UI"
-	to german "Oberfläche umschalten";
+	to german "Oberflï¿½che umschalten";
 
 translate "Client Options"
 	to german "Clientoptionen";
@@ -84,7 +84,7 @@ translate "Chat-Related"
 	to german "Chatbezogenes";
 
 translate "Interface"
-	to german "Oberfläche";
+	to german "Oberflï¿½che";
 
 translate "Offline Chores"
 	to german "Offlineaufgaben";
@@ -114,7 +114,7 @@ translate "Skin Color"
 	to german "Hautfarbe";
 
 translate "Height"
-	to german "Größe";
+	to german "Hï¿½he";
 
 translate "Clothing"
 	to german "Kleidung";
@@ -135,10 +135,10 @@ translate "Accessory"
 	to german "Schmuck";
 
 translate "Back"
-	to german "Rücken";
+	to german "Rï¿½cken";
 
 translate "Low Back"
-	to german "Unterer Rücken";
+	to german "Unterer Rï¿½cken";
 
 translate "Chest"
 	to german "Brust";
@@ -192,16 +192,16 @@ translate "Saffron Yellow"
 	to german "Safrangelb";
 
 translate "Forest Green"
-	to german "Waldgrün";
+	to german "Waldgrï¿½n";
 
 translate "Dark Green"
-	to german "Dunkelgrün";
+	to german "Dunkelgrï¿½n";
 
 translate "Lavender Blue"
 	to german "Lavendelblau";
 
 translate "Cerulean Blue"
-	to german "Cölinblau";
+	to german "Cï¿½linblau";
 
 translate "Indigo"
 	to german "Indigoblau";
@@ -225,13 +225,13 @@ translate "Black"
 	to german "Schwarz";
 
 translate "White"
-	to german "Weiß";
+	to german "Weiï¿½";
 
 translate "Red"
 	to german "Rot";
 
 translate "Deep Red"
-	to german "Dunkelrot";
+	to german "Tiefes Rot";
 
 translate "Orange"
 	to german "Orange";
@@ -240,7 +240,7 @@ translate "Yellow"
 	to german "Gelb";
 
 translate "Green"
-	to german "Grün";
+	to german "Grï¿½n";
 
 translate "Blue"
 	to german "Blau";
@@ -249,16 +249,16 @@ translate "Purple"
 	to german "Lila";
 
 translate "Deep Purple"
-	to german "Dunkellila";
+	to german "Tiefes Lila";
 
 translate "Very Tall"
-	to german "Sehr groß";
+	to german "Sehr groï¿½";
 
 translate "Tall"
-	to german "Groß";
+	to german "Groï¿½";
 
 translate "Average"
-	to german "Mittelgroß";
+	to german "Mittelgroï¿½";
 
 translate "Short"
 	to german "Klein";
@@ -318,7 +318,7 @@ translate "Bottom 3"
 	to german "Beinbekleidung 3";
 
 translate "Belt"
-	to german "Gürtel";
+	to german "Gï¿½rtel";
 
 translate "Hat 1"
 	to german "Kopfbedeckung 1";
@@ -330,19 +330,19 @@ translate "Shoe 1"
 	to german "Schuhe 1";
 
 translate "Texture 1"
-	to german "Muster 1";
+	to german "Textur 1";
 
 translate "Texture 2"
-	to german "Muster 2";
+	to german "Textur 2";
 
 translate "Texture 3"
-	to german "Muster 3";
+	to german "Textur 3";
 
 translate "Texture 4"
-	to german "Muster 4";
+	to german "Textur 4";
 
 translate "Texture 5"
-	to german "Muster 5";
+	to german "Textur 5";
 
 translate "Turban"
 	to german "Turban";
@@ -357,37 +357,37 @@ translate "Accessory 3"
 	to german "Schmuck 3";
 
 translate "Size"
-	to german "Größe";
+	to german "Grï¿½ï¿½e";
 
 translate "Select avatar:"
-	to german "Avatar auswählen:";
+	to german "Avatar auswï¿½hlen:";
 
 translate "Select avatar height:"
-	to german "Avatargröße auswählen:";
+	to german "Avatargrï¿½ï¿½e auswï¿½hlen:";
 
 translate "Select colors for:"
-	to german "Farben wählen für:";
+	to german "Farben wï¿½hlen fï¿½r:";
 
 translate "No colors available!"
-	to german "Keine Farbwahl möglich!";
+	to german "Keine Farbwahl mï¿½glich!";
 
 translate "Select category:"
-	to german "Kategorie auswählen:";
+	to german "Kategorie auswï¿½hlen:";
 
 translate "Select clothing type:"
-	to german "Kleidungsart auswählen:";
+	to german "Kleidungsart auswï¿½hlen:";
 
 translate "Select pattern:"
-	to german "Muster auswählen:";
+	to german "Muster auswï¿½hlen:";
 
 translate "Select chat bubble:"
-	to german "Chatblase auswählen:";
+	to german "Chatblase auswï¿½hlen:";
 
 translate "Select skin texture:"
-	to german "Hautfarbe auswählen:";
+	to german "Hautfarbe auswï¿½hlen:";
 
 translate "Select chat text color:"
-	to german "Chattextfarbe auswählen:";
+	to german "Chattextfarbe auswï¿½hlen:";
 
 translate "Animal"
 	to german "Tier";
@@ -423,10 +423,10 @@ translate "Repeat\nNew Password"
 	to german "Neues\nPasswort wiederholen";
 
 translate "Blank passwords are not allowed."
-	to german "Leere Passwörter sind verboten.";
+	to german "Leere Passwï¿½rter sind verboten.";
 
 translate "New Passwords don't match."
-	to german "Neue Passwörter decken sich nicht.";
+	to german "Neue Passwï¿½rter decken sich nicht.";
 
 translate "Password changed."
-	to german "Passwort geändert.";
+	to german "Passwort geï¿½ndert.";

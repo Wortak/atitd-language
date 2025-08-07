@@ -37,23 +37,23 @@ translate ScytheTemplate to german masculine
 
 translate CarpentryBlade to german neuter
 {
-  swa "Sägeblatt";
-  sn "Sägeblatt"; sg "Sägeblattes"; sd "Sägeblatt"; sa "Sägeblatt";
-  pn "Sägeblätter"; pg "Sägeblätter"; pd "Sägeblättern"; pa "Sägeblätter";
+  swa "Sï¿½geblatt";
+  sn "Sï¿½geblatt"; sg "Sï¿½geblattes"; sd "Sï¿½geblatt"; sa "Sï¿½geblatt";
+  pn "Sï¿½geblï¿½tter"; pg "Sï¿½geblï¿½tter"; pd "Sï¿½geblï¿½ttern"; pa "Sï¿½geblï¿½tter";
 }
 
 translate Hatchet to german femininecollective
 {
   swa "Axt";
   sn "Axt"; sg "Axt"; sd "Axt"; sa "Axt";
-  pn "Äxte"; pg "Äxte"; pd "Äxten"; pa "Äxte";
+  pn "ï¿½xte"; pg "ï¿½xte"; pd "ï¿½xten"; pa "ï¿½xte";
 }
 
 translate Blacksmithing to german femininecollective
 {
   swa "Schmiedekunst";
   sn "Schmiedekunst"; sg "Schmiedekunst"; sd "Schmiedekunst"; sa "Schmiedekunst";
-  pn "Schmiedekünste"; pg "Schmiedekünste"; pd "Schmiedekünsten"; pa "Schmiedekünste";
+  pn "Schmiedekï¿½nste"; pg "Schmiedekï¿½nste"; pd "Schmiedekï¿½nsten"; pa "Schmiedekï¿½nste";
 }
 
 translate RitualBlade to german femininecollective
@@ -67,21 +67,21 @@ translate RitualBlade to german femininecollective
  {
    swa "Diamantbesetzte Axt";
    sn "Diamantbesetzte Axt"; sg "Diamantbesetzte Axt"; sd "Diamantbesetzte Axt"; sa "Diamantbesetzte Axt";
-   pn "Diamantbesetzten Äxte"; pg "Diamantbesetzten Äxte"; pd "Diamantbesetzten Äxten"; pa "Diamantbesetzte Äxte";
+   pn "Diamantbesetzten ï¿½xte"; pg "Diamantbesetzten ï¿½xte"; pd "Diamantbesetzten ï¿½xten"; pa "Diamantbesetzte ï¿½xte";
  }
   
 translate RasHammer to german masculine
 {
   swa "Hammer des Ra";
   sn "Hammer des Ra"; sg "Hammers des Ra"; sd "Hammer des Ra"; sa "Hammer des Ra";
-  pn "Hämmer des Ra"; pg "Hämmer des Ra"; pd "Hämmern des Ra"; pa "Hämmer des Ra";
+  pn "Hï¿½mmer des Ra"; pg "Hï¿½mmer des Ra"; pd "Hï¿½mmern des Ra"; pa "Hï¿½mmer des Ra";
 }
 
 translate ArchaeologistsShovel to german feminine
 {
-  swa "Archäologenschaufel";
-  sn "Archäologenschaufel"; sg "Archäologenschaufel"; sd "Archäologenschaufel"; sa "Archäologenschaufel";
-  pn "Archäologenschaufeln"; pg "Archäologenschaufeln"; pd "Archäologenschaufeln"; pa "Archäologenschaufel";
+  swa "Archï¿½ologenschaufel";
+  sn "Archï¿½ologenschaufel"; sg "Archï¿½ologenschaufel"; sd "Archï¿½ologenschaufel"; sa "Archï¿½ologenschaufel";
+  pn "Archï¿½ologenschaufeln"; pg "Archï¿½ologenschaufeln"; pd "Archï¿½ologenschaufeln"; pa "Archï¿½ologenschaufel";
 }
   
 translate ResinWedge to german masculine
@@ -102,7 +102,7 @@ translate BallPeenHammer to german masculine
 {
   swa "Kleiner Kugelhammer";
   sn "Kleine Kugelhammer"; sg "Kleinen Kugelhammers"; sd "Kleinen Kugelhammer"; sa "Kleinen Kugelhammer";
-  pn "Kleine Kugelhämmer"; pg "Kleinen Kugelhämmer"; pd "Kleinen Kugelhämmern"; pa "Kleinen Kugelhämmer";
+  pn "Kleine Kugelhï¿½mmer"; pg "Kleinen Kugelhï¿½mmer"; pd "Kleinen Kugelhï¿½mmern"; pa "Kleinen Kugelhï¿½mmer";
 }  
 
 translate ShapingMallet to german masculine
@@ -115,57 +115,57 @@ translate RoundHammer to german masculine
 {
   swa "Rundhammer";
   sn "Rundhammer"; sg "Rundhammers"; sd "Rundhammer"; sa "Rundhammer";
-  pn "Rundhämmer"; pg "Rundhämmer"; pd "Rundhämmern"; pa "Rundhämmern";
+  pn "Rundhï¿½mmer"; pg "Rundhï¿½mmer"; pd "Rundhï¿½mmern"; pa "Rundhï¿½mmern";
 }
 
 translate WideTungstenChisel to german masculine
 {
-  swa "Wolframmeißel";
-  sn "Wolframmeißel"; sg "Wolframmeißels"; sd "Wolframmeißel"; sa "Wolframmeißel";
-  pn "Wolframmeißel"; pg "Wolframmeißel"; pd "Wolframmeißeln"; pa "Wolframmeißel";
+  swa "Wolframmeiï¿½el";
+  sn "Wolframmeiï¿½el"; sg "Wolframmeiï¿½els"; sd "Wolframmeiï¿½el"; sa "Wolframmeiï¿½el";
+  pn "Wolframmeiï¿½el"; pg "Wolframmeiï¿½el"; pd "Wolframmeiï¿½eln"; pa "Wolframmeiï¿½el";
 } 
 
 translate "Allows one to forge various blades"
 to german "Erlaubt die Herstellung verschiedener Werkzeuge";
 
 translate "Allows creation of Diamond Tipped Hatchets, which cut"
-to german "Erlaubt die Herstellung von diamantbesetzten Äxten, welche";
+to german "Erlaubt die Herstellung von diamantbesetzten ï¿½xten, welche";
 
 translate "more cleanly, allowing trees to recover faster"
-to german "schärfer schneiden und Bäume das Erholen erleichtern";
+to german "schï¿½rfer schneiden und Bï¿½ume das Erholen erleichtern";
 
 translate "To build an Anvil, you need:"
-to german "Um einen Amboss herzustellen benötigst du:";
+to german "Um einen Amboss herzustellen benï¿½tigst du:";
 
 translate "You must unload the finished product first"
 to german "Du musst zuerst das fertiggestellte Produkt entnehmen";
 
 translate "To make a O1 requires:"
-to german "Um O1(asn) herzustellen benötigst du:";
+to german "Um O1(asn) herzustellen benï¿½tigst du:";
 
 translate "Tools/Force Level/Force"
 to german "Werkzeuge/Krafteinstellung/Kraft";
 
 translate "You must start work on a piece first."
-to german "Du musst zuerst ein Werkstück bearbeiten.";
+to german "Du musst zuerst ein Werkstï¿½ck bearbeiten.";
 
 translate "Template Quality Unknown"
-to german "Klingenqualität unbekannt";
+to german "Klingenqualitï¿½t unbekannt";
 
 translate "Template Quality: "
-to german "Klingenqualität: ";
+to german "Klingenqualitï¿½t: ";
 
 translate "Piece is not symmetrical"
-to german "Das Stück ist nicht symmetrisch";
+to german "Das Stï¿½ck ist nicht symmetrisch";
 
 translate "Blademaker/Mirror Left->Right"
 to german "Klingenherstellung/Spiegel Links ->Rechts";
 
 translate "Blademaker/Thickness Decrease"
-to german "Klingenherstellung/Stärke mindern";
+to german "Klingenherstellung/Stï¿½rke mindern";
 
 translate "Blademaker/Thickness Increase"
-to german "Klingenherstellung/Stärke steigern";
+to german "Klingenherstellung/Stï¿½rke steigern";
 
 translate "Blademaker/Straighten Rows"
 to german "Klingenherstellung/Nieten begradigen";
@@ -174,37 +174,37 @@ translate "Inspect Famous Blades"
 to german "Untersuche hervorragende Werkzeuge";
 
 translate "Complete Project"
-to german "Schließe das Projekt ab";
+to german "Schlieï¿½e das Projekt ab";
 
 translate "Discard Project for Scrap"
 to german "Annuliere das Projekt";
  
 translate "Really scrap the O1?"
-to german "Möchtest du wirklich O1(dsa) annulieren?";
+to german "Mï¿½chtest du wirklich O1(dsa) annulieren?";
  
 translate "Ready to Unload?"
-to german "Möchtest du wirklich das Projekt abschließen?";
+to german "Mï¿½chtest du wirklich das Projekt abschlieï¿½en?";
  
 translate "A famously good blade! You should name it:"
-to german "Ein hervorragendes Werkstück! Du solltest ihm einen Namen geben:";
+to german "Ein hervorragendes Werkstï¿½ck! Du solltest ihm einen Namen geben:";
  
 translate "Nice try."
 to german "Netter Versuch.";
  
 translate "You need to be holding Ra's Hammer to work on a Ritual Blade."
-to german "Du musst einen Hammer des Ra benutzen um an einer Ritualklinge arbeiten zu können.";
+to german "Du musst einen Hammer des Ra benutzen um an einer Ritualklinge arbeiten zu kï¿½nnen.";
 
 translate "The piece has become too fragile."
-to german "Das Arbeitsstück wurde zu brüchig.";
+to german "Das Arbeitsstï¿½ck wurde zu brï¿½chig.";
 
 translate "(Hint: Use 'Chat Appears Above Players Heads', while using an anvil. Utility/Options:Chat-Related)"
-to german "(Tipp: Nutze 'Chat erscheint über dem Spielerkopf' bei der Nutzung des Ambosses. Optionen/Option: Chatbezogen)";
+to german "(Tipp: Nutze 'Chat erscheint ï¿½ber dem Spielerkopf' bei der Nutzung des Ambosses. Optionen/Option: Chatbezogen)";
  
 translate "Quality: "
-to german "Qualität: ";
+to german "Qualitï¿½t: ";
 
 translate "Load Anvil"
-to german "Amboss bestücken";
+to german "Amboss bestï¿½cken";
 
 translate "Start Making: "
 to german "Herstellen: ";
@@ -219,16 +219,16 @@ translate "Force"
 to german "Kraft";
 
 translate "Quality Check"
-to german "Qualitätsprüfung";
+to german "Qualitï¿½tsprï¿½fung";
 
 translate "Tools/Quality Check"
-to german "Werkzeuge/Qualitätsprüfung";
+to german "Werkzeuge/Qualitï¿½tsprï¿½fung";
 
 translate "Goal Display"
-to german "Endstückvorlage";
+to german "Endstï¿½ckvorlage";
 
 translate "Hammer: Round"
-to german "Hammer: groß, rund";
+to german "Hammer: groï¿½, rund";
 
 translate "Hammer: Ra's Hammer"
 to german "Hammer: Hammer des Ra";
@@ -246,10 +246,10 @@ translate "Not a tool"
 to german "Kein Werkzeug";
 
 translate "To complete a O1 you need:"
-to german "Um O1(asn) herzustellen benötigst du:";
+to german "Zum fertigstellen O1(asg) O1(sg) benï¿½tigst du:";
 
 translate "You can't work on the piece while displaying the goal."
-to german "Du kannst nicht an dem Werkstück weiterarbeiten, während du die Endstück-Vorlage betrachtest.";
+to german "Du kannst nicht an dem Werkstï¿½ck weiterarbeiten, wï¿½hrend du die Endstï¿½ck-Vorlage betrachtest.";
 
 translate "Build an Anvil"
 to german "Baue einen Amboss";
@@ -258,8 +258,8 @@ translate "Blademaker/Print State"
 to german "Klingenherstellung/Stadium";
 
 translate "Load Anvil/Start Making:"
-to german "Amboss bestücken/Herstellen: ";
+to german "Amboss bestï¿½cken/Herstellen: ";
 
 translate "Your fists are not strong enough to punch iron, please select a tool to use."
-to german "Deine Fäuste sind nicht start genug um Eisen zu verformen. Wähle dafür ein Werkzeug aus.";
+to german "Deine Fï¿½uste sind nicht start genug um Eisen zu verformen. Wï¿½hle dafï¿½r ein Werkzeug aus.";
 

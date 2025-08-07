@@ -111,9 +111,6 @@ to german "Hebe Stufe auf O1(sn)";
 translate "Keep level at O1"
 to german "Behalte Stufe auf O1(sn)";
 
-translate "Cheat"
-to german "Cheat";
-
 translate "Goals"
 to german "Ziele";
 
@@ -127,9 +124,9 @@ translate "Builder Island"
 to german "Builderinsel";
 
 translate "University"
-to german "Universität";
+to german "Universitï¿½t";
 translate "The Human Body"
-to german "Der menschliche Körper";
+to german "Der menschliche Kï¿½rper";
 
 translate "Architecture"
 to german "Architektur";
@@ -144,16 +141,16 @@ translate "Art"
 to german "Kunst";
 
 translate "Performed all Citizenship Tasks"
-to german "alle Bürger-Voraussetzungen erfüllt";
+to german "alle Bï¿½rger-Voraussetzungen erfï¿½llt";
 
 translate "Clear all"
-to german "Lösche alle Ziele";
+to german "Lï¿½sche alle Ziele";
 
 translate "Initiate into O1"
-to german "Einführung in O1(sn)";
+to german "Einfï¿½hrung in O1(sn)";
 
 translate "Uninitiate from O1"
-to german "Lösche Einführung in O1(sn)";
+to german "Lï¿½sche Einfï¿½hrung in O1(sn)";
 
 translate "Remove this object"
 to german "Entferne das Objekt";
@@ -174,7 +171,7 @@ translate "Make this Invisible"
 to german "Mache dies unsichtbar";
 
 translate "Temporarily gain access"
-to german "Vorrübergehend Eigentum ergreifen";
+to german "Vorrï¿½bergehend Eigentum ergreifen";
 
 translate "You already have access."
 to german "Du hast schon Zugriff.";

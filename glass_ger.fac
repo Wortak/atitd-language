@@ -14,7 +14,7 @@ translate GlaziersBench to german feminine
 {
   swa "Glaswerkbank";
   sn "Glaswerkbank"; sg "Glaswerkbank"; sd "Glaswerkbank"; sa "Glaswerkbank";
-  pn "Glaswerkbänke"; pg "Glaswerkbänke"; pd "Glaswerkbänken"; pa "Glaswerkbänke";
+  pn "Glaswerkbï¿½nke"; pg "Glaswerkbï¿½nke"; pd "Glaswerkbï¿½nken"; pa "Glaswerkbï¿½nke";
 }
 translate CampDecoration to german feminine
 {
@@ -44,19 +44,19 @@ translate NormalGlass to german neuter
 {
   swa "Glas";
   sn "Glas"; sg "Glases"; sd "Glas"; sa "Glas";
-  pn "Gläser"; pg "Gläser"; pd "Gläsern"; pa "Gläser";
+  pn "Glï¿½ser"; pg "Glï¿½ser"; pd "Glï¿½sern"; pa "Glï¿½ser";
 }
 translate JewelGlass to german neuter
 {
   swa "Kristallglas";
   sn "Kristallglas"; sg "Kristallglases"; sd "Kristallglas"; sa "Kristallglas";
-  pn "Kristallgläser"; pg "Kristallgläser"; pd "Kristallgläsern"; pa "Kristallgläser";
+  pn "Kristallglï¿½ser"; pg "Kristallglï¿½ser"; pd "Kristallglï¿½sern"; pa "Kristallglï¿½ser";
 }
 translate SodaGlass to german neuter
 {
   swa "Natronglas";
   sn "Natronglas"; sg "Natronglases"; sd "Natronglas"; sa "Natronglas";
-  pn "Natrongläser"; pg "Natrongläser"; pd "Natrongläsern"; pa "Natrongläser";
+  pn "Natronglï¿½ser"; pg "Natronglï¿½ser"; pd "Natronglï¿½sern"; pa "Natronglï¿½ser";
 }
 translate GlassJars to german femininecollective
 {
@@ -80,13 +80,13 @@ translate ReagentBottle to german neuter
 {
   swa "Reagenzglas";
   sn "Reagenzglas"; sg "Reagenzglases"; sd "Reagenzglas"; sa "Reagenzglas";
-  pn "Reagenzgläser"; pg "Reagenzgläser"; pd "Reagenzgläsern"; pa "Reagenzgläser";
+  pn "Reagenzglï¿½ser"; pg "Reagenzglï¿½ser"; pd "Reagenzglï¿½sern"; pa "Reagenzglï¿½ser";
 }
 translate WhiteSand to german masculinecollective
 {
-  swa "Weißer Sand";
-  sn "Weiße Sand"; sg "Weißen Sandes"; sd "Weißen Sand"; sa "Weiße Sand";
-  pn "Weißer Sand"; pg "Weißer Sand"; pd "Weißer Sand"; pa "Weißer Sand";
+  swa "Weiï¿½er Sand";
+  sn "Weiï¿½e Sand"; sg "Weiï¿½en Sandes"; sd "Weiï¿½en Sand"; sa "Weiï¿½e Sand";
+  pn "Weiï¿½er Sand"; pg "Weiï¿½er Sand"; pd "Weiï¿½er Sand"; pa "Weiï¿½er Sand";
 }
 translate SheetGlass to german femininecollective
 {
@@ -210,16 +210,16 @@ translate "Glazier's Bench"
 to german "Glaswerkbank";
 
 translate "To build a Glazier's Bench, you need: "
-to german "Um eine Glaswerkbank zu bauen benötigst du: ";
+to german "Um eine Glaswerkbank zu bauen benï¿½tigst du: ";
 
 translate "Your sheet of glass cracked and fell, but you were nearly able to save it. At least your skill is improving. It is now N1 out of 7."
-to german "Deine Glasscheibe zerbrach, aber du konntest sie fast retten. Deine Fähigkeiten sind gestiegen. Sie sind nun N1 von 7.";
+to german "Deine Glasscheibe zerbrach, aber du konntest sie fast retten. Deine Fï¿½higkeiten sind gestiegen. Sie sind nun N1 von 7.";
 
 translate "You lost your focus, and the delicate sheet of glass cracked and fell. Your skill is N1 out of 7."
-to german "Du verlierst die Konzentration. Die empfindliche Glasscheibe fiel und zerbrach. Deine Fähigkeit ist N1 von 7.";
+to german "Du verlierst die Konzentration. Die empfindliche Glasscheibe fiel und zerbrach. Deine Fï¿½higkeit ist N1 von 7.";
 
 translate "Success! You made a O1. You can take it from the Glazier's Bench once it cools."
-to german "Erfolg gehabt! Du hast O1(asn) O1(sn) hergestellt. Nimm die Ware aus der Glaswerkbank, sobald sie abgekühlt ist.";
+to german "Erfolg gehabt! Du hast O1(asn) O1(sn) hergestellt. Nimm die Ware aus der Glaswerkbank, sobald sie abgekï¿½hlt ist.";
 
 translate "Glass: Yes, a bug exists. U1"
 to german "Glas: Ja,es gibt einen Bug. U1(name)";
@@ -246,16 +246,16 @@ translate "You need at least 20 deben of molten glass to work a new piece."
 to german "Du brauchst 20 Deben geschmolzenes Glas, um etwas Neues herzustellen.";
 
 translate "Your bench needs to be loaded with Normal Glass for this project."
-to german "Deine Glaswerkbank muß für diese Arbeit mit normalem Glas beladen werden.";
+to german "Deine Glaswerkbank muï¿½ fï¿½r diese Arbeit mit normalem Glas beladen werden.";
 
 translate "Your bench needs to be loaded with Jewel Glass for this project."
-to german "Deine Glaswerkbank muß für diese Arbeit mit Kristallglas beladen werden.";
+to german "Deine Glaswerkbank muï¿½ fï¿½r diese Arbeit mit Kristallglas beladen werden.";
 
-translate "Your bench needs to be loaded with Jewel Glass for this project."
-to german "Deine Glaswerkbank muß für diese Arbeit mit Natronglas beladen werden.";
+translate "Your bench needs to be loaded with Soda Glass for this project."
+to german "Deine Glaswerkbank muï¿½ fï¿½r diese Arbeit mit Natronglas beladen werden.";
 
 translate "Glass must be worked between N1 and N2 degrees"
-to german "Glas muß bei einer Temperatur zwischen N1 und N2 geschmolzen werden.";
+to german "Glas muï¿½ bei einer Temperatur zwischen N1 und N2 geschmolzen werden.";
 
 translate "Melt materials"
 to german "Schmelze Material";
@@ -271,13 +271,13 @@ translate "You can only have one kind of glass in your crucible."
 to german "Du kannst nur eine Sorte Glas im Tiegel haben.";
 
 translate "Normal glass must be melted at 3200 degrees or higher."
-to german "Normales Glas muß bei 3200 Grad oder mehr geschmolzen werden.";
+to german "Normales Glas muï¿½ bei 3200 Grad oder mehr geschmolzen werden.";
 
 translate "How many batches of glass?"
 to german "Welche Menge Glas?";
 
 translate "You don't have enough to make N1 batches of glass. You need:"
-to german "Du hast nicht genug N1, um soviel Glas herzustellen. Du benötigst: ";
+to german "Du hast nicht genug N1, um soviel Glas herzustellen. Du benï¿½tigst: ";
 
 translate "The crucible holds a maximum of 50 deben of glass."
 to german "Der Tiegel beinhaltet ein Maximum von 50 Deben Glas.";
@@ -286,28 +286,28 @@ translate "Melt Materials into Soda Glass"
 to german "Schmelze Material zu Natronglas";
 
 translate "Soda glass must be melted at 3200 degrees or higher."
-to german "Natronglas muß bei 3200 Grad oder mehr geschmolzen werden.";
+to german "Natronglas muï¿½ bei 3200 Grad oder mehr geschmolzen werden.";
 
 translate "Melt materials into Jewel Glass"
 to german "Schmelze Material zu Kristallglas";
 
 translate "Jewel glass must be melted at 4400 degrees or higher."
-to german "Kristallglas muß bei 4400 Grad oder mehr geschmolzen werden.";
+to german "Kristallglas muï¿½ bei 4400 Grad oder mehr geschmolzen werden.";
 
 translate "You don't have enough to make N1 batches of jewel glass. You need:"
-to german "Du hast nicht genug, um N1 Kristallglas herzustellen. Du benötigst: ";
+to german "Du hast nicht genug, um N1 Kristallglas herzustellen. Du benï¿½tigst: ";
 
 translate "Permission for Emptying Glass"
-to german "Erlaubnis für Glasentsorgung";
+to german "Erlaubnis fï¿½r Glasentsorgung";
 
 translate "Can be emptied by K1"
-to german "Entsorungserlaubnis für K1";
+to german "Entsorungserlaubnis fï¿½r K1";
 
 translate "Anyone"
 to german "Jeder";
 
 translate "Owner"
-to german "Eigentümer";
+to german "Eigentï¿½mer";
 
 translate "Empty ALL the glass from the bench"
 to german "Entferne ALLES Glas aus der Glaswerkbank";
@@ -316,10 +316,10 @@ translate "You don't have permission to empty the glass."
 to german "Du hast keine Erlaubnis, das Glas zu entsorgen.";
 
 translate "By the Melted Glass Preservation Act, introduced by Ptenkhet, only the original builder of a Glaziers Bench may empty the glass."
-to german "Per Erhaltungsgesetz von geschmolzenem Glas, eingeführt durch Ptenkhet, haben nur die Erbauer der Glaswerkbank die Erlaubnis das Glas auszuleeren.";
+to german "Per Erhaltungsgesetz von geschmolzenem Glas, eingefï¿½hrt durch Ptenkhet, haben nur die Erbauer der Glaswerkbank die Erlaubnis das Glas auszuleeren.";
 
 translate "Are you sure you want to pour all the O1 on the ground?"
-to german "Bist du sicher, dass du alles O1(dsg) O1(sg) auf den Boden gießen willst?";
+to german "Bist du sicher, dass du alles O1(dsg) O1(sg) auf den Boden gieï¿½en willst?";
 
 translate "The glass drops to the ground in a molten lump, then shatters."
 to german "Das Glas tropft in einer geschmolzenen Masse zu Boden und zerspringt.";
@@ -337,16 +337,16 @@ translate "Fuse silver powder to sheet glass"
 to german "Verschmelze Silberpulver mit der Glasscheibe";
 
 translate "There is only room on the bench for a single mirror."
-to german "Es ist nur für einen Spiegel Platz in der Werkbank.";
+to german "Es ist nur fï¿½r einen Spiegel Platz in der Werkbank.";
 
 translate "To make a mirror, you must sprinkle 200 pinches of silver powder on a sheet of glass, in a sufficiently hot glazier's bench."
-to german "Um einen Spiegel herzustellen, mußt du 200 Prisen Silberpulver in einer entsprechend angeheizten Glaswerkbank auf eine Glasscheibe streuen.";
+to german "Um einen Spiegel herzustellen, muï¿½t du 200 Prisen Silberpulver in einer entsprechend angeheizten Glaswerkbank auf eine Glasscheibe streuen.";
 
 translate "The silver will take about 30 seconds to fuse to the glass."
-to german "Das Silber benötigt etwa 30 Sekunden, um mit dem Glas zu verschmelzen.";
+to german "Das Silber benï¿½tigt etwa 30 Sekunden, um mit dem Glas zu verschmelzen.";
 
 translate "The wind blows the silver powder away before it has time to fuse. Try a hotter bench."
-to german "Der Wind bläst den Silberpulver davon, bevor er Zeit zum Verschmelzen hatte. Versuche es mit einer heißeren Werkbank.";
+to german "Der Wind blï¿½st den Silberpulver davon, bevor er Zeit zum Verschmelzen hatte. Versuche es mit einer heiï¿½eren Werkbank.";
 
 translate "You made a mirror."
 to german "Du hast einen Spiegel hergestellt.";
@@ -361,13 +361,13 @@ translate "Your bench temperature must be at least 1600 to begin a Thermometer."
 to german "Deine Werkbank braucht eine Temperatur von mindestens 1600 Grad, um ein Thermometer herzustellen.";
 
 translate "To make a Thermometer, you must weld three glass rods into a tube, and fill with 10 units of quicksilver."
-to german "Um ein Thermometer herzustellen, musst du 3 Glastangen zusammenschweißen und mit 10 Einheiten Quecksilber befüllen.";
+to german "Um ein Thermometer herzustellen, musst du 3 Glastangen zusammenschweiï¿½en und mit 10 Einheiten Quecksilber befï¿½llen.";
 
 translate "The Thermometer will take about 60 seconds to set."
-to german "Das Thermometer braucht 60 Sekunden um abzukühlen.";
+to german "Das Thermometer braucht 60 Sekunden um abzukï¿½hlen.";
 
 translate "The Thermometer cracked when it was setting. Try finishing the Thermometer as close as possible to N1 degrees."
-to german "Das Thermometer zerbrach beim Abkühlen. Versuche die Herstellung so nahe wie möglich bei N1 Grad.";
+to german "Das Thermometer zerbrach beim Abkï¿½hlen. Versuche die Herstellung so nahe wie mï¿½glich bei N1 Grad.";
 
 translate "You made a Thermometer."
 to german "Du hast ein Thermometer hergestellt.";
@@ -394,16 +394,16 @@ translate "Make a Fine Glass Scythe Blade (60 sec)"
 to german "Ziehe eine Edle Sensenglasklinge (60 Sek.)";
 
 translate "Light this torch"
-to german "Zünde diese Fackel an";
+to german "Zï¿½nde diese Fackel an";
 
 translate "You need 10 oil to light the torch."
-to german "Du brauchst 10 Öl, um die Fackel anzuzünden.";
+to german "Du brauchst 10 ï¿½l, um die Fackel anzuzï¿½nden.";
 
 translate "Refill this torch with oil"
-to german "Fülle die Fackel mit Öl auf";
+to german "Fï¿½lle die Fackel mit ï¿½l auf";
 
 translate "You need N1 oil."
-to german "Du brauchst N1 Öl.";
+to german "Du brauchst N1 ï¿½l.";
 
 translate "Make a Decorative Torch (180 sec)"
 to german "Ziehe eine dekorative Fackel (180 Sek.)";
@@ -424,13 +424,13 @@ translate "Emerald Green Glass Torch"
 to german "Smaragdglasfackel";
 
 translate "To build a Emerald Green Glass Torch, you need: "
-to german "Um eine Smaragdglasfackel zu bauen benötigst du: ";
+to german "Um eine Smaragdglasfackel zu bauen benï¿½tigst du: ";
 
 translate "To build a Sapphire Blue Glass Torch, you need: "
-to german "Um eine Saphirglasfackel zu bauen benötigst du: ";
+to german "Um eine Saphirglasfackel zu bauen benï¿½tigst du: ";
 
 translate "To build a Ruby Red Glass Torch, you need: "
-to german "Um eine Rubinglasfackel zu bauen benötigst du: ";
+to german "Um eine Rubinglasfackel zu bauen benï¿½tigst du: ";
 
 translate "Ruby Lightbox"
 to german "Rubinlichtbox";
@@ -448,19 +448,19 @@ translate "Topaz Lightbox"
 to german "Topaslichtbox";
 
 translate "To build a Ruby Lightbox, you need:"
-to german "Um eine Rubinlichtbox zu bauen benötigst du:";
+to german "Um eine Rubinlichtbox zu bauen benï¿½tigst du:";
 
 translate "To build a Emerald Lightbox, you need:"
-to german "Um eine Smaragdlichtbox zu bauen benötigst du:";
+to german "Um eine Smaragdlichtbox zu bauen benï¿½tigst du:";
 
 translate "To build a Sapphire Lightbox, you need:"
-to german "Um eine Saphirlichtbox zu bauen benötigst du:";
+to german "Um eine Saphirlichtbox zu bauen benï¿½tigst du:";
 
 translate "To build a Diamond Lightbox, you need:"
-to german "Um eine Diamantlichtbox zu bauen benötigst du:";
+to german "Um eine Diamantlichtbox zu bauen benï¿½tigst du:";
 
 translate "To build a Topaz Lightbox, you need:"
-to german "Um eine Topaslichtbox zu bauen benötigst du:";
+to german "Um eine Topaslichtbox zu bauen benï¿½tigst du:";
 
 translate "Melted Glass: N1"
 to german "Geschmolzenes Glas: N1";
@@ -472,7 +472,7 @@ translate "No melted glass"
 to german "Kein geschmolzenes Glas";
 
 translate "Charcoal Avail: N1"
-to german "Verfügb. Holzkohle: N1";
+to german "Verfï¿½gb. Holzkohle: N1";
 
 translate "Normal Glass: N1"
 to german "Normales Glas: N1";

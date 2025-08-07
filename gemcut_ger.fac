@@ -14,7 +14,6 @@ translate GemCutting to german neuter
 swa "Edelsteinschleifen";
 sn "Edelsteinschleifen"; pn "Edelsteinschleifen";
 }
-
 translate CutAmethyst to german masculine
 {
 swa "geschnittener Amethyst"; sn "geschnittene Amethyst"; pn "geschnittenen Amethysten";
@@ -25,7 +24,7 @@ swa "geschnittener Lapis"; sn "geschnittene Lapis"; pn "geschnittenen Lapis";
 }
 translate CutTurquoise to german masculine
 {
-swa "geschnittener Türkis"; sn "geschnittene Türkis"; pn "geschnittenen Türkis";
+swa "geschnittener Tï¿½rkis"; sn "geschnittene Tï¿½rkis"; pn "geschnittenen Tï¿½rkis";
 }
 translate CutGarnet to german masculine
 {
@@ -47,28 +46,24 @@ translate CutZircon to german masculine
 {
 swa "geschnittener Zirkon"; sn "geschnittene Zirkon"; pn "geschnittenen Zirkone";
 }
-
 translate CuttableAmethyst to german masculine
 {
 swa "schneidbarer Amethyst";
 sn "schneidbare Amethyst"; sg "schneidbarem Amethysts"; sd "schneidbaren Amethyst"; sa "schneidbare Amethyst";
 pn "schneidbaren Amethyste"; pg "schneidbaren Amethyste"; pd "schneidbaren Amethysten"; sa "schneidbaren Amethyste";
 }
-
 translate CuttableLapis to german masculine
 {
 swa "schneidbarer Lapis";
 sn "schneidbare Lapis"; sg "schneidbaren Lapis"; sd "schneidbaren Lapis"; sa "schneidbare Lapis";
 pn "schneidbaren Lapis"; pg "schneidbaren Lapis"; pd "schneidbaren Lapis"; sa "schneidbaren Lapis";
 }
-
 translate CuttableTurquoise to german masculine
 {
-swa "schneidbarer Türkis";
-sn "schneidbare Türkis"; sg "schneidbaren Türkis"; sd "schneidbaren Türkis"; sa "schneidbare Türkis";
-pn "schneidbaren Türkis"; pg "schneidbaren Türkis"; pd "schneidbaren Türkis"; sa "schneidbaren Türkis";
+swa "schneidbarer Tï¿½rkis";
+sn "schneidbare Tï¿½rkis"; sg "schneidbaren Tï¿½rkis"; sd "schneidbaren Tï¿½rkis"; sa "schneidbare Tï¿½rkis";
+pn "schneidbaren Tï¿½rkis"; pg "schneidbaren Tï¿½rkis"; pd "schneidbaren Tï¿½rkis"; sa "schneidbaren Tï¿½rkis";
 }
-
 translate CuttableGarnet to german masculine
 {
 swa "schneidbarer Granat";
@@ -99,49 +94,42 @@ swa "schneidbarer Zirkon";
 sn "schneidbare Zirkon"; sg "schneidbaren Zirkons"; sd "schneidbaren Zirkon"; sa "schneidbare Zirkon";
 pn "schneidbaren Zirkone"; pg "schneidbaren Zirkone"; pd "schneidbaren Zirkonen"; sa "schneidbaren Zirkone";
 }
-
 translate WaterMining to german neuter
 {
-swa "Edelsteinschürfen";
-sn "Edelsteinschürfen"; sg "Edelsteinschürfen"; sd "Edelsteinschürfen"; sa "Edelsteinschürfen";
-pn "Edelsteinschürfen"; pg "Edelsteinschürfen"; pd "Edelsteinschürfen"; sa "Edelsteinschürfen";
+swa "Edelsteinschï¿½rfen";
+sn "Edelsteinschï¿½rfen"; sg "Edelsteinschï¿½rfen"; sd "Edelsteinschï¿½rfen"; sa "Edelsteinschï¿½rfen";
+pn "Edelsteinschï¿½rfen"; pg "Edelsteinschï¿½rfen"; pd "Edelsteinschï¿½rfen"; sa "Edelsteinschï¿½rfen";
 }
-
 translate GemCuttingTable to german feminine
 {
 swa "Edelsteinschleiferei";
 sn "Edelsteinschleiferei"; sg "Edelsteinschleiferei"; sd "Edelsteinschleiferei"; sa "Edelsteinschleiferei";
 pn "Edelsteinschleifereien"; pg "Edelsteinschleifereien"; pd "Edelsteinschleifereien"; sa "Edelsteinschleifereien";
 }
-
 translate ScholarsGemCuttingTable to german feminine
 {
-swa "Übungsedelsteinschleiferei";
-sn "Übungsedelsteinschleiferei"; sg "Übungsedelsteinschleiferei"; sd "Übungsedelsteinschleiferei"; sa "Übungsedelsteinschleiferei";
-pn "Übungs-Edelsteinschleifereien"; pg "Übungs-Edelsteinschleifereien"; pd "Übungsedelsteinschleifereien"; sa "Übungsedelsteinschleifereien";
+swa "ï¿½bungsedelsteinschleiferei";
+sn "ï¿½bungsedelsteinschleiferei"; sg "ï¿½bungsedelsteinschleiferei"; sd "ï¿½bungsedelsteinschleiferei"; sa "ï¿½bungsedelsteinschleiferei";
+pn "ï¿½bungs-Edelsteinschleifereien"; pg "ï¿½bungs-Edelsteinschleifereien"; pd "ï¿½bungsedelsteinschleifereien"; sa "ï¿½bungsedelsteinschleifereien";
 }
-
 translate SpecimenCase to german masculinecollective
 {
   swa "Musterkoffer";
   sn "Musterkoffer"; sg "Musterkoffers"; sd "Musterkoffer"; sa "Musterkoffer";
   pn "Musterkoffer"; pg "Musterkoffer"; pd "Musterkoffern"; pa "Musterkoffer";
 }
-
 translate GemMachine to german feminine
 {
   swa "Edelsteinmaschine";
   sn "Edelsteinmaschine"; sg "Edelsteinmaschine"; sd "Edelsteinmaschine"; sa "Edelsteinmaschine";
   pn "Edelsteinmaschinen"; pg "Edelsteinmaschinen"; pd "Edelsteinmaschinen"; pa "Edelsteinmaschinen";
 }
-
 translate BijouController to german feminine
 {
   swa "Juwelenkontrolle";
   sn "Juwelenkontrolle"; sg "Juwelenkontrolle"; sd "Juwelenkontrolle"; sa "Juwelenkontrolle";
   pn "Juwelenkontrollen"; pg "Juwelenkontrollen"; pd "Juwelenkontrollen"; pa "Juwelenkontrollen";
 }
-
 translate Bijou to german masculine
 {
   swa "Test des Juwels";
@@ -153,7 +141,7 @@ translate Bijou to german masculine
 //	ohne Feingewicht
 
 translate "Eyelet"
-to german "Öse";
+to german "ï¿½se";
 
 translate "Thistle"
 to german "Distel";
@@ -165,10 +153,10 @@ translate "Choronzon"
 to german "Chorozon";
 
 translate "Queen's Tomb"
-to german "Königinnengrab";
+to german "Kï¿½niginnengrab";
 
 translate "King's Tomb"
-to german "Königsgrab";
+to german "Kï¿½nigsgrab";
 
 translate "Full Eye"
 to german "Volles Auge";
@@ -201,7 +189,7 @@ translate "Appolonia"
 to german "Appolonia";
 
 translate "Bridge"
-to german "Brücke";
+to german "Brï¿½cke";
 
 translate "Hexas Plate"
 to german "Sechseckplatte";
@@ -232,7 +220,7 @@ to german "Tiki Maske";
 
 
 translate "Eyelet (N1 carat)"
-to german "Öse (N1 Karat)";
+to german "ï¿½se (N1 Karat)";
 
 translate "Thistle (N1 carat)"
 to german "Distel (N1 Karat)";
@@ -244,10 +232,10 @@ translate "Choronzon (N1 carat)"
 to german "Chorozon (N1 Karat)";
 
 translate "Queen's Tomb (N1 carat)"
-to german "Königinnengrab (N1 Karat)";
+to german "Kï¿½niginnengrab (N1 Karat)";
 
 translate "King's Tomb (N1 carat)"
-to german "Königsgrab (N1 Karat)";
+to german "Kï¿½nigsgrab (N1 Karat)";
 
 translate "Full Eye (N1 carat)"
 to german "Volles Auge (N1 Karat)";
@@ -280,7 +268,7 @@ translate "Appolonia (N1 carat)"
 to german "Appolonia (N1 Karat)";
 
 translate "Bridge (N1 carat)"
-to german "Brücke (N1 Karat)";
+to german "Brï¿½cke (N1 Karat)";
 
 translate "Hexas Plate (N1 carat)"
 to german "Sechseckplatte (N1 Karat)";
@@ -322,13 +310,13 @@ translate "Test of the Bijou"
 to german "Test des Juwels";
 
 translate "Cut a Queen's Tomb Turquoise"
-to german "Türkis: Schneide ein Königinnengrab";
+to german "Tï¿½rkis: Schneide ein Kï¿½niginnengrab";
 translate "Cut a Queen's Tomb Amethyst"
-to german "Amethyst: Schneide ein Königinnengrab";
+to german "Amethyst: Schneide ein Kï¿½niginnengrab";
 translate "Build a Scholar's Gem Cutting Table"
-to german "Baue eine Übungsedelsteinschleiferei.";
+to german "Baue eine ï¿½bungsedelsteinschleiferei.";
 translate "Design a Challenge Cut and open it for Judging"
-to german "Stelle eine Übungsvorlage her und öffne sie zur Bewertung";
+to german "Stelle eine ï¿½bungsvorlage her und ï¿½ffne sie zur Bewertung";
 
 translate "Have N1 Judges solve and rate your Bijou"
 to german "N1 Richter haben deinen Juwelentest gemeistert und bewertet";
@@ -340,13 +328,13 @@ translate "Claim Principles Advancement"
 to german "Fordere Prinzipienaufstieg ein";
 
 translate "Complete Principles of the Bijou by designing a cut gem that others find appropriately challenging. Each person attempting your puzzle will start with the same raw gem that you did."
-to german "Vollende die Prinzipien des Juwels durch das Erstellen einer Edelsteinübungsvorlage, die andere Spieler interessant finden könnten. Jeder, der diesen Schnitt nacharbeiten möchte, beginnt mit demselben Rohedelstein wie du.";
+to german "Vollende die Prinzipien des Juwels durch das Erstellen einer Edelsteinï¿½bungsvorlage, die andere Spieler interessant finden kï¿½nnten. Jeder, der diesen Schnitt nacharbeiten mï¿½chte, beginnt mit demselben Rohedelstein wie du.";
 
 translate "No judges have yet rated your design."
 to german "Keine Richter haben bisher dein Design bewertet.";
 
 translate "To claim advancement in Principles of the Bijou, N1 people must judge your creation, and most must rate it at least Good."
-to german "Um deinen Prinzipienfortschritt einfordern zu können, müssen N1 Leute dein Design bewertet haben, die meisten davon mit mindestens Gut.";
+to german "Um deinen Prinzipienfortschritt einfordern zu kï¿½nnen, mï¿½ssen N1 Leute dein Design bewertet haben, die meisten davon mit mindestens Gut.";
 
 translate "One or more tasks have not been completed."
 to german "Ein oder mehrere Schritte wurden noch nicht abgeschlossen.";
@@ -355,34 +343,34 @@ translate "You have completed Principles of the Bijou."
 to german "Du hast die Prinzipien des Juwels gemeistert.";
 
 translate "Build a Scholar's Gem Cutting table. Included in the costs is a piece of Hornet's Wing Granite, a stone with a most unusual property: Each slab is of a repeating crystaline structure, meaning that a single slab produces many copies of the same raw gem-like piece. Challenge others to duplicate your design."
-to german "Baue eine Übungsedelsteinschleiferei. In den Kosten inbegriffen ist ein Stück Hornissenflügelgranit, ein Stein mit einer ungewöhnlichsten Eigenschaft: Jede Steinplatte ist von einer wiederholenden kristallinen Struktur, was bedeutet, dass eine einzelne Platte viele Kopien des Originaledelsteinschnittes produziert. Fordere Andere zum Kopieren deines Designs auf.";
+to german "Baue eine ï¿½bungsedelsteinschleiferei. In den Kosten inbegriffen ist ein Stï¿½ck Hornissenflï¿½gelgranit, ein Stein mit einer ungewï¿½hnlichsten Eigenschaft: Jede Steinplatte ist von einer wiederholenden kristallinen Struktur, was bedeutet, dass eine einzelne Platte viele Kopien des Originaledelsteinschnittes produziert. Fordere Andere zum Kopieren deines Designs auf.";
 
 translate "Scholar's Gem Cutting Table"
-to german "Übungsedelsteinschleiferei";
+to german "ï¿½bungsedelsteinschleiferei";
 
 translate "Queen's Tomb Turquoise"
-to german "Türkis: Königinnengrab";
+to german "Tï¿½rkis: Kï¿½niginnengrab";
 
 translate "Queen's Tomb Amethyst"
-to german "Amethyst: Königinnengrab";
+to german "Amethyst: Kï¿½niginnengrab";
 
 translate "To build a Scholar's Gem Cutting Table, you need: "
-to german "Um eine Übungsedelsteinschleiferei zu bauen benötigst du: ";
+to german "Um eine ï¿½bungsedelsteinschleiferei zu bauen benï¿½tigst du: ";
 
 translate "Make this the Challenge Gem"
-to german "Mache dies zu einem Übungsedelstein";
+to german "Mache dies zu einem ï¿½bungsedelstein";
 
 translate "Compare to the Challenge Cut"
-to german "Vergleiche mit der Übungsvorlage";
+to german "Vergleiche mit der ï¿½bungsvorlage";
 
 translate "Success! You may now judge this challenge."
 to german "Bravo, du warst erfolgreich! Du darfst nun diesen Wettkampf bewerten";
 
 translate "The cuts match, however, you are not the one who attempted the challenge cut."
-to german "Die Schnitte stimmen überein, aber du bist nicht Derjenige, der den Schnittversuch getätigt hat.";
+to german "Die Schnitte stimmen ï¿½berein, aber du bist nicht Derjenige, der den Schnittversuch getï¿½tigt hat.";
 
 translate "The gem cuts do not match."
-to german "Die Schnitte stimmen nicht überein.";
+to german "Die Schnitte stimmen nicht ï¿½berein.";
 
 translate "Attempt the Challenge Cut"
 to german "Versuche dem Schnitt zu kopieren";
@@ -397,16 +385,16 @@ translate "Gem Cutting"
 to german "Edelsteinschleifen";
 
 translate "Water Mining"
-to german "Edelsteinschürfen";
+to german "Edelsteinschï¿½rfen";
 
 translate "You learn techniques for cutting Amethyst, Lapis, Garnet, Turquoise, and other gems into beautiful and functional shapes."
-to german "Du lernst Techniken, um Amethysten, Lapis, Granat, Türkis und andere Edelsteine in wunderschöne Gebilde zu schleifen.";
+to german "Du lernst Techniken, um Amethysten, Lapis, Granat, Tï¿½rkis und andere Edelsteine in wunderschï¿½ne Gebilde zu schleifen.";
 
 translate "Gem Cutting Table"
 to german "Edelsteinschleiferei";
 
 translate "To build a Gem Cutting Table, you need: "
-to german "Um eine Edelsteinschleiferei zu bauen benötigst du: ";
+to german "Um eine Edelsteinschleiferei zu bauen benï¿½tigst du: ";
 
 translate "Error in gem kind."
 to german "Fehler in der Art des Edelsteins.";
@@ -424,7 +412,7 @@ translate "Change Sample"
 to german "Muster auswechseln";
 
 translate "Throw out the Challenge Cut?"
-to german "Übungsvorlage herausnehmen?";
+to german "ï¿½bungsvorlage herausnehmen?";
 
 translate "Load"
 to german "Laden";
@@ -469,10 +457,10 @@ translate "Drilled"
 to german "Gebohrt";
 
 translate "Unfold, Recenter and Encode"
-to german "Offenlegen, Rezentrieren und verschlüsseln";
+to german "Offenlegen, Rezentrieren und verschlï¿½sseln";
 
 translate "Finished Cutting"
-to german "Abgeschlossene Schliffe";
+to german "Abgeschlossene Schnitte";
 
 translate "Gem Catalog"
 to german "Edelsteinkatalog";
@@ -487,13 +475,13 @@ translate "Fine Balance"
 to german "Feingewicht";
 
 translate "You learn to construct a fine balance, an upgrade to a gem cutting table that lets you accurately weigh Amethyst, Lapis, Garnet, Turquoise, and other gems as you cut them."
-to german "Du lernst das Feingewicht zu bestimmen. Eine Verbesserung der Edelsteinschleiferei, die dich das genaue Gewicht der Edelsteine bestimmen lässt, wenn du sie schneidest.";
+to german "Du lernst das Feingewicht zu bestimmen. Eine Verbesserung der Edelsteinschleiferei, die dich das genaue Gewicht der Edelsteine bestimmen lï¿½sst, wenn du sie schneidest.";
 
 translate "Upgrade this table with a Fine Balance"
 to german "Verbessere die Edelsteinschleiferei mit einer Feingewichtsbestimmung";
 
 translate "You need a pair of Queen't Tomb Garnets to construct a Fine Balance on this table."
-to german "Du brauchst ein Paar Königinnengrabedelsteine um eine Feingewichtsbestimmung in diese Edelsteinschleiferei einzubauen.";
+to german "Du brauchst ein Paar Kï¿½niginnengrabedelsteine um eine Feingewichtsbestimmung in diese Edelsteinschleiferei einzubauen.";
 
 translate "The table will now display gem weights in carats."
 to german "Die Schleiferei zeigt dir nun das genaue Edelsteingewicht in Karat an.";
@@ -513,23 +501,20 @@ to german "O1(sn) ist kein geschnittener Edelstein.";
 translate "No such cut:"
 to german "Kein solcher Schnitt:";
 
-translate "Finished Cutting"
-to german "Abgeschlossene Schnitte";
-
 translate "Unique Specimen"
 to german "Einzigartige Muster";
 
 translate "Name for your cut?"
-to german "Name für deinen Schnitt?";
+to german "Name fï¿½r deinen Schnitt?";
 
 translate "SpecialGem:"
 to german "Spezieller Stein:";
 
 translate "Note: Only one free package per person - choose wisely"
-to german "Beachte: Nur ein kostenloses Päckchen pro Person - nutze es weise";
+to german "Beachte: Nur ein kostenloses Pï¿½ckchen pro Person - nutze es weise";
 
 translate "Get a package of 7 K1"
-to german "Nimm ein Päckchen von 7 K1";
+to german "Nimm ein Pï¿½ckchen von 7 K1";
 
 translate "You already got some free gems from here."
 to german "Du hast hier bereits einige Edelsteine umsonst bekommen.";
@@ -550,4 +535,4 @@ translate "Disqualify from Judging"
 to german "Von der Wertung disqualifizieren";
 
 translate "Really disqualify from judging? This is permanent, and can not be reversed on this Table."
-to german "Wirklich von der Wertung disqualifizieren? Dies ist dauerhaft und kann für diesen Tisch nicht mehr rückgängig gemacht werden.";
+to german "Wirklich von der Wertung disqualifizieren? Dies ist dauerhaft und kann fï¿½r diesen Tisch nicht mehr rï¿½ckgï¿½ngig gemacht werden.";

@@ -7,18 +7,17 @@ module give_ger;
 //**    (C)opyright 2002,2003 by MDO Games			           **
 //**                                                                       **
 //***************************************************************************
+
 //menues
 
 translate "Give O1"
 to german "Gib O1(sn)";
 
-translate "Nilgrün"
-to german "Nilgrün";
+translate "Nilgrï¿½n"
+to german "Nilgrï¿½n";
 
-translate "Altägypten"
-to german "Altägypten";
-
-//objects
+translate "Altï¿½gypten"
+to german "Altï¿½gypten";
 
 //texts
 
@@ -37,8 +36,9 @@ to german "U1(name) hat dir N1 K1:O1(sn). gegeben.";
 translate "Give how many O1:O2?"
 to german "Wieviel O1(sn):O2(sn) geben?";
 
-translate "U1 was carying too much, and couldn't receive any O1."
-to german "U1(name) hat zu viel getragen und konnte keine O1(pn) annehmen.";
+// item count ? "keines der Saaten" or "keine der Saat"
+translate "U1 was carrying too much, and couldn't receive any O1."
+to german "U1(name) trug zu viel und konnte kein O1(sg) annehmen.";
 
 translate "You don't have N1 O1:O2."
 to german "Du hast nicht N1 O1(N1?pn:sn):O2(N1?pn:sn).";
@@ -54,9 +54,6 @@ to german "U1(name) hat Dir N1 O1(sn) gegeben";
 
 translate "You can't give when you can't move."
 to german "Du kannst nichts geben, wenn du dich nicht bewegen kannst.";
-
-translate "U1 was carying too much, and couldn't receive any O1."
-to german "U1(name) trägt zuviel und konnte O1(sn) nicht nehmen.";
 
 translate "U1 has given you N1 K1:K2."
 to german "U1(name) hat Dir N1 K1:K2 gegeben.";

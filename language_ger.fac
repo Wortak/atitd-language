@@ -8,81 +8,47 @@ module language_ger;
 //**                                                                       **
 //***************************************************************************
 
-translate English to german neutercollective
+// objects
+translate english to german neutercollective
 {
   swa "Englisch";
-  sn "Englisch"; sg "Englischen"; sd "Englisch"; sa "Englisch";
-  pn "Englisch"; pg "Englisch"; pd "Englisch"; pa "Englisch";
+  sn "Englisch"; sg "Englischs"; sd "Englisch"; sa "Englisch";
 }
-translate Spanish to german neutercollective
+translate spanish to german neutercollective
 {
   swa "Spanisch";
   sn "Spanisch"; sg "Spanisch"; sd "Spanisch"; sa "Spanisch";
-  pn "Spanisch"; pg "Spanisch"; pd "Spanisch"; pa "Spanisch";
 }
-translate French to german neutercollective
+translate french to german neutercollective
 {
-  swa "Französisch";
-  sn "Französisch"; sg "Französisch"; sd "Französisch"; sa "Französisch";
-  pn "Französisch"; pg "Französisch"; pd "Französisch"; pa "Französisch";
+  swa "Franzï¿½sisch";
+  sn "Franzï¿½sisch"; sg "Franzï¿½sisch"; sd "Franzï¿½sisch"; sa "Franzï¿½sisch";
 }
-translate Norwegian to german neutercollective
+translate norwegian to german neutercollective
 {
   swa "Norwegisch";
   sn "Norwegisch"; sg "Norwegisch"; sd "Norwegisch"; sa "Norwegisch";
-  pn "Norwegisch"; pg "Norwegisch"; pd "Norwegisch"; pa "Norwegisch";
 }
-
-translate Notranslate to german femininecollective
+translate notranslate to german femininecollective
 {
-  swa "Rohfassung (unübersetzt)";
-  sn "Rohfassung (unübersetzt)"; sg "Rohfassung (unübersetzt)"; sd "Rohfassung (unübersetzt)"; sa "Rohfassung (unübersetzt)";
-  pn "Rohfassungen (unübersetzt)"; pg "Rohfassungen (unübersetzt)"; pd "Rohfassungen (unübersetzt)"; pa "Rohfassungen (unübersetzt)";
+  swa "ohne ï¿½bersetzung (roh)";
+  sn "ohne ï¿½bersetzung (roh)"; sg "ohne ï¿½bersetzung (roh)"; sd "ohne ï¿½bersetzung (roh)"; sa "ohne ï¿½bersetzung (roh)";
 }
-translate German to german neutercollective
+translate german to german neutercollective
 {
   swa "Deutsch";
-  sn "Deutsch"; sg "Deutschen"; sd "Deutsch"; sa "Deutsch";
-  pn "Deutsch"; pg "Deutsch"; pd "Deutsch"; pa "Deutsch";
+  sn "Deutsch"; sg "Deutschs"; sd "Deutsch"; sa "Deutsch";
 }
 
-
-translate "English"
-to german "Englisch";
-
-translate "Spanish"
-to german "Spanisch";
-
-translate "French"
-to german "Französisch";
-
-translate "Norwegian"
-to german "Norwegisch";
-
-translate "German"
-to german "Deutsch";
-
-translate "No Translate (raw)"
-to german "Keine Übersetzung";
 
 translate "Language"
 to german "Sprache";
 
 translate "Interface"
-to german "Oberfläche";
+to german "Oberflï¿½che";
 
 translate "Your language has been set to K1"
-to german "Deine Sprache wurde auf K1 gestellt";
-
-translate "Your language has been set to German"
-to german "Deine Sprache wurde auf Deutsch gestellt";
-
-translate "Your language has been set to English"
-to german "Deine Sprache wurde auf Englisch gestellt";
-
-translate "Your language has been set to French"
-to german "Deine Sprache wurde auf Französisch gestellt";
-
+to german "Deine Sprache wurde auf K1(sn) gestellt";
 
 translate "Fluency for Mentoring"
 to german "Mentorsprachen";
@@ -91,16 +57,16 @@ translate "I can mentor in:"
 to german "Folgende Sprachen kann ich:";
 
 translate "Utility/Language/Interface/Default"
-to german "Optionen/Sprache/Oberfläche/Vorgabe";
+to german "Optionen/Sprache/Oberflï¿½che/Vorgabe";
 
 translate "fluent-english"
-to german "Fließend englisch";
+to german "Flieï¿½end englisch";
 
 translate "fluent-french"
-to german "Fließend französisch";
+to german "Flieï¿½end franzï¿½sisch";
 
 translate "fluent-german"
-to german "Fließend deutsch";
+to german "Flieï¿½end deutsch";
 
 translate "This is not a language:"
 to german "Dies ist keine Sprache:";

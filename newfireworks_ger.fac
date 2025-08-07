@@ -9,15 +9,15 @@ module newglower_ger;
 //***************************************************************************
 translate NewMortar to german masculine
 {
-  swa "Feuerwerksmörser";
-  sn "Feuerwerksmörser"; sg "Feuerwerksmörsers"; sd "Feuerwerksmörser"; sa "Feuerwerksmörser";
-  pn "Feuerwerksmörser"; pg "Feuerwerksmörser"; pd "Feuerwerksmörser"; pa "Feuerwerksmörser";
+  swa "Feuerwerksmï¿½rser";
+  sn "Feuerwerksmï¿½rser"; sg "Feuerwerksmï¿½rsers"; sd "Feuerwerksmï¿½rser"; sa "Feuerwerksmï¿½rser";
+  pn "Feuerwerksmï¿½rser"; pg "Feuerwerksmï¿½rser"; pd "Feuerwerksmï¿½rser"; pa "Feuerwerksmï¿½rser";
 }
 
 translate "Forward"
-to german "Vorwärts";
+to german "Vorwï¿½rts";
 translate "Backward"
-to german "Rückwärts";
+to german "Rï¿½ckwï¿½rts";
 translate "Pitch Up"
 to german "Winkelanstieg";
 translate "Pitch Down"
@@ -29,7 +29,7 @@ to german "Schwenk links";
 translate "Ring"
 to german "Ring";
 translate "Fan"
-to german "Fächer";
+to german "Fï¿½cher";
 translate "Omni"
 to german "Gedreht";
 translate "Random"
@@ -48,7 +48,7 @@ translate "Fireworks Editor"
 to german "Feuerwerkseditor";
 
 translate "Stage N1"
-to german "Bühne N1";
+to german "Bï¿½hne N1";
 
 translate "Launch From: "
 to german "Start ab: ";
@@ -63,25 +63,25 @@ to german "Startgeschw.:";
 translate "Launch Roll: "
 to german "Startdrehung: ";
 translate "Thrust Forward: "
-to german "Vorwärtsschub: ";
+to german "Vorwï¿½rtsschub: ";
 translate "Thrust Pitch Up: "
 to german "Schub Winkelanstieg: ";
 translate "Thrust Yaw Right: "
 to german "Schub Rechtsschwenk: ";
 translate "Launch Reps: "
-to german "Abschüsse: ";
+to german "Abschï¿½sse: ";
 translate "Launch Offset: "
-to german "Startverzögerung: ";
+to german "Startverzï¿½gerung: ";
 translate "Star: "
 to german "Stern: ";
 translate "ADD:"
-to german "+";
+to german "+"; // "hinzufï¿½gen" (too long ?)
 translate "FIRE:"
 to german "FEUER:";
 translate "Add"
-to german "+";
+to german "+"; // "hinzufï¿½gen" (too long ?)
 translate "Stage"
-to german "Bühne";
+to german "Bï¿½hne";
 translate "Test"
 to german "Test";
 translate "Fire"
@@ -94,7 +94,7 @@ translate "Test-Fire"
 to german "Testschuss";
 
 translate "Edit Design"
-to german "Design ändern";
+to german "Design ï¿½ndern";
 
 translate "Somebody is already editing."
 to german "Es editiert bereits Jemand.";
@@ -103,52 +103,52 @@ translate "Name of Firework?"
 to german "Name des Feuerwerks?";
 
 translate "Maximum number of stages reached."
-to german "Maximale Bühnenanzahl erreicht.";
+to german "Maximale Bï¿½hnenanzahl erreicht.";
 
 translate "Launching..."
-to german "Start läuft...";
+to german "Start lï¿½uft...";
 
 translate "Disarm (Remove any armed materials)"
 to german "Enladen (Entferne alle geladenen Mats)";
 
 translate "Check Launch Costs"
-to german "Prüfe Startkosten";
+to german "Prï¿½fe Startkosten";
 
 translate "To arm this mortar:"
-to german "Diesen Mörser laden:";
+to german "Diesen Mï¿½rser laden:";
 
 translate "1 Papyrus Paper"
 to german "1 Papyruspapier";
 
 translate "N1 Gunpowder"
-to german "N1 Schießpulver";
+to german "N1 Schieï¿½pulver";
 
 translate "N1 Placeholder Star"
 to german "N1 Platzhalterstern";
 
 translate "Arm the Shell"
-to german "Mörser beladen";
+to german "Mï¿½rser beladen";
 
 translate "Armed shell."
-to german "Beladener Mörser.";
+to german "Beladener Mï¿½rser.";
 
 translate "You don't have the required components. Check the launch cost."
-to german "Du hast nicht die nötigen Zutaten. Prüfe die Startkosten.";
+to german "Du hast nicht die nï¿½tigen Zutaten. Prï¿½fe die Startkosten.";
 
 translate "Fire the Shell"
-to german "Feuere Mörser ab";
+to german "Feuere Mï¿½rser ab";
 
 translate "You must first arm the shell. This is not dangerous - firing an armed shell requires you to type LAUNCH."
-to german "Du mußt erst den Mörser laden. Dies ist nicht gefährlich - zum Abfeuern des geladenen Mörsers schreibe LAUNCH.";
+to german "Du muï¿½t erst den Mï¿½rser laden. Dies ist nicht gefï¿½hrlich - zum Abfeuern des geladenen Mï¿½rsers schreibe LAUNCH.";
 
 translate "You must first arm the shell."
-to german "Du mußt erst den Mörser laden.";
+to german "Du muï¿½t erst den Mï¿½rser laden.";
 
 translate "To launch, type LAUNCH"
 to german "Um zu starten, schreibe LAUNCH";
 
 translate "To build a Mortar you need:"
-to german "Um einen Mörser zu bauen benötigst du:";
+to german "Um einen Mï¿½rser zu bauen benï¿½tigst du:";
 
 translate "Unnamed"
 to german "Unbenannt";
@@ -158,4 +158,4 @@ to german "<Keine>";
 translate " sec"
 to german " Sek";
 translate "ft/s2"
-to german "fuß/s2";
+to german "fuï¿½/s2";

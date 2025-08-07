@@ -54,9 +54,9 @@ translate Abdju to german masculine
 }
 translate Oxyrynchus to german masculine
 {
-  swa "Stör";
-  sn "Stör"; sg "Störs"; sd "Stör"; sa "Stör";
-  pn "Störe"; pg "Störe"; pd "Stören"; pa "Störe";
+  swa "Stï¿½r";
+  sn "Stï¿½r"; sg "Stï¿½rs"; sd "Stï¿½r"; sa "Stï¿½r";
+  pn "Stï¿½re"; pg "Stï¿½re"; pd "Stï¿½ren"; pa "Stï¿½re";
 }
 translate Phagrus to german feminine
 {
@@ -112,9 +112,9 @@ translate CraftsmansFishingPole to german feminine
 }
 translate HuntsmansFishingPole to german feminine
 {
-  swa "Jägerangel";
-  sn "Jägerangel"; sg "Jägerangel"; sd "Jägerangel"; sa "Jägerangel";
-  pn "Jägerangel"; pg "Jägerangel"; pd "Jägerangel"; pa "Jägerangel";
+  swa "Jï¿½gerangel";
+  sn "Jï¿½gerangel"; sg "Jï¿½gerangel"; sd "Jï¿½gerangel"; sa "Jï¿½gerangel";
+  pn "Jï¿½gerangel"; pg "Jï¿½gerangel"; pd "Jï¿½gerangel"; pa "Jï¿½gerangel";
 }
 translate FineFishingPole to german feminine
 {
@@ -130,9 +130,9 @@ translate NileDeepFishingPole to german feminine
 }
 translate RoyalFishingPole to german feminine
 {
-  swa "Königsangel";
-  sn "Königsangel"; sg "Königsangel"; sd "Königsangel"; sa "Königsangel";
-  pn "Königsangeln"; pg "Königsangeln"; pd "Königsangeln"; pa "Königsangeln";
+  swa "Kï¿½nigsangel";
+  sn "Kï¿½nigsangel"; sg "Kï¿½nigsangel"; sd "Kï¿½nigsangel"; sa "Kï¿½nigsangel";
+  pn "Kï¿½nigsangeln"; pg "Kï¿½nigsangeln"; pd "Kï¿½nigsangeln"; pa "Kï¿½nigsangeln";
 }
 translate OsirisFishingPole to german feminine
 {
@@ -141,11 +141,8 @@ translate OsirisFishingPole to german feminine
   pn "Osirisangeln"; pg "Osirisangeln"; pd "Osirisangeln"; pa "Osirisangeln";
 }
 
-translate "Reset my fishing trophies"
-to german "Entferne meine Fischtrophäen";
-
 translate "The school hands you a simple fishing pole with a simple lure, as part of your course materials."
-to german "Die Schule händigt dir eine einfache Angelrute mit einem einfachen Köder aus, als Teil deines Übungsmaterials.";
+to german "Die Schule hï¿½ndigt dir eine einfache Angelrute mit einem einfachen Kï¿½der aus, als Teil deines ï¿½bungsmaterials.";
 
 translate "You know all that can be learned at this time."
 to german "Du weisst alles, was momentan gelernt werden kann.";
@@ -172,45 +169,43 @@ translate "You caught a O1 weighing N1 deben!"
 to german "Dein Fang: O1(swa) mit N1 Pfund!";
 
 translate "You failed to catch anything. You do notice occasional rings in the water, indicating fish."
-to german "Du hast nichts gefangen. Doch siehst du Ringe auf dem Wasser, ein Zeichen für Fisch.";
+to german "Du hast nichts gefangen. Doch siehst du Ringe auf dem Wasser, ein Zeichen fï¿½r Fisch.";
 
 translate "You failed to catch anything, and the water seems to be totally dead."
 to german "Du hast nichts gefangen und das Wasser scheint tot zu sein.";
 
 translate "That's one of the biggest O1 you have ever caught! Want to mount it?"
-to german "Das ist einer deiner größten O1(pn) Fänge! Willst du ihn präparieren?";
+to german "Das ist einer deiner grï¿½ï¿½ten O1(pn) Fï¿½nge! Willst du ihn prï¿½parieren?";
 
 translate "Something happened - maybe you dropped the fish?"
 to german "Etwas ist passiert - vielleicht hast du den Fisch fallen lassen?";
+
 translate "This fish was mounted K1 ago."
-to german "Dieser Fisch wurde vor K1 präpariert.";
+to german "Dieser Fisch wurde vor K1 prï¿½pariert.";
 
 translate "Mounted"
-to german "Präpariert";
+to german "Prï¿½pariert";
 
 translate "A fishing contest has been declared! The largest mounted fish (requires the taxidermy skill) of each species wins a Craftsman's Fishing Pole for its owner. The contest ends in N1."
-to german "Ein Angelwettbewerb wurde ausgerufen! Der größte präparierte Fisch (benötigt die Tierpräparationsfähigkeit) einer jeden Art gestreitet eine Handwerkerrute für ihren Besitzer. Der Wettbewerb endet in N1.";
+to german "Ein Angelwettbewerb wurde ausgerufen! Der grï¿½ï¿½te prï¿½parierte Fisch (benï¿½tigt die Tierprï¿½parationsfï¿½higkeit) einer jeden Art gestreitet eine Handwerkerrute fï¿½r ihren Besitzer. Der Wettbewerb endet in N1.";
 
 translate "Our fishing contest has ended. Pharaoh will announce winners."
-to german "Unser Angelwettbewerb ist nun beendet. Pharaoh wird die Gewinner ausrufen.";
-
-translate "This fish was mounted K1 ago."
-to german "Dieser Fisch wurde vor K1 präpariert.";
+to german "Unser Angelwettbewerb ist nun beendet. Pharaoh wird die Gewinner annoncieren.";
 
 translate "Allows one to mount specimen fish."
-to german "Erlaubt das Präparieren von Fischen als Musterstück.";
+to german "Erlaubt das Prï¿½parieren von Fischen als Musterstï¿½ck.";
 
 translate "Special"
 to german "Spezial";
 
 translate "Reset my fishing trophies"
-to german "Setze meine Fischtrophäen zurück";
+to german "Setze meine Fischtrophï¿½en zurï¿½ck";
 
 translate "Are you sure you want to reset all of your trophies? You won't lose any items, but will have a chance to mount smaller fishes."
-to german "Bist du sicher, dass du alle deine Fischtrophäen zurücksetzen möchtest? Du wirst keine Gegenstände verlieren, aber es könnte sein, dass du nur noch kleinere Fische fängst.";
+to german "Bist du sicher, dass du alle deine Fischtrophï¿½en zurï¿½cksetzen mï¿½chtest? Du wirst keine Gegenstï¿½nde verlieren, aber es kï¿½nnte sein, dass du nur noch kleinere Fische fï¿½ngst.";
 
 translate "Trophies reset."
-to german "Trophäen zurückgesetzt.";
+to german "Trophï¿½en zurï¿½ckgesetzt.";
 
 translate "Game Master"
 to german "Gamemaster";
@@ -228,7 +223,7 @@ translate "Accumulate Winners"
 to german "Speichere die Gewinner";
 
 translate "Award Huntsman's Fishing Pole"
-to german "Verleihe eine Jägerangel";
+to german "Verleihe eine Jï¿½gerangel";
 
 translate "Award Nile Deep Fishing Pole"
 to german "Verleihe eine Hochseeangel";
@@ -237,19 +232,16 @@ translate "U1 already got a pole."
 to german "U1(name) hat bereits eine Angel bekommen.";
 
 translate "You are handed a rare and beautiful Huntsman's Fishing Pole."
-to german "Dir wird eine seltene und schöne Jägerangel überreicht.";
+to german "Dir wird eine seltene und schï¿½ne Jï¿½gerangel ï¿½berreicht.";
 
 translate "You are handed an incredibly rare and beautiful Nile Deep Fishing Pole."
-to german "Dir wird eine seltene und schöne Hochseeangel überreicht.";
+to german "Dir wird eine seltene und schï¿½ne Hochseeangel ï¿½berreicht.";
 
 translate "Fishing Event Panel"
 to german "Angelevent Panel";
 
 translate "A fishing contest has been declared! The largest mounted fish (requires the taxidermy skill) of each species wins a Huntsman's Fishing Pole for its owner. The contest ends in K1"
-to german "Ein Angelwettbewerb wurde ausgerufen! Der größte präparierte Fisch (Fertigkeit Tierpräparation) einer jeden Art gewinnt eine Jägerangel für seinen Fänger. Der Wettbewerb endet in K1";
+to german "Ein Angelwettbewerb wurde ausgerufen! Der grï¿½ï¿½te prï¿½parierte Fisch (Fertigkeit Tierprï¿½paration) einer jeden Art gewinnt eine Jï¿½gerangel fï¿½r seinen Fï¿½nger. Der Wettbewerb endet in K1";
 
 translate "A fishing contest has been declared! The largest mounted fish (requires the taxidermy skill) of each species wins a Huntsman's Fishing Pole for its owner. The Largest mounted fish overall wins the incredibly rare Nile Deep Fishing Pole. The contest ends in K1."
-to german "Ein Angelwettbewerb wurde ausgerufen! Der größte präparierte Fisch (Fertigkeit Tierpräparation) jeder Art gewinnt eine Jägerangel für seinen Fänger. Der größte Fisch überhaupt gewinnt eine absolut seltene Hochseeangel. Der Wettbewerb endet in K1.";
-
-translate "Our fishing contest has ended. Pharaoh will announce winners."
-to german "Unser Angelwettbewerb ist beendet. Pharaoh wird nun die Gewinner ermitteln.";
+to german "Ein Angelwettbewerb wurde ausgerufen! Der grï¿½ï¿½te prï¿½parierte Fisch (Fertigkeit Tierprï¿½paration) jeder Art gewinnt eine Jï¿½gerangel fï¿½r seinen Fï¿½nger. Der grï¿½ï¿½te Fisch ï¿½berhaupt gewinnt eine absolut seltene Hochseeangel. Der Wettbewerb endet in K1.";

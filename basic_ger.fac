@@ -25,6 +25,9 @@ Module Basic_Ger;
 // d = Dativ: wem?
 // a = Akkusativ: wen oder was?
 
+// workaround - copy paste heaven - its always UTF-8 to me, we have to talk...
+// ß = �, ä = �, ö = �, ü = �, Ä = �, Ö = �, Ü = �
+
 // Entity masculine, feminine, neuter, masculinecollective, femininecollective, neutercollective;
 
 
@@ -117,20 +120,20 @@ Translate neutercollective to German
   kpn "keine"; kpg "keiner"; kpd "keinen"; kpa "keine";
 }
 
-translate "Cancel"
-to german "Abbruch";
+translate "Cancel" 
+  to german "Abbrechen";
 
 translate "Main"
-to german "Hauptkanal";
+  to german "Hauptkanal"; 
 
 translate "Immigrants"
-to german "Immigranten";
+  to german "Einwandernde";
 
 translate "inventory"
-to german "Inventar";
+  to german "Inventar";
 
 translate "This is your O1"
-to german "O1(^tsn) O1(sn) gehört dir.";
+  to german "O1(^tsn) O1(sn) gehört dir.";
 
 translate "Do you really want to tear down the O1?"
 to german "Willst du O1(^tsn) O1(sn) wirklich abreißen?";
@@ -187,10 +190,10 @@ translate "U1"
 to german "U1(name)";
 
 translate "O1:Nile Green"
-to german "O1(sn): Nilgrün";
+to german "O1(sn): Nilgr�n";
 
 translate "O1:Old Egypt"
-to german "O1(sn): Altägypten";
+to german "O1(sn): Alt�gypten";
 
 translate "Downloading N1kb"
 to german "Lade N1kb";
@@ -203,6 +206,12 @@ to german "Erneuere N1 Dateien";
 
 translate "Processing..."
 to german "Bearbeite...";
+
+// next todo/commit for me
+//translate "To build a O1, you need:"
+//to german "Zum bauen O1(asg) O1(sg), ben�tigst du:\n";
+//translate "Load how much O1?"
+//to german "Wie viel O1(sn) beladen ?";
 
 translate "O1"
 to german "O1(^swa)";

@@ -22,25 +22,25 @@ translate "You are prohibited by law from doing anything related to Mentorship."
 	to german "Es ist dir gesetzlich verboten, irgendetwas bzg. Mentorschaft zu unternehmen.";
 
 translate "Player names appear above player's heads"
-	to german "Spielernamen erscheinen über dem Kopf der Spieler";
+	to german "Spielernamen erscheinen ï¿½ber dem Kopf der Spieler";
 
 translate "When using names-above-head, also show my own"
-	to german "Wenn Namen-über-dem Kopf gewählt ist, zeige auch meinen Namen";
+	to german "Wenn Namen-ï¿½ber-dem Kopf gewï¿½hlt ist, zeige auch meinen Namen";
 
 translate "Use arrow keys for movement (Experimental)"
-	to german "Pfeiltasten für die Fortbewegung nutzen (Im Test)";
+	to german "Pfeiltasten fï¿½r die Fortbewegung nutzen (Im Test)";
 
 translate "Use Flyaway Messages for some things"
-	to german "Fliegende Nachrichten für manche Infos nutzen";
+	to german "Fliegende Nachrichten fï¿½r manche Infos nutzen";
 
 translate "Action icons appear in smaller size"
 	to german "Aktions-Icons verkleinern";
 
 translate "Totally hide the Action Icons"
-	to german "Aktions-Icons verbergen";
+	to german "Verstecke die Aktions-Icons vï¿½llig";
 
 translate "Allow immigrants to join the game at my location"
-	to german "Erlaube Immigranten, an meinem Standort zu starten";
+	to german "Erlaube Einwandernden an meinem Standort zu starten";
 
 translate "Camera moves quite fast"
 	to german "Kamera bewegt sich schnell";
@@ -52,25 +52,25 @@ translate "When I'm stuck, notify me in the chat area"
 	to german "Wenn ich festsitze, melde es im Chattab";
 
 translate "When menu appears, position mouse to left of menu"
-	to german "Wenn ein Menü geöffnet wird, positioniere Maus links davon";
+	to german "Wenn ein Menï¿½ geï¿½ffnet wird, positioniere Maus links davon";
 
 translate "Use invisible highlighting (no flashing effect)"
-	to german "Unsichtbares Markieren (kein Aufleuchten der Gebäude)";
+	to german "Unsichtbares Markieren (kein Aufleuchten der Gebï¿½ude)";
 
 translate "In buddy list, replace Chat button (C) with Tell button (T)"
 	to german "Freundesliste: Tausche \"Chat\" Button (C) gegen \"Tell\" (T) Button";
 
 translate "Use console instead of popups for many messages"
-	to german "Nutze den Hauptchatkanal für die meisten Popups";
+	to german "Nutze den Hauptchatkanal fï¿½r die meisten Popups";
 
 translate "Discard any tadpoles you find when gathering water"
-	to german "Werfe jede Kaulquappe beim Wasserschöpfen weg";
+	to german "Rangiere jede Kaulquappe die du findest beim Wasserschï¿½pfen aus";
 
 translate "Discard any Insects you find"
-	to german "Werfe alle gefundenen Insekten weg";
+	to german "Rangiere jedes Insekt die du findest aus";
 
 translate "Automatically make all planted crops guild-owned"
-	to german "Übertrage automatisch alle gepflanzten Früchte an die Gilde";
+	to german "ï¿½bertrage automatisch alle gepflanzten Frï¿½chte an die Gilde";
 
 translate "Default to MAX for 'How Many?'"
 	to german "Als Standard \"MAX\" statt \"Wieviel?";
@@ -79,37 +79,37 @@ translate "Hide Microphone Callboards when empty."
 	to german "Verberge Mikrofontafel, wenn leer.";
 
 translate "Show guild affiliations in a submenu"
-	to german "Zeige die Gildenzugehörigkeit in einem Untermenü";
+	to german "Zeige die Gildenzugehï¿½rigkeit in einem Untermenï¿½";
 
 translate "Confirm when harvesting grapes?"
-	to german "Ernte von Weintrauben bestätigen?";
+	to german "Ernte von Weintrauben bestï¿½tigen?";
 
 translate "Confirm when using Wings of Horus"
-	to german "Bestätige Nutzung \"Flügel des Horus\"";
+	to german "Bestï¿½tige Nutzung \"Flï¿½gel des Horus\"";
 
 translate "Action icons on right of screen"
 	to german "Aktionicons rechtsseitig des Screens";
 
 translate "Right-Click Pins/Unpins a Menu"
-	to german "Rechtsklick befestigt/löst das Menü";
+	to german "Rechtsklick befestigt/lï¿½st das Menï¿½";
 
 translate "Right-Click opens a Menu as Pinned"
-	to german "Rechtsklick öffnet befestigtes Menü";
+	to german "Rechtsklick ï¿½ffnet befestigtes Menï¿½";
 
 translate "Harvesting grapes"
 	to german "Traubenernte";
 
 translate "Using Wings of Horus"
-	to german "Nutzung der \"Flügel des Horus\"";
+	to german "Nutzung der \"Flï¿½gel des Horus\"";
 
 translate "Hiding the interface"
 	to german "Interface verbergen";
 
 translate "Taking all the contens of many buildings and chests"
-	to german "Entnahme des Inhalts vieler Gebäude und Kisten";
+	to german "Entnahme des Inhalts vieler Gebï¿½ude und Kisten";
 
 translate "Transferring buildings to Guilds"
-	to german "Überschreiben von Gebäuden an Gilden";
+	to german "ï¿½berschreiben von Gebï¿½uden an Gilden";
 
 translate "Move to Right side of the screen"
 	to german "An die rechte Bildschirmseite verschieben";
@@ -124,47 +124,47 @@ translate "Use the chat area instead of popups for many messages"
 	to german "Die meisten Popup-Meldungen in die Chatebene versetzen";
 
 translate "Show warning when taking Dates, Resin and Cactus Sap"
-	to german "Warne beim Pflücken von Datteln, Harz und Kaktussaft";
+	to german "Warne beim Pflï¿½cken von Datteln, Harz und Kaktussaft";
 
 translate "Run in high-priority mode"
-	to german "Hoher Prioritätsmodus";
+	to german "Hoher Prioritï¿½tsmodus";
 
 translate "Run in low-priority mode"
-	to german "Niedriger Prioritätsmodus";
+	to german "Niedriger Prioritï¿½tsmodus";
 
 
 
 
 
 translate "Display popup when hiding interface."
-	to german "Öffne Popup während verborgenem Interface.";
+	to german "ï¿½ffne Popup wï¿½hrend verborgenem Interface.";
 
 translate "Verify taking all the contents of many buildings and chests"
-	to german "Prüfe die Entnahme des Inhalts vieler Gebäude und Kisten";
+	to german "Prï¿½fe die Entnahme des Inhalts vieler Gebï¿½ude und Kisten";
 
 translate "Verify transferring buildings to guilds"
-	to german "Prüfe die Übergabe von Gebäuden an Gilden";
+	to german "Prï¿½fe die ï¿½bergabe von Gebï¿½uden an Gilden";
 
 translate "I'm willing to mentor immigrants right now."
-	to german "Ich kann im Moment Einwanderer unterstützen.";
+	to german "Ich kann im Moment Einwanderer unterstï¿½tzen.";
 
 translate "Show menu items for venery configuration."
-	to german "Zeige Gegenstände für die Schnitzeljagdeinstellung";
+	to german "Zeige Gegenstï¿½nde fï¿½r die Schnitzeljagdeinstellung";
 
 translate "Confirm when adding an item to an Offering Vault."
-	to german "Bestätige das Hinzufügen von Dingen in einen Opfertempel.";
+	to german "Bestï¿½tige das Hinzufï¿½gen von Dingen in einen Opfertempel.";
 
 translate "Hide builder options when not in GMMenu mode"
 	to german "Verstecke Erbaueroptionen, wenn nicht im GM-Modus";
 
 translate "One-Click and Related"
-	to german "1-Klick Einstellungen";
+	to german "Ein-Klick und ï¿½hnliches";
 
-translate "One-Click Options"
-	to german "1-Klick Einstellungen";
+translate "One Click Options"
+	to german "Ein-Klick Optionen";
 
 translate "Fast gather wood from trees"
-	to german "Sammle schneller Holz von Bäumen";
+	to german "Sammle schneller Holz von Bï¿½umen";
 
 translate "Auto-take piles of up to 50 portable items"
 	to german "Nimm automatisch 50 tragbare Objekte aus einem Stapel";
@@ -173,13 +173,13 @@ translate "Make TAB work like the mouse button"
 	to german "Lasse TAB wie Mausklick arbeiten";
 
 translate "Plant all crops where you stand"
-	to german "Pflanze alles Gemüse wo du stehst";
+	to german "Pflanze alles Gemï¿½se wo du stehst";
 
 translate "Enable hotkeys on flax"
-	to german "Nutze Hotkeys für Flachsanbau";
+	to german "Nutze Hotkeys fï¿½r Flachsanbau";
 
 translate "Enable hotkeys on brickracks"
-	to german "Nutze Hotkeys für Ziegelproduktion";
+	to german "Nutze Hotkeys fï¿½r Ziegelproduktion";
 
 translate "Place bonfires where you stand"
 	to german "Baue Freudenfeuer wo du stehst";
@@ -188,13 +188,13 @@ translate "Chat-Related"
 	to german "Chatbezogen";
 
 translate "Chat appears above player's heads"
-	to german "Chat erscheint über dem Avatar";
+	to german "Chat erscheint ï¿½ber dem Avatar";
 
 translate "Chat appears in main channel"
 	to german "Chat erscheint im Hauptchat";
 
 translate "Chat appears above heads"
-	to german "Chat erscheint über den Köpfen";
+	to german "Chat erscheint ï¿½ber den Kï¿½pfen";
 
 translate "Tiny"
 	to german "Winzig";
@@ -206,7 +206,7 @@ translate "Medium"
 	to german "Normal";
 
 translate "Large"
-	to german "Groß";
+	to german "Groï¿½";
 
 translate "Huge"
 	to german "Riesig";
@@ -218,13 +218,13 @@ translate "Remove the borders on chat bubbles"
 	to german "Entferne den Rahmen bei Sprechblasen";
 
 translate "Chat and Inventory can be minimized"
-	to german "Chat und Inventar können minimiert werden";
+	to german "Chat und Inventar kï¿½nnen minimiert werden";
 
 translate "Minimized chat-channels are still visible"
 	to german "Minimierte Chattabs bleiben sichtbar";
 
 translate "Immigrants 'chat channel' is visible"
-	to german "Immigrantenchat sichtbar machen";
+	to german "Einwandernde 'chat Kanal' sichtbar machen";
 
 translate "Use small font in the chat window"
 	to german "Kleine Chatschriftzeichen";
@@ -233,7 +233,7 @@ translate "Use medium font in the chat window"
 	to german "Normale Chatschriftzeichen";
 
 translate "Use large font in the chat window"
-	to german "Große Chatschriftzeichen";
+	to german "Groï¿½e Chatschriftzeichen";
 
 translate "Use huge font in the chat window"
 	to german "Riesige Chatschriftzeichen";
@@ -296,7 +296,7 @@ translate "Left Click does Nothing."
 	to german "Linksklick passiert nichts";
 
 translate "Left Click Opens a Private Chat"
-	to german "Linksklick öffnet einen Privatchat";
+	to german "Linksklick ï¿½ffnet einen Privatchat";
 
 translate "Left Click Sends a /tell"
 	to german "Linksklick schickt einen /tell";
@@ -305,7 +305,7 @@ translate "Left Click shows user info"
 	to german "Linksklick zeigt Spielerinfo";
 
 translate "Immigrants channel is visible"
-	to german "Immigrantenkanal ist sichtbar";
+	to german "Einwandernde-Kanal ist sichtbar";
 
 translate "Usernames"
 	to german "Spielernamen";
@@ -326,7 +326,7 @@ translate "Main Chat:"
 	to german "Hauptchatkanal:";
 
 translate "Font Size:"
-	to german "Schriftgröße:";
+	to german "Schriftgrï¿½ï¿½e:";
 
 translate "Minimize:"
 	to german "Verkleinern:";
@@ -346,9 +346,6 @@ translate "Others:"
 translate "Colors:"
 	to german "Farben:";
 
-translate "Chat appears above player's heads"
-	to german "Chat erscheint über dem Avatar";
-
 translate "Max Chat Windows:"
 	to german "Max. Chatfensteranzahl";
 
@@ -356,16 +353,16 @@ translate "Displayed when AFK:"
 	to german "AFK anzeigen:";
 
 translate "Names appear above players' heads"
-	to german "Namen werden über den Spielerköpfen angezeigt";
+	to german "Namen werden ï¿½ber den Spielerkï¿½pfen angezeigt";
 
 translate "My name appears above my head"
-	to german "Mein Name wird über dem Avatar angezeigt";
+	to german "Mein Name wird ï¿½ber dem Avatar angezeigt";
 
 translate "Position Menus to the right of mouse"
-	to german "Positioniere Menüs rechts neben der Maus";
+	to german "Positioniere Menï¿½s rechts neben der Maus";
 
 translate "Show guild affiliations in a Menu"
-	to german "Zeige Gildenzugehörigkeit in einem Menü";
+	to german "Zeige Gildenzugehï¿½rigkeit in einem Menï¿½";
 
 translate "Normal speed"
 	to german "Normale Geschwindigkeit";
@@ -383,10 +380,10 @@ translate "Camera:"
 	to german "Kamera:";
 
 translate "Menu:"
-	to german "Menü:";
+	to german "Menï¿½:";
 
 translate "Verify When:"
-	to german "Bestätigen:";
+	to german "Bestï¿½tigen:";
 
 translate "Action Icons:"
 	to german "Aktions-Icons:";
@@ -395,25 +392,22 @@ translate "Notifications:"
 	to german "Benachrichtigungen:";
 
 translate "Priority:"
-	to german "Prioritäten:";
+	to german "Prioritï¿½ten:";
 
 translate "Other:"
-	to german "Anderes:";
+	to german "Andere:";
 
 translate "Chat Options"
 	to german "Chateinstellungen";
 
 translate "Use larger font in the chat window"
-	to german "Größere Schrift im Chatfenster benutzen";
+	to german "Grï¿½ï¿½ere Schrift im Chatfenster benutzen";
 
 translate "Use very large chat window"
-	to german "Nutze sehr große Chatfenster";
-
-translate "Totally hide the Action Icons"
-	to german "Verberge Aktions-Icons völlig";
+	to german "Nutze sehr groï¿½e Chatfenster";
 
 translate "Hide Action Icons"
-	to german "Verberge Aktions-Icons";
+	to german "Verstecke Aktions-Icons";
 
 translate "Show Action Icons"
 to german "Zeige Aktions-Icons";
@@ -422,13 +416,13 @@ translate "Chat-Related Options"
 to german "Chat bezogene Optionen";
 
 translate "Change Log channel is visible"
-to german "Zeige Änderungsprotokoll Reiter";
+to german "Zeige ï¿½nderungsprotokoll Reiter";
 
 translate "Confirm before closing a chat tab"
-to german "Bestätige das Schließen von Chat Reiter";
+to german "Bestï¿½tige das Schlieï¿½en von Chat Reiter";
 
 translate "Keep typing in chat after sending a message"
-to german "Nach dem Senden einer Nachricht weiter im Chat schreiben können";
+to german "Nach dem Senden einer Nachricht weiter im Chat schreiben kï¿½nnen";
 
 
 translate "HUD transparency"
@@ -455,42 +449,52 @@ to german "Komplette Aufgaben anzeigen";
 translate "Show minimised tasks"
 to german "Verkleinerte Aufgaben anzeigen";
 
-translate "Show minimised tasks"
-to german "Verkleinerte Aufgaben anzeigen";
-
 translate "Camera Speed"
 to german "Kamera Geschwindigkeit";
 
 --translate "Taking all the contents of many buildings and chests"
---to german "Einnahme aller Inhalte von mehreren Gebäuden und Truhen";
+--to german "Einnahme aller Inhalte von mehreren Gebï¿½uden und Truhen";
 translate "Verify before lighting a bonfire"
-to german "Bestätige das anzünden von Freudenfeuer";
+to german "Bestï¿½tige das anzï¿½nden von Freudenfeuer";
 
 translate "Movement"
 to german "Bewegung";
 
 translate "Use WASD keys for movement - Overrides WASD hotkeys on buildings"
-to german "Benutze WASD Tasten für das bewegen - Überschreibt die WASD Tasten für Gebäude";
+to german "Benutze WASD Tasten fï¿½r das bewegen - ï¿½berschreibt die WASD Tasten fï¿½r Gebï¿½ude";
 translate "Use arrow keys for movement"
-to german "Benutze Pfeiltasten für das bewegen";
+to german "Benutze Pfeiltasten fï¿½r das bewegen";
 translate "Don't use WASD or arrow keys for movement"
-to german "Abschalten der WASD Tasten und Pfeiltasten für das bewegen";
+to german "Abschalten der WASD Tasten und Pfeiltasten fï¿½r das bewegen";
 
-translate "Flyaway Speed" to german "Anzeigegeschwindigkeit für fliegende Nachrichten";
-translate "Flyaway colour" to german "Farbe für fliegende Nachrichten";
-translate "Suppress the flyaway messages, only use console" to german "Unterdrücke fliegende Nachrichten, nur im Hauptkanal anzeigen";
-translate "Suppress the console message for flyaways. Use with caution" to german "Unterdrücke die fliegenden Nachrichten für den Hauptkanal. Nur mit Vorsicht zu benutzen.";
-translate "Hide Action Bar Tool Tips" to german "Tooltips der Aktionsleiste verbergen";
-translate "Automatically go AFK if idle for 10 minutes" to german "Setze dich Automatisch auf AFK wenn du 10 minuten nicht da warst";
-translate "Try to warn me when I'm experiencing lag" to german "Warn mich, wenn ich Lags erlebe";
-translate "Hotkeys are editable" to german "Tasteneinstellungen sind veränderbar";
-translate "Discard any tadpoles you find when gathering water" to german "Kaulquappen beim Wasserschöpfen zurücklassen";
-translate "Drop All Cats, if possible, when logging in" to german "Lass alle Katzen beim einloggen fallen, wenn möglich";
-translate "Show the base yield of Harvests when harvesting" to german "Zeige den Standardwert für das einsammeln beim einsammeln";
-translate "Discard any Insects you find" to german "Verwerfe jedes Insekt was man findet";
-translate "Try to build fragile chests for salvaged materials" to german "Versucht eine Kiste zu bauen für geborgene Materialien";
-translate "Automatically swim when you walk into water" to german "Automatisches schwimmen, wenn man Wasser betritt";
+translate "Flyaway Speed"
+	to german "Anzeigegeschwindigkeit fï¿½r fliegende Nachrichten";
+translate "Flyaway colour"
+	to german "Farbe fï¿½r fliegende Nachrichten";
+translate "Suppress the flyaway messages, only use console"
+	to german "Unterdrï¿½cke fliegende Nachrichten, nur im Hauptkanal anzeigen";
+translate "Suppress the console message for flyaways. Use with caution"
+	to german "Unterdrï¿½cke die fliegenden Nachrichten fï¿½r den Hauptkanal. Nur mit Vorsicht zu benutzen.";
+translate "Hide Action Bar Tool Tips"
+	to german "Tooltips der Aktionsleiste verbergen";
+translate "Automatically go AFK if idle for 10 minutes"
+	to german "Setze dich Automatisch auf AFK wenn du 10 minuten nicht da warst";
+translate "Try to warn me when I'm experiencing lag"
+	to german "Warn mich, wenn ich Lags erlebe";
+translate "Hotkeys are editable"
+	to german "Tasteneinstellungen sind verï¿½nderbar";
+translate "Drop All Cats, if possible, when logging in"
+	to german "Lass alle Katzen beim einloggen fallen, wenn mï¿½glich";
+translate "Show the base yield of Harvests when harvesting"
+	to german "Zeige den Standardwert fï¿½r das einsammeln beim einsammeln";
+translate "Try to build fragile chests for salvaged materials"
+	to german "Versucht eine Kiste zu bauen fï¿½r geborgene Materialien";
+translate "Automatically swim when you walk into water"
+	to german "Automatisches schwimmen, wenn man Wasser betritt";
 
-translate "Allow new players to teleport to me" to german "Erlaube es neuen Spielern sich zu dir zu teleportieren";
-translate "Show menu items for Falcon Roosts" to german "Zeige Menü Gegenstände für Falken Schlafplätze";
-translate "Show Ultimate Challenges Task" to german "Zeige Ultimative Herausforderungsaufgabe";
+translate "Allow new players to teleport to me"
+	to german "Erlaube es neuen Spielern sich zu dir zu teleportieren";
+translate "Show menu items for Falcon Roosts"
+	to german "Zeige Menï¿½ Gegenstï¿½nde fï¿½r Falken Schlafplï¿½tze";
+translate "Show Ultimate Challenges Task"
+	to german "Zeige Ultimative Herausforderungsaufgabe";

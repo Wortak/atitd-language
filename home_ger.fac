@@ -13,16 +13,13 @@ translate "Build a Tent"
 to german "Baue ein Zelt";
 
 translate "To build a Tent, you need: "
-to german "Um ein Zelt zu bauen benötigst du: ";
+to german "Um ein Zelt zu bauen benï¿½tigst du: ";
 
 translate "Homes are special, you may not build more than one. If you wish to move you must first tear down current home, located at N1 N2"
-to german "Häuser sind etwas Besonderes, du darfst nicht mehr als Eines bauen. Solltest du umziehen wollen, musst du zuerst dein bisheriges Zuhause abreißen. Es befindet sich bei N1 N2";
-
-translate "Build a Tent"
-to german "Baue ein Zelt";
+to german "Hï¿½user sind etwas Besonderes, du darfst nicht mehr als Eines bauen. Solltest du umziehen wollen, musst du zuerst dein bisheriges Zuhause abreiï¿½en. Es befindet sich bei N1 N2";
 
 translate "To build a Tent, you need:"
-to german "Um ein Zelt zu bauen benötigst du:";
+to german "Um ein Zelt zu bauen benï¿½tigst du:";
 
 translate "Housing"
 to german "Hausbau";
@@ -31,60 +28,58 @@ translate "Small House"
 to german "Kleines Haus";
 
 translate "Termite-resistant boards for Structure"
-to german "Termitenresistente Bretter für die Struktur";
+to german "Termitenresistente Bretter fï¿½r die Struktur";
 
 translate "Rotproof boards for Structure"
-to german "Moderbeständige Bretter für die Struktur";
+to german "Moderbestï¿½ndige Bretter fï¿½r die Struktur";
 
 translate "Fireproof boards for Structure"
-to german "Feuerfeste Bretter für die Struktur";
+to german "Feuerfeste Bretter fï¿½r die Struktur";
 
 translate "Nails for structure"
-to german "Nägel für die Struktur";
+to german "Nï¿½gel fï¿½r die Struktur";
 
 translate "Oyster Shell Marble for Accents"
-to german "Austernmarmor für Akzente";
+to german "Austernmarmor fï¿½r Akzente";
 
 translate "Linen for Interior"
-to german "Leinen für Innenausbau";
+to german "Leinen fï¿½r Innenausbau";
 
 translate "Rope for Framing"
 to german "Seil als Rahmen";
 
 translate "Concrete for Foundation"
 to german "Beton als Fundament";
-translate "Concrete for Foundataion"
-to german "Beton als Fundament";
 
 translate "Ivory Paint for Interiors"
-to german "Farbe: Elfenbein, für den Innenausbau";
+to german "Farbe: Elfenbein, fï¿½r den Innenausbau";
 
 translate "To build a Small House you need:"
-to german "Um ein Kleines Haus zu bauen benötigst du:";
+to german "Um ein Kleines Haus zu bauen benï¿½tigst du:";
 
 translate "Medium House"
 to german "Mittleres Haus";
 
 translate "Rigid Rotproof Boards for structure"
-to german "Starre, moderbeständige Bretter für die Struktur";
+to german "Starre, moderbestï¿½ndige Bretter fï¿½r die Struktur";
 
 translate "Glossy White Boards for decor"
-to german "Glänzende, weiße Bretter als Dekor";
+to german "Glï¿½nzende, weiï¿½e Bretter als Dekor";
 
 translate "Glossy Blonde Boards for decor"
-to german "Glänzende, helle Bretter als Dekor";
+to german "Glï¿½nzende, helle Bretter als Dekor";
 
 translate "Glossy Black Boards for decor"
-to german "Glänzende, schwarze Bretter als Dekor";
+to german "Glï¿½nzende, schwarze Bretter als Dekor";
 
 translate "White Travertine for foyer"
-to german "Weißer Travertin für das Foyer";
+to german "Weiï¿½er Travertin fï¿½r das Foyer"; // Foyer is german
 
 translate "Canary Granite for accents"
-to german "Kanarischer Granit für Akzente";
+to german "Kanarischer Granit fï¿½r Akzente";
 
 translate "Light Green Paint"
-to german "Farbe: Hellgrün";
+to german "Farbe: Hellgrï¿½n";
 
 translate "Light Blue Paint"
 to german "Farbe: Hellblau";
@@ -93,49 +88,46 @@ translate "Golden Rod Paint"
 to german "Farbe: Goldrute";
 
 translate "To build a Medium House you need:"
-to german "Um ein Mittleres Haus zu bauen benötigst du:";
+to german "Um ein Mittleres Haus zu bauen benï¿½tigst du:";
 
 translate "Large House"
-to german "Großes Haus";
+to german "Groï¿½es Haus";
 
 translate "Rigid Rotproof Boards for upper structure"
-to german "Starre, moderbeständige Bretter für die Dachstruktur";
+to german "Starre, moderbestï¿½ndige Bretter fï¿½r die Dachstruktur";
 
 translate "Rigid Fireproof Boards for living area structure"
-to german "Starre, feuerfeste Bretter für den Wohnbereich";
+to german "Starre, feuerfeste Bretter fï¿½r den Wohnbereich";
 
 translate "Rigid Termite Resistant Boards for lower structure"
-to german "Starre, termitenresistente Bretter für die Bodenstruktur";
+to german "Starre, termitenresistente Bretter fï¿½r die Bodenstruktur";
 
 translate "Hard Glossy White Boards for decor"
-to german "Harte, glänzende, weiße Bretter als Dekor";
+to german "Harte, glï¿½nzende, weiï¿½e Bretter als Dekor";
 
 translate "Hard Glossy Blonde Boards for decor"
-to german "Harte, glänzende, helle Bretter als Dekor";
+to german "Harte, glï¿½nzende, helle Bretter als Dekor";
 
 translate "Hard Glossy Black Boards for decor"
-to german "Harte, glänzende, schwarze Bretter als Dekor";
+to german "Harte, glï¿½nzende, schwarze Bretter als Dekor";
 
 translate "Soft Nontoxic boards for living area finish"
-to german "Weiche, ungiftige Bretter für den Innenausbau des Wohnbereiches";
-
-translate "White Travertine for foyer"
-to german "Weißer Travertin für den Eingangsbereich";
+to german "Weiche, ungiftige Bretter fï¿½r den Innenausbau des Wohnbereiches";
 
 translate "Blue Pearl Marble for trim"
 to german "Blauer Marmor zur Verzierung";
 
 translate "Hornet's Wing Granite for window hilights"
-to german "Hornissenflügelgranit für die Fensterverzierung";
+to german "Hornissenflï¿½gelgranit fï¿½r die Fensterverzierung";
 
 translate "Mountain Marble for hallways"
-to german "Bergmarmor für den Hausflur";
+to german "Bergmarmor fï¿½r den Hausflur";
 
 translate "Island Blue Marble, just to show off"
 to german "Blauer Inselmarmor, nur zum Prahlen";
 
 translate "Chartreuse Paint"
-to german "Farbe: Gelbgrün";
+to german "Farbe: Gelbgrï¿½n";
 
 translate "Aquamarine Paint"
 to german "Farbe: Aquamarin";
@@ -144,7 +136,7 @@ translate "Rosy Brown Paint"
 to german "Farben: Altrosa";
 
 translate "Spring Green Paint"
-to german "Farben: Frühlingsgrün";
+to german "Farben: Frï¿½hlingsgrï¿½n";
 
 translate "Tomato Paint"
 to german "Farben: Tomatenrot";
@@ -162,7 +154,7 @@ translate "Linen Raeli Tiles"
 to german "Farben:Leinenfarben";
 
 translate "Royal Blue Raeli Tiles"
-to german "Raelikacheln: Königsblau";
+to german "Raelikacheln: Kï¿½nigsblau";
 
 translate "Ivory Raeli Tiles"
 to german "Raelikacheln: Elfenbein";
@@ -171,4 +163,4 @@ translate "Black Raeli Tiles"
 to german "Raelikacheln: Schwarz";
 
 translate "To build a Large House you need:"
-to german "Um ein Großes Haus zu bauen benötigst du:";
+to german "Um ein Groï¿½es Haus zu bauen benï¿½tigst du:";

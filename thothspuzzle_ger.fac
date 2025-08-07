@@ -8,15 +8,16 @@ module ThothsPuzzle_ger;
 //**                                                                       **
 //***************************************************************************
 
-translate "The Test of Constellation"
-	to german "Der Test des Sternenbildes";
-
 translate NightSkyTable to german masculine
 {
-swa "Tisch des Nachthimmels";
+	swa "Tisch des Nachthimmels";
 	sn "Tisch des Nachthimmels";
 	pn "Tische des Nachthimmels";
 }
+
+translate "The Test of Constellation"
+to german "Der Test des Sternenbildes";
+
 translate "Constellation"
 	to german "Sternenbild";
 
@@ -24,11 +25,11 @@ translate "Build a Night Sky Table, and create a constellation of stars that is 
 	to german "Baue einen Tisch des Nachthimmels und erstelle ein Sternenbild.";
 
 translate "Make a Clay Lamp (Requires Pottery Skill)"
-	to german "Baue eine Tonlampe (benötigt Töpferei)";
+	to german "Baue eine Tonlampe (benï¿½tigt Tï¿½pferei)";
 translate "Gather Papyrus"
 	to german "Sammle Papyrus";
 translate "Dry Papyrus on a Drying Rack (Requires Flax Processing)"
-	to german "Trockne Papyrus in einem Trockengestell (benötigt Flachsverarbeitung)";
+	to german "Trockne Papyrus in einem Trockengestell (benï¿½tigt Flachsverarbeitung)";
 translate "Gather Clay"
 	to german "Sammle Ton";
 translate "Gather Limestone"
@@ -38,13 +39,13 @@ translate "Spin Twine into Rope"
 translate "Build a Night Sky Table"
 	to german "Baue einen Tisch des Nachthimmels";
 translate "Open the Puzzle for Judging"
-	to german "Öffne das Puzzle zur Bewertung";
+	to german "ï¿½ffne das Puzzle zur Bewertung";
 translate "Tear down your Constellation Table, OR do the following:"
 	to german "Reisse deinen Sternenbildtisch ab ODER tue folgendes:";
 translate "@    Have Seven Judges solve and rate the puzzle"
 	to german "Finde sieben Richter, die das Puzzle bewerten";
 translate "@    Design rated Good by most judges"
-	to german "Die meisten Richter müssen mit 'Gut' abstimmen";
+	to german "Die meisten Richter mï¿½ssen mit 'Gut' abstimmen";
 translate "@All of the above, OR solve three recent winning Constellations"
 	to german "Alles obenstehende, ODER spiele erfolgreich drei bereits frisch abgeschlossene Sternenbilder";
 
@@ -106,10 +107,10 @@ translate "[Extra]Designer: U1"
 	to german "Entwickler: U1(name)";
 
 translate "Reset Constellation"
-	to german "Sternenbild zurücksetzen";
+	to german "Sternenbild zurï¿½cksetzen";
 
 translate "Reset this Puzzle"
-	to german "Puzzle zurücksetzen";
+	to german "Puzzle zurï¿½cksetzen";
 
 translate "Play this Constellation"
 	to german "Spiele dieses Sternenbild";
@@ -121,28 +122,28 @@ translate "You have solved the Constellation! You may now rate the design."
 	to german "Du hast das Sternenbild abgedeckt! Du kannst nun das Design bewerten.";
 
 translate "You may only have 21 pinholes."
-	to german "Du darfst nur 21 Nadellöcher haben.";
+	to german "Du darfst nur 21 Nadellï¿½cher haben.";
 
 translate "Open Judging"
-	to german "Bewertung eröffnen";
+	to german "Bewertung erï¿½ffnen";
 
 translate "A Constellation must have at least one Star, and one Cloud."
 	to german "Ein Sternenbild muss mindestens einen Stern und eine Wolke haben.";
 
 translate "Before opening a Constellation, you must arrange the Clouds to cover all Stars."
-	to german "Bevor du ein Sternenbild freigeben darfst, musst du die Wolken über allen Sternen anordnen.";
+	to german "Bevor du ein Sternenbild freigeben darfst, musst du die Wolken ï¿½ber allen Sternen anordnen.";
 
 translate "Close Judging"
-	to german "Bewertung schließen";
+	to german "Bewertung schlieï¿½en";
 
 translate "Are you sure you want to close this? Doing so will wipe out all judgment points."
-	to german "Bist du sicher, dass du dies schließen möchtest? Du wirst alle Wertungspunkte verlieren.";
+	to german "Bist du sicher, dass du dies schlieï¿½en mï¿½chtest? Du wirst alle Wertungspunkte verlieren.";
 
 translate "Add a Piece"
-	to german "Ein Teil hinzufügen";
+	to german "Ein Teil hinzufï¿½gen";
 
 translate "Only 14 Pieces are allowed."
-	to german "Es sind nur 14 Stück erlaubt.";
+	to german "Es sind nur 14 Stï¿½ck erlaubt.";
 
 
 
@@ -150,17 +151,17 @@ translate "Only 14 Pieces are allowed."
 //to german "Keine Richter haben dein Werk bislang bewertet.";
 
 //translate "To claim rights as an Initiate of Thought, N1 people must judge your creation, and most must rate it at least Good.\n\n"
-//to german "Um Rechte als Eingeweihter der Gedanken einzufordern, müssen N1 Leute dein Werk bewertet haben, die meisten davon mit mindestens Gut.";
+//to german "Um Rechte als Eingeweihter der Gedanken einzufordern, mï¿½ssen N1 Leute dein Werk bewertet haben, die meisten davon mit mindestens Gut.";
 //translate "So far, N1 judges have tended to rate it Poor."
 //to german "Bislang haben N1 Richter auf Schlecht bewertet.";
 //translate "So far, N1 judges have tended to rate it Fair."
-//to german "Bislang haben N1 Richter auf Billig bewertet.";
+//to german "Bislang haben N1 Richter auf Gerecht bewertet.";
 //translate "So far, N1 judges have tended to rate it Good."
 //to german "Bislang haben N1 Richter auf Gut bewertet.";
 //translate "So far, N1 judges have tended to rate it Great."
-//to german "Bislang haben N1 Richter auf Großartig bewertet.";
+//to german "Bislang haben N1 Richter auf Groï¿½artig bewertet.";
 //translate "So far, N1 judges have tended to rate it Exceptional."
-//to german "Bislang haben N1 Richter auf Außergewöhnlich bewertet.";
+//to german "Bislang haben N1 Richter auf Auï¿½ergewï¿½hnlich bewertet.";
 //translate "So far, N1 judges have tended to rate it Brilliant."
 //to german "Bislang haben N1 Richter auf Brilliant bewertet.";
 //translate "So far, N1 judges have tended to rate it Monumental."
@@ -169,7 +170,7 @@ translate "Only 14 Pieces are allowed."
 //to german "Bislang haben N1 Richter auf O1(sn) bewertet.";
 
 //translate "Are you sure you want to close this guide? You can restart it at any time."
-//to german "Bist du sicher, dass du diese Hilfe schließen möchtest? Du kannst sie jederzeit erneut starten.";
+//to german "Bist du sicher, dass du diese Hilfe schlieï¿½en mï¿½chtest? Du kannst sie jederzeit erneut starten.";
 
 //translate "So far: N1"
 //to german "Bislang: N1";
@@ -178,9 +179,9 @@ translate "Only 14 Pieces are allowed."
 //to german "Design wurde mit Gut von den meisten Richtern bewertet";
 
 //translate "Forward"
-//to german "Vorwärts";
+//to german "Vorwï¿½rts";
 //translate "Back"
-//to german "Zurück";
+//to german "Zurï¿½ck";
 //translate "Left"
 //to german "Links";
 //translate "Right"

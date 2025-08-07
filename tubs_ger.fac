@@ -53,7 +53,7 @@ translate "Working on: Steeping"
 	to german "Bearbeitet: Einweichen";
 
 translate "Working on: Steeping Cloth"
-	to german "Bearbeitet: Tücher einweichen";
+	to german "Bearbeitet: Tï¿½cher einweichen";
 
 translate "Working on: Evaporating Water"
 	to german "Bearbeitet: Wasserverdunstung";
@@ -83,28 +83,28 @@ translate "Evaporating Water"
 	to german " Wasserverdunstung";
 
 translate " Nothing"
-	to german " Nicht beschäftigt";
+	to german " Nicht beschï¿½ftigt";
 
 translate "Fill with Water"
-	to german "Mit Wasser befüllen";
+	to german "Mit Wasser befï¿½llen";
 
 translate "Fill Completely with Water"
-	to german "Vollständig mit Wasser befüllen";
+	to german "Vollstï¿½ndig mit Wasser befï¿½llen";
 
 translate "Fill with Sulphurous Water"
-	to german "Schwefelwasser einfüllen";
+	to german "Schwefelwasser einfï¿½llen";
 
 translate "Fill Completely with Sulphurous Water"
-	to german "Vollständig mit Schwefelwasser befüllen";
+	to german "Vollstï¿½ndig mit Schwefelwasser befï¿½llen";
 
 translate "You must empty the Tub before you can add Sulphurous Water."
-	to german "Du musst die Wanne erst leeren, bevor du Schwefelwasser einfüllen kannst.";
+	to german "Du musst die Wanne erst leeren, bevor du Schwefelwasser einfï¿½llen kannst.";
 
 translate "How much Sulphurous Water?"
 to german "Wieviel Schwefelwasser?";
 
 translate "You don't have that much Sulphurous water."
-to german "Du hast nicht soviel Schwefelwasser.";
+	to german "So viel Schwefelwasser hast du nicht.";
 
 translate "How much water?"
 	to german "Wieviel Wasser?";
@@ -113,13 +113,10 @@ translate "You don't have that much water."
 	to german "Du hast nicht soviel Wasser";
 
 translate "You add N1 water to your tub."
-	to german "Du füllst N1 Wasser in deine Wanne.";
-
-translate "You don't have that much Sulphurous water."
-	to german "Du hast nicht soviel Schwefelwasser.";
+	to german "Du fï¿½llst N1 Wasser in deine Wanne.";
 
 translate "You add N1 Sulfurous Water to your tub."
-	to german "Du füllst N1 Schwefelwasser in deine Wanne.";
+	to german "Du fï¿½llst N1 Schwefelwasser in deine Wanne.";
 
 translate "Rot Flax"
 	to german "Rotte Flachs";
@@ -131,7 +128,7 @@ translate "How much Flax?"
 	to german "Wieviel Flachs?";
 
 translate "You must first fill the tub with water."
-	to german "Du musst die Wanne erst mit Wasser befüllen.";
+	to german "Du musst die Wanne erst mit Wasser befï¿½llen.";
 
 translate "You cannot rot both Flax and Dung at the same time."
 	to german "Du kannst nicht gleichzeitig Flachs und Dung verrotten lassen.";
@@ -146,10 +143,10 @@ translate "You don't have that much Flax."
 	to german "Du hast nicht soviel Flachs.";
 
 translate "Load how much Flax? (Max N1)"
-	to german "Wieviel Flachs einfüllen? (Max N1)";
+	to german "Wieviel Flachs einfï¿½llen? (Max N1)";
 
 translate "You add N1 Flax to your tub."
-	to german "Du füllst N1 Flachs in deine Wanne.";
+	to german "Du fï¿½llst N1 Flachs in deine Wanne.";
 
 translate "Rot Dung"
 to german "Rotte Dung";
@@ -161,13 +158,13 @@ translate "How much Dung?"
 	to german "Wieviel Dung?";
 
 translate "Load how much Dung? (Max N1)"
-to german "Wieviel Dung einfüllen? (Max N1)";
+to german "Wieviel Dung einfï¿½llen? (Max N1)";
 
 translate "You don't have that much Dung."
 	to german "Du hast nicht soviel Dung.";
 
 translate "You add N1 Dung to your tub."
-	to german "Du füllst N1 Dung in deine Wanne.";
+	to german "Du fï¿½llst N1 Dung in deine Wanne.";
 
 translate "Make Pulp"
 to german "Stelle Zellstoff her";
@@ -176,19 +173,19 @@ translate "Make Max Pulp"
 	to german "Max Zellstoff herstellen";
 
 translate "How much Sawdust?"
-	to german "Wieviel Sägemehl?";
+	to german "Wieviel Sï¿½gemehl?";
 
 translate "You don't have that much Sawdust."
-	to german "Du hast nicht soviel Sägemehl.";
+	to german "Du hast nicht soviel Sï¿½gemehl.";
 
 translate "You add N1 Sawdust to your tub."
-	to german "Du füllst N1 Sägemehl in deine Wanne.";
+	to german "Du fï¿½llst N1 Sï¿½gemehl in deine Wanne.";
 
 translate "Steep in Clay"
 	to german "In Ton einweichen";
 
 translate "Canvas"
-	to german "Tücher";
+	to german "Tï¿½cher";
 
 translate "Wool Cloth"
 	to german "Wollstoff";
@@ -200,19 +197,19 @@ translate "You don't have:"
 	to german "Dir fehlt:";
 
 translate "Your Clay Steeped Canvas will be done in K1"
-	to german "Deine tondurchtränkten Tücher sind in K1 fertig";
+	to german "Deine tondurchtrï¿½nkten Tï¿½cher sind in K1 fertig";
 
 translate "Steeping"
 	to german "Einweichen";
 
 translate "Your Clay Steeped Canvas is ready"
-	to german "Deine tondurchtränkten Tücher sind fertig.";
+	to german "Deine tondurchtrï¿½nkten Tï¿½cher sind fertig.";
 
 translate "Your Clay Steeped Wool Cloth will be done in K1"
-	to german "Deine tondurchtränkten Wollstoffe sind in K1 fertig";
+	to german "Deine tondurchtrï¿½nkten Wollstoffe sind in K1 fertig";
 
 translate "Your Clay Steeped Wool Cloth is ready"
-	to german "Deine tondurchtränkten Wollstoffe sind fertig.";
+	to german "Deine tondurchtrï¿½nkten Wollstoffe sind fertig.";
 
 translate "Tubs"
 to german "Wannen";
@@ -221,22 +218,22 @@ translate "Build a Basic Tub"
 to german "Baue eine Wanne";
 
 translate "To build a Basic Tub, you need: "
-to german "Um eine Wanne zu bauen, benötigst du: ";
+to german "Um eine Wanne zu bauen, benï¿½tigst du: ";
 
 translate "Build a Sturdy Tub"
 to german "Baue eine stabile Wanne";
 
 translate "To build a Sturdy Tub, you need: "
-to german "Um eine stabile Wanne zu bauen, benötigst du: ";
+to german "Um eine stabile Wanne zu bauen, benï¿½tigst du: ";
 
 translate "Build a Marble tub"
 to german "Baue eine Marmorwanne";
 
 translate "To build a Marble Tub, you need: "
-to german "Um eine Marmorwanne zu bauen, benötigst Du: ";
+to german "Um eine Marmorwanne zu bauen, benï¿½tigst Du: ";
 
 translate "Add Water Tank to Tub"
 	to german "Baue einen Wassertank ein";
 
 translate "To add a water tank, you need:"
-	to german "Um einen Wassertank einzubauen, benötigst du:";
+	to german "Um einen Wassertank einzubauen, benï¿½tigst du:";
