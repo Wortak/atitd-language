@@ -133,10 +133,10 @@ translate "inventory"
   to german "Inventar";
 
 translate "This is your O1"
-  to german "O1(^tsn) O1(sn) gehört dir.";
+to german "O1(^tsn) O1(sn) geh�rt dir.";
 
 translate "Do you really want to tear down the O1?"
-to german "Willst du O1(^tsn) O1(sn) wirklich abreißen?";
+to german "Willst du O1(^tsn) O1(sn) wirklich abrei�en?";
 
 translate "Tear this down by order of the Special Salvage law."
 to german "Rei�e dies aufgrund des speziellen Bergungsgesetzes ab.";
