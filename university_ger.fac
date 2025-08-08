@@ -120,15 +120,15 @@ translate "university"
 	to german "Universität";
 
 translate "You have already learned all you can about O1 from a school of O2. Visit other kinds of schools to expand your knowledge."
-	to german "Du hast bereits alles über O1(sn) von der Schule O2(dsg) O2(sg) gelernt. Besuche andere Schularten, um dein Wissen zu erweitern.";
+	to german "Du hast bereits alles über O1(sn) von der Schule O2(dsn) O2(sn) gelernt. Besuche andere Schularten, um dein Wissen zu erweitern.";
 translate "You have already learned all you can about O1 from a university of O2. Visit other kinds of schools to expand your knowledge."
-	to german "Du hast bereits alles über O1(sn) von der Universität O2(dsg) O2(sg) gelernt. Besuche andere Schularten, um dein Wissen zu erweitern.";
+	to german "Du hast bereits alles über O1(sn) von der Universität O2(dsn) O2(sn) gelernt. Besuche andere Schularten, um dein Wissen zu erweitern.";
 
 translate "To learn O1 from a school of O2, you need:"
-	to german "Um O1(sn) an einer Schule O2(dsg) O2(sg) zu lernen benötigst du:";
+	to german "Um O1(sn) an einer Schule O2(dsn) O2(sn) zu lernen benötigst du:";
 
 translate "To learn O1 from a university of O2, you need:"
-	to german "Um O1(sn) von einer Universität O2(dsg) O2(sg) zu lernen benötigst du:";
+	to german "Um O1(sn) von einer Universität O2(dsn) O2(sn) zu lernen benötigst du:";
 
 translate "Pay Half Price"
 	to german "Zahle den halben Preis";
@@ -171,13 +171,13 @@ translate "Old Level: N1 New Level: N2"
 	to german "Alter Level: N1, Neuer Level: N2";
 
 translate "The Great University of O1"
-	to german "Die große Universität O1(dsg) O1(sg)";
+	to german "Die große Universität O1(dsg) O1(sn)";
 
 translate "The Stranger's University of O1"
-	to german "Des Fremden-Universität O1(dsg) O1(sg)";
+	to german "Des Fremden-Universität O1(dsg) O1(sn)";
 
 translate "The People's School of O1"
-	to german "Die Volksschule O1(dsg) O1(sg)";
+	to german "Die Volksschule O1(dsg) O1(sn)";
 
 translate "Learn"
 	to german "Lerne";
