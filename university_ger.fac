@@ -11,73 +11,68 @@ module university_ger;
 
 translate UThought to german masculine
 {
-	sg "Gedankens";
+	sn "Gedanken"; sg "Gedankens";
 }
 translate UWorship to german feminine
 {
-	sg "Verehrung";
+	sn "Verehrung"; sg "Verehrung";
 }
 translate UTheHumanBody to german masculine
 {
-	sg "menschlichen Körpers";
+	sn "Menschlicher Körper"; sg "Menschlichen Körpers";
 }
 translate UArchitecture to german feminine
 {
-	sg "Architektur";
+	sn "Architektur"; sg "Architektur";
 }
 translate UConflict to german masculine
 {
-	sg "Konflikts";
+	sn "Konflikt"; sg "Konflikts";
 }
 translate UArt to german feminine
 {
-	sg "Kunst & Musik";
+	sn "Kunst & Musik"; sg "Kunst & Musik";
 }
 translate UScienceNature to german feminine
 {
-	sg "Naturphilosophie";
+	sn "Naturphilosophie"; sg "Naturphilosophie";
 }
 translate UProgress to german maskuline
 {
-	sg "Fortschritts";
+	sn "Fortschritt"; sg "Fortschritts";
 }
 translate UTesting to german maskuline
 {
-	sg "Tests";
+	sn "Test"; sg "Tests";
 }
 
 translate SThought to german masculine
 {
-	sg "Gedankens";
+	sn "Gedanken"; sg "Gedankens";
 }
 translate SWorship to german feminine
 {
-	sg "Verehrung";
+	sn "Verehrung"; sg "Verehrung";
 }
 translate STheHumanBody to german masculine
 {
-	sg "menschlichen Körpers";
+	sn "Menschlicher Körper"; sg "Menschlichen Körpers";
 }
 translate SArchitecture to german feminine
 {
-	sg "Architektur";
+	sn "Architektur"; sg "Architektur";
 }
 translate SConflict to german masculine
 {
-	sg "Konflikts";
+	sn "Konflikt"; sg "Konflikts";
 }
 translate SArt to german feminine
 {
-	sg "Kunst & Musik";
+	sn "Kunst & Musik"; sg "Kunst & Musik";
 }
 translate SScienceNature to german feminine
 {
-	sg "Naturphilosophie";
-}
-
-translate "University of O1" to german
-{
-	"Universität O1(dsg) O1(sg)";
+	sn "Naturphilosophie"; sg "Naturphilosophie";
 }
 
 translate UProgressConstruction to german feminine
@@ -92,7 +87,7 @@ translate "You must be a citizen to learn that skill."
 	to german "Du musst ein Bürger sein, um diese Fertigkeit erlernen zu können.";
 
 translate "Mentors cannot learn skills on Welcoming Island."
-	to german "Mentoren können keinen Fertigkeiten auf der Begrüßungsinsel erlernen.";
+	to german "Mentoren können keinen Fertigkeiten auf der Willkommensinsel erlernen.";
 
 translate "Before you can learn O1 you must learn:\n"
 	to german "Bevor du O1(sn) erlernen kannst, musst du dies lernen:";
