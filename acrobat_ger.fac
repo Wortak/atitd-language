@@ -198,7 +198,7 @@ translate "Although you don't pick anything up, U1 seems to be a great teacher f
 	to german "Auch wenn du nichts lernst, scheint U1(name) ein gro�artiger Lehrer f�r dich zu sein (gt). Komme h�ufig zur�ck.";
 
 translate "Although you don't pick anything up, U1 seems to be a pretty good teacher for you. You should return."
-	to german "Auch wenn du nichts lernst, scheint U1(name) ein recht guter Lehrer f�r dich zu sein (gt). Du solltest wieder kommen.";
+	to german "Auch wenn du nichts lernst, scheint U1(name) ein recht guter Lehrer f�r dich zu sein (pgt). Du solltest wieder kommen.";
 
 translate "You are having trouble following what you are seeing. Learn from U1 as a last resort."
 	to german "Du hast Probleme zu verfolgen, was du siehst. Lerne von U1(name) als letzte M�glichkeit (lr).";
