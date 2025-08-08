@@ -11,32 +11,32 @@ module Citrus_ger;
 
 translate Perfuming to german feminine
 {
-swa "Parfümherstellung";
-sn "Parfümherstellung"; pn "Parfümherstellung";
+swa "Parfï¿½mherstellung";
+sn "Parfï¿½mherstellung"; pn "Parfï¿½mherstellung";
 }
 translate IndonesianBeeCare to german feminine
 {
-  swa "Indonesische Bienenzucht";
-  sn "Indonesische Bienenzucht"; sg "Indonesischen Bienenzucht"; sd "Indonesische Bienenzucht"; sa "Indonesische Bienenzucht";
-  pn "Indonesische Bienenzuchten"; pg "Indonesische Bienenzuchten"; pd "Indonesische Bienenzuchten"; pa "Indonesische Bienenzuchten";
+  swa "Indonesische Bienenpflege";
+  sn "Indonesische Bienenpflege"; sg "Indonesischen Bienenpflege"; sd "Indonesische Bienenpflege"; sa "Indonesische Bienenpflege";
+  pn "Indonesische Bienenpflegen"; pg "Indonesische Bienenpflegen"; pd "Indonesische Bienenpflegen"; pa "Indonesische Bienenpflegen";
 }
 translate IndonesianBeeHive to german masculine
 {
   swa "Indonesischer Bienenstock";
   sn "Indonesische Bienenstock"; sg "Indonesischen Bienenstocks"; sd "Indonesischer Bienenstock"; sa "Indonesischer Bienenstock";
-  pn "Indonesische Bienenstöcke"; pg "Indonesischen Bienenstöcken"; pd "Indonesischen Bienenstöcken"; pa "Indonesischen Bienenstöcke";
+  pn "Indonesische Bienenstï¿½cke"; pg "Indonesischen Bienenstï¿½cken"; pd "Indonesischen Bienenstï¿½cken"; pa "Indonesischen Bienenstï¿½cke";
 }
 translate SimplePerfume to german neuter
 {
-  swa "Schlichtes Parfüm";
-  sn "Schlichtes Parfüm"; sg "Schlichtes Parfüm"; sd "Schlichtes Parfüm"; sa "Schlichtes Parfüm";
-  pn "Schlichtes Parfüm"; pg "Schlichtes Parfüm"; pd "Schlichtes Parfüm"; pa "Schlichtes Parfüm";
+  swa "Schlichtes Parfï¿½m";
+  sn "Schlichtes Parfï¿½m"; sg "Schlichtes Parfï¿½m"; sd "Schlichtes Parfï¿½m"; sa "Schlichtes Parfï¿½m";
+  pn "Schlichtes Parfï¿½m"; pg "Schlichtes Parfï¿½m"; pd "Schlichtes Parfï¿½m"; pa "Schlichtes Parfï¿½m";
 }
 translate CitrusTree to german masculine
 {
   swa "Zitrusbaum";
   sn "Zitrusbaum"; sg "Zitrusbaums"; sd "Zitrusbaum"; sa "Zitrusbaum";
-  pn "Zitrusbäume"; pg "Zitrusbäume"; pd "Zitrusbäumen"; pa "Zitrusbäume";
+  pn "Zitrusbï¿½ume"; pg "Zitrusbï¿½ume"; pd "Zitrusbï¿½umen"; pa "Zitrusbï¿½ume";
 }
 translate AromaticHoney to german masculine
 {
@@ -60,13 +60,13 @@ translate CVCoralfruit to german femininecollective
 {
   swa "Korallenfrucht";
   sn "Korallenfrucht"; sg "Korallenfrucht"; sd "Korallenfrucht"; sa "Korallenfrucht";
-  pn "Korallenfrüchte"; pg "Korallenfrüchte"; pd "Korallenfrüchten"; pa "Korallenfrüchte";
+  pn "Korallenfrï¿½chte"; pg "Korallenfrï¿½chte"; pd "Korallenfrï¿½chten"; pa "Korallenfrï¿½chte";
 }
 translate CVCorian to german femininecollective
 {
   swa "Korianfrucht";
   sn "Korianfrucht"; sg "Korianfrucht"; sd "Korianfrucht"; sa "Korianfrucht";
-  pn "Korianfrüchte"; pg "Korianfrüchte"; pd "Korianfrüchten"; pa "Korianfrüchte";
+  pn "Korianfrï¿½chte"; pg "Korianfrï¿½chte"; pd "Korianfrï¿½chten"; pa "Korianfrï¿½chte";
 }
 translate CVGrapefruit to german femininecollective
 {
@@ -84,7 +84,7 @@ translate CVLenat to german femininecollective
 {
   swa "Lenatfrucht";
   sn "Lenatfrucht"; sg "Lenatfrucht"; sd "Lenatfrucht"; sa "Lenatfrucht";
-  pn "Lenatfrüchte"; pg "Lenatfrüchte"; pd "Lenatfrüchten"; pa "Lenatfrüchte";
+  pn "Lenatfrï¿½chte"; pg "Lenatfrï¿½chte"; pd "Lenatfrï¿½chten"; pa "Lenatfrï¿½chte";
 }
 translate CVLime to german femininecollective
 {
@@ -130,21 +130,21 @@ translate CVTangerine to german femininecollective
 }
 translate CASweet to german feminine
 {
-  swa "Süß";
-  sn "Süße"; sg "Süßen"; sd "Süße"; sa "Süße";
-  pn "Süßen"; pg "Süßen"; pd "Süßen"; pa "Süßen";
+  swa "Sï¿½ï¿½";
+  sn "Sï¿½ï¿½e"; sg "Sï¿½ï¿½en"; sd "Sï¿½ï¿½e"; sa "Sï¿½ï¿½e";
+  pn "Sï¿½ï¿½en"; pg "Sï¿½ï¿½en"; pd "Sï¿½ï¿½en"; pa "Sï¿½ï¿½en";
 }
 translate CATangy to german feminine
 {
-  swa "Würzig";
-  sn "Würzige"; sg "Würzigen"; sd "Würzige"; sa "Würzige";
-  pn "Würzigen"; pg "Würzigen"; pd "Würzigen"; pa "Würzigen";
+  swa "Wï¿½rzig";
+  sn "Wï¿½rzige"; sg "Wï¿½rzigen"; sd "Wï¿½rzige"; sa "Wï¿½rzige";
+  pn "Wï¿½rzigen"; pg "Wï¿½rzigen"; pd "Wï¿½rzigen"; pa "Wï¿½rzigen";
 }
 translate CALarge to german neuter
 {
-  swa "Große";
-  sn "Große"; sg "Großen"; sd "Große"; sa "Große";
-  pn "Großen"; pg "Großen"; pd "Großen"; pa "Großen";
+  swa "Groï¿½e";
+  sn "Groï¿½e"; sg "Groï¿½en"; sd "Groï¿½e"; sa "Groï¿½e";
+  pn "Groï¿½en"; pg "Groï¿½en"; pd "Groï¿½en"; pa "Groï¿½en";
 }
 translate CASmall to german neuter
 {
@@ -166,92 +166,92 @@ translate CAFlat to german feminine
 }
 translate CAReddish to german feminine
 {
-  swa "Rötliche";
-  sn "Rötliche"; sg "Rötlichen"; sd "Rötliche"; sa "Rötliche";
-  pn "Rötlichen"; pg "Rötlichen"; pd "Rötlichen"; pa "Rötlichen";
+  swa "Rï¿½tliche";
+  sn "Rï¿½tliche"; sg "Rï¿½tlichen"; sd "Rï¿½tliche"; sa "Rï¿½tliche";
+  pn "Rï¿½tlichen"; pg "Rï¿½tlichen"; pd "Rï¿½tlichen"; pa "Rï¿½tlichen";
 }
 translate CAGreenish to german feminine
 {
-  swa "Grünliche";
-  sn "Grünliche"; sg "Grünlichen"; sd "Grünliche"; sa "Grünliche";
-  pn "Grünlichen"; pg "Grünlichen"; pd "Grünlichen"; pa "Grünlichen";
+  swa "Grï¿½nliche";
+  sn "Grï¿½nliche"; sg "Grï¿½nlichen"; sd "Grï¿½nliche"; sa "Grï¿½nliche";
+  pn "Grï¿½nlichen"; pg "Grï¿½nlichen"; pd "Grï¿½nlichen"; pa "Grï¿½nlichen";
 }
 translate Simpleperfume to german neutercollective
 {
-  swa "Schlichtes Parfüm";
-  sn "Schlichte Parfüm"; sg "Schlichten Parfüms"; sd "Schlichten Parfüm"; sa "Schlichte Parfüm";
-  pn "Schlichten Parfüms"; pg "Schlichten Parfüms"; pd "Schlichten Parfüms"; pa "Schlichten Parfüms";
+  swa "Schlichtes Parfï¿½m";
+  sn "Schlichte Parfï¿½m"; sg "Schlichten Parfï¿½ms"; sd "Schlichten Parfï¿½m"; sa "Schlichte Parfï¿½m";
+  pn "Schlichten Parfï¿½ms"; pg "Schlichten Parfï¿½ms"; pd "Schlichten Parfï¿½ms"; pa "Schlichten Parfï¿½ms";
 }
 
 translate "Perfuming"
-to german "Parfümherstellung";
+to german "Parfï¿½mherstellung";
 
 translate "Simple Perfume"
 to german "Schlichtes Parfum";
 
 translate "IndonesianBeeCare (Completed)"
-to german "Indonesische Bienenzucht (Komplett)";
+to german "Indonesische Bienenpflege (Komplett)";
 
 translate "Perfuming (Completed)"
-to german "Parfümherstellung (Komplett)";
+to german "Parfï¿½mherstellung (Komplett)";
 
 translate "Indonesian Bee Care (Completed)"
-to german "Indonesische Bienenzucht (Komplett)";
+to german "Indonesische Bienenpflege (Komplett)";
 
 translate "IndonesianBeeCare"
-to german "Indonesische Bienenzucht";
+to german "Indonesische Bienenpflege";
 
 translate "color:"
 to german "Farbe:";
 translate "Sweet:"
-to german "Süße:";
+to german "Sï¿½ï¿½e:";
 translate "Size:"
-to german "Größe:";
+to german "Grï¿½ï¿½e:";
 translate "Length:"
-to german "Länge:";
+to german "Lï¿½nge:";
 
 translate "Citrus"
 to german "Zitrus";
 
 
 //translate "Indonesian Bees are hard to care for, we can only train people in this skill if they have already demonstrated skill in handling other kinds of insects.  One way to demonstrate this skill is to successfully raise and exhibit a beetle."
-//to german "Indonesische Bienen sind schwer zu züchten. Wir können nur Bewohner unterrichten, die bereits Fähigkeiten im Umgang mit anderen Insekten gezeigt haben. Eine Möglichkeit die Fähigkeiten zu demonstrieren ist, erfolgreich einen Käfer zu züchten und auszustellen.";
+//to german "Indonesische Bienen sind schwer zu zï¿½chten. Wir kï¿½nnen nur Bewohner unterrichten, die bereits Fï¿½higkeiten im Umgang mit anderen Insekten gezeigt haben. Eine Mï¿½glichkeit die Fï¿½higkeiten zu demonstrieren ist, erfolgreich einen Kï¿½fer zu zï¿½chten und auszustellen.";
 
 translate "You have learned the skill of Indonesian Bee care.  Note that these bees are symbiotic with"
-to german "Du hast die Fähigkeit Indonesische Bienenzucht erlernt. Denke daran, dass diese Bienen in";
+to german "Du hast die Fï¿½higkeit Indonesische Bienenpflege erlernt. Denke daran, dass diese Bienen in";
 
 translate "Citrus trees: where Indonesian Bees go, citrus trees will soon be found."
-to german "Symbiose mit Zitronenbäumen leben: Wo indonesische Bienen hingehen, wird man auch bald Zitrusbäume finden.";
+to german "Symbiose mit Zitronenbï¿½umen leben: Wo Indonesische Bienen hingehen, wird man auch bald Zitrusbï¿½ume finden.";
 
 translate "Indonesian Bee Hive"
-to german "Indonesisches Bienenhaus";
+to german "Indonesischer Bienenstock";
 
 translate "To build an Indonesian Bee Hive, you need:"
-to german "Um ein Indonesisches Bienenhaus zu bauen benötigst du:";
+to german "Um ein Indonesischen Bienenstock zu bauen benï¿½tigst du:";
 
 translate "Wake up the Bees"
 to german "Wecke die Bienen auf";
 
 translate "The tree has N1 fruit."
-to german "Der Baum hat N1 Früchte.";
+to german "Der Baum hat N1 Frï¿½chte.";
 
 translate "Gather the Fruit"
-to german "Ernte die Früchte";
+to german "Ernte die Frï¿½chte";
 
 translate "The tree is growing."
-to german "Der Baum wächst.";
+to german "Der Baum wï¿½chst.";
 
 translate "The fruit was taken."
-to german "Die Früchte wurden geerntet.";
+to german "Die Frï¿½chte wurden geerntet.";
 
 translate "Without bees to keep it healthy, the tree was sick.  You tear it out."
-to german "Ohne Bienen, die die Gesundheit des Baumes erhalten, wurde dieser krank. Du reißt ihn aus.";
+to german "Ohne Bienen, die die Gesundheit des Baumes erhalten, wurde dieser krank. Du reiï¿½t ihn aus.";
 
 translate "Cut Down and Mulch"
 to german "Herunterschneiden und Mulchen";
 
 translate "Are you sure you wish to cut down and mulch this tree?"
-to german "Bist du sicher, dass du den Baum herunterschneiden und mulchen möchtest?";
+to german "Bist du sicher, dass du den Baum herunterschneiden und mulchen mï¿½chtest?";
 
 translate "The bees have made N1 honey."
 to german "Die Bienen haben N1 Honig erzeugt.";
@@ -269,83 +269,83 @@ translate "The honey was taken."
 to german "Der Honig wurde geerntet.";
 
 translate "You do not have the skill of Indonesian Bee Care"
-to german "Du hast die Fähigkeit der Indonesischen Bienenzucht nicht";
+to german "Du hast die Fï¿½higkeit der Indonesischen Bienenpflege nicht";
 
 translate "Permission for Harvest"
 to german "Ernteerlaubnis";
 
 translate "The bees produced bland, ordinary honey.  To get aromatic honey, the bees must be close to two species of citrus tree."
-to german "Die Bienen erzeugten faden, gewöhnlichen Honig. Um aromatischen Honig zu erhalten, müssen die Bienen nahe zweier Arten von Zitrusbäumen sein.";
+to german "Die Bienen erzeugten faden, gewï¿½hnlichen Honig. Um aromatischen Honig zu erhalten, mï¿½ssen die Bienen nahe zweier Arten von Zitrusbï¿½umen sein.";
 
 translate "Color:"
 to german "Farbe:";
 
 translate "Sweet:"
-to german "Süße:";
+to german "Sï¿½ï¿½e:";
 
 translate "Size:"
 to german "Umfang:";
 
 translate "Length:"
-to german "Größe:";
+to german "Grï¿½ï¿½e:";
 
 
 translate "O1 is not a valid citrus attribute"
-to german "O1(swa) ist keine gültige Zitruseigenschaft";
+to german "O1(swa) ist keine gï¿½ltige Zitruseigenschaft";
 
 translate "O1 is not a valid citrus variety"
-to german "O1(sn) ist keine gültige Zitronenvariante";
+to german "O1(sn) ist keine gï¿½ltige Zitronenvariante";
 
 translate "Making simple perfume from the extract of Citrus peels"
-to german "Herstellung Schlichten Parfüms aus Extrakten der Zitrusfruchtschalen";
+to german "Herstellung Schlichten Parfï¿½ms aus Extrakten der Zitrusfruchtschalen";
 
 translate "Sweet lemons"
-to german "Süße Limonen";
+to german "Sï¿½ï¿½e Limonen";
 translate "Large limes"
-to german "Große Limetten";
+to german "Groï¿½e Limetten";
 translate "Tangy mandarins"
 to german "Scharfe Mandarinen";
 translate "Small coralfruit"
 to german "Kleine Korallenfrucht";
 translate "Sweet tangelo"
-to german "Süße Tangelos";
+to german "Sï¿½ï¿½e Tangelos";
 translate "Large tangerines"
-to german "Große Tangerinen";
+to german "Groï¿½e Tangerinen";
 translate "Long corians"
-to german "Lange Korianfrüchte";
+to german "Lange Korianfrï¿½chte";
 translate "Sweet pummelo"
-to german "Süße Pomelos";
+to german "Sï¿½ï¿½e Pomelos";
 
 translate "You learn the art of Perfuming. You can now make simple perfumes. All you need is a kitchen and some citrus fruit."
-to german "Du lernst die Kunst der Parfümherstellung. Du kannst nun Schlichte Parfüms herstellen. Alles was du braucht ist eine Küche und einige Zitrusfrüchte.";
+to german "Du lernst die Kunst der Parfï¿½mherstellung. Du kannst nun Schlichte Parfï¿½ms herstellen. Alles was du braucht ist eine Kï¿½che und einige Zitrusfrï¿½chte.";
 
 translate "Recipe"
 to german "Rezept";
 
 translate "Choose a citrus fruit (You will need 10):"
-to german "Wähle eine Zitrusfrucht (Du brauchst 10):";
+to german "Wï¿½hle eine Zitrusfrucht (Du brauchst 10):";
 
 translate "You need to choose a citrus fruit."
-to german "Du musst eine Zitrusfrucht auswählen";
+to german "Du musst eine Zitrusfrucht auswï¿½hlen";
 
 translate "You do not have ten of them."
 to german "Du hast keine 10 davon.";
 
 translate "The perfume will be ready in 10 minutes. Note: simple perfume only lasts 5 minutes. You will need to study more advanced perfumes for longer-term effect."
-to german "Das Parfüm wird in 10 Minuten fertig sein. Denke daran: Schlichtes Parfüm hält nur 5 Minuten. Du musst bessere Parfüms erforschen, um längere Effekte zu erzielen.";
+to german "Das Parfï¿½m wird in 10 Minuten fertig sein. Denke daran: Schlichtes Parfï¿½m hï¿½lt nur 5 Minuten. Du musst bessere Parfï¿½ms erforschen, um lï¿½ngere Effekte zu erzielen.";
 
 translate "Perfume"
-to german "Parfüm";
+to german "Parfï¿½m";
 
 translate "Simple Perfume of O1"
-to german "Schlichtes Parfüm aus O1(pn)";
+to german "Schlichtes Parfï¿½m aus O1(pn)";
 
 translate "You will be scented for the next 5 minutes."
-to german "Du duftest für die nächsten 5 Minuten.";
+to german "Du duftest fï¿½r die nï¿½chsten 5 Minuten.";
 
 translate "You do not have any O1:K1\k"
 to german "Du hast O1(kpn) O1(pn): K1";
 
 translate "You will be scented for the next 5 minutes."
-to german "Du wirst für die nächsten 5 Minuten duften.";
+to german "Du wirst fï¿½r die nï¿½chsten 5 Minuten duften.";
 

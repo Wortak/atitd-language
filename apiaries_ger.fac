@@ -7,30 +7,14 @@ module Apiaries_ger;
 //**    (C)opyright 2002,2003,2004,2005 by MDO Entertainment	           **
 //**                                                                       **
 //***************************************************************************
-//menues
-
-translate "Apiary"
-to german "Bienenstock";
-
-translate "Projects/Apiary"
-to german "Projekte/Landwirtschaft/Bienenstock";
-
-translate "eGenesis Check this Apiary"
-to german "MDO-Überprüfung des Bienenstockes";
-
-//Josh: This doesn't work:
-translate "Last checked about N1 ago."
-to german "Letzte Prüfung vor N1.";
 
 //objects
-
 translate Honey to german masculinecollective
 {
   swa "Honig"; 
   sn "Honig"; sg "Honigs"; sd "Honig"; sa "Honig";
   pn "Honig"; pg "Honig"; pd "Honig"; pa "Honig";
 }
-
 translate Boards to german neuter
 {
   swa "Brett";
@@ -43,57 +27,76 @@ translate Beeswax to german neutercollective
   sn "Bienenwachs"; sg "Bienenwachses"; sd "Bienenwachs"; sa "Bienenwachs";
   pn "Bienenwachs"; pg "Bienenwachs"; pd "Bienenwachs"; pa "Bienenwachs";
 }
-translate Apiary to german masculine
+translate Apiary to german neuter
 {
-  swa "Bienenstock";
-  sn "Bienenstock"; sg "Bienenstockes"; sd "Bienenstock"; sn "Bienenstock";
-  pn "Bienenstöcke"; pg "Bienenstöcke"; pd "Bienenstöcken"; pa "Bienenstöcke";
+  swa "Bienenhaus";
+  sn "Bienenhaus"; sg "Bienenhauses"; sd "Bienenhaus"; sn "Bienenhaus";
+  pn "Bienenhï¿½user"; pg "Bienenhï¿½user"; pd "Bienenhï¿½usern"; pa "Bienenhï¿½user";
 } 
 
-//texts
-
-translate "To build an Apiary you need:"
-to german "Um einen Bienenstock zu bauen benötigst Du:";
+// very variable
 translate "N1 O1"
-to german "N1 O1(N1?pn:sn)";
+  to german "N1 O1(N1?pn:sn)";
 
-translate "Check this Apiary for a Queen"
-to german "Den Bienenstock nach einer Königin untersuchen";
 
-translate "Checking the hive..."
-to german "Überprüfung des Bienenstockes...";
+//menues
+translate "Apiary"
+  to german "Bienenhaus";
 
-translate "A queen bee has started to build a hive in this apiary."
-to german "Eine Königin hat begonnen, ein Bienenvolk im Bienenstock zu anzusiedeln.";
+translate "Projects/Apiary"
+  to german "Projekte/Landwirtschaft/Bienenhaus";
 
-translate "No signs of a queen bee. "
-to german "Keine Bienenkönigin gefunden. ";
-
-translate "A queen bee would have started to build a hive in this apiary with chance N1. N2 N3"
-to german "Eine Bienenkönigin würde mit einer Chance von N1. N2 N3 ein Bienenvolk im Bienenstock ansiedeln";
-
-translate "Check this Apiary for bees, wax and honey."
-to german "Überprüfe den Bienenstock nach Bienen, Wachs und Honig.";
-
-//checking the hive was translated above at line 26 in apiary.fac
-
-translate "speed"
-to german "Schnelligkeit";
- 
-translate "Due to your quick Speed checking, no bees escaped."
-to german "Da Du schnell nachgeschaut hast, sind keine Bienen geflüchtet.";
-
-translate "The apiary had approximately N1 bees which have produced N2 wax and N3 honey. About half the bees escaped when you checked."
-to german "Der Bienenstock hat ungefähr N1 Bienen, die N2 Wachs und N3 Honig produziert haben. Die Hälfte der Bienen flüchtete, während Du nachgeschaut hast.";
-
-translate "The apiary had approximately N1 bees which have produced N2 wax and N3 honey. Due to your quick Speed checking, no bees escaped."
-to german "Der Bienenstock hat ungefähr N1 Bienen, die N2 Wachs und N3 Honig produziert haben. Während Deinem schnellen Nachschauen sind keine Bienen geflüchtet.";
-
-translate "Inject the hive with Essential Extract"
-to german "Injiziere dem Bienenhaus speziellen Extrakt.";
-
-translate "For the next 12 hours, the hive will produce 3x the normal amount of wax, but no honey."
-to german "Für die nächsten 12 Stunden wird der Bienenstock eine 3x höhere Menge an Wachs produzieren, aber keinen Honig.";
+translate "eGenesis Check this Apiary"
+  to german "MDO-ï¿½berprï¿½fung des Bienenhauses";
 
 translate "Last checked about K1 ago."
-to german "Das letzte Mal vor K1 geprüft.";
+  to german "Zuletzt geprï¿½ft vor etwa K1";
+
+translate "Check this Beehive for a Queen"
+  to german "Prï¿½fe diesen Bienenstock auf eine Kï¿½nigin";
+translate "Check this Apiary for a Queen"
+  to german "Prï¿½fe dieses Bienenhaus auf eine Kï¿½nigin";
+
+//checking the hive was translated above at line 26 in apiary.fac
+translate "Check this Apiary for bees, wax and honey."
+  to german "Prï¿½fe dieses Bienenhaus auf Bienen, Wachs und Honig.";
+translate "Check this Beehive for bees, wax and honey"
+  to german "Prï¿½fe diesen Bienenstock auf Bienen, Wachs und Honig";
+
+translate "Inject the hive with Essential Extract"
+  to german "Injiziere dem Bienenstock essentielles Extrakt.";
+
+
+//texts
+translate "Checking the hive..."
+  to german "Prï¿½fung des Bienenhauses...";
+
+translate "A queen bee has started to build a hive in this apiary."
+  to german "Eine Bienenkï¿½nigin hat begonnen einen Bienenstock in diesem Bienenhaus zu bauen.";
+// its wrong here - wiederspruch - beehive to beehive
+translate "A queen bee has started to build a hive in this beehive."
+  to german "Eine Bienenkï¿½nigin hat begonnen einen Bienenstock in diesem Bienenstock zu bauen.";
+
+translate "No signs of a queen bee. "
+  to german "Keine Anzeichen einer Bienenkï¿½nigin. ";
+
+translate "A queen bee would have started to build a hive in this apiary with chance N1. N2 N3"
+  to german "Eine Bienenkï¿½nigin hï¿½tte begonnen ein Bienenstock in diesem Bienenhaus zu bauen mit einer Chance von N1. N2 N3";
+
+translate "Due to your quick Speed checking, no bees escaped."
+  to german "Wegen deiner hohen Geschwindigkeit beim nachsehen, sind keine Bienen entkommen."; // skill dependent
+translate "The apiary had approximately N1 bees which have produced N2 wax and N3 honey. About half the bees escaped when you checked."
+  to german "Das Bienenhaus hat etwa N1 Bienen die N2 Wachs und N3 Honig produziert haben. Etwa die Hï¿½lfte der Bienen entkam als du nachgesehen hast.";
+translate "The apiary had approximately N1 bees which have produced N2 wax and N3 honey. Due to your quick Speed checking, no bees escaped."
+  to german "Der Bienenhaus hat etwa N1 Bienen, die N2 Wachs und N3 Honig produziert haben. Wegen deiner hohen Geschwindigkeit beim nachsehen, sind keine Bienen entkommen.";
+
+translate "For the next 12 hours, the hive will produce 3x the normal amount of wax, but no honey."
+  to german "Fï¿½r die nï¿½chsten 12 Stunden, wird der Bienenstock 3x mehr als normal an Wachs produzieren, aber keinen Honig.";
+
+// popup
+translate "To build an Apiary you need:"
+  to german "Um einen Bienenhaus zu bauen benï¿½tigst Du:";
+
+// no relation...
+translate "speed"
+  to german "Geschwindigkeit";
